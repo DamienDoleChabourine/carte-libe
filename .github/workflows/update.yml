@@ -1,0 +1,42 @@
+name: Collecte Libération
+
+on:
+  schedule:
+    # toutes les 2 heures (la purge des +62 jours est faite à chaque passage,
+    # donc pas besoin d'un job dédié au 1er du mois)
+    - cron: "17 */2 * * *"
+  workflow_dispatch: {}   # bouton "Run workflow" pour lancer à la main
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collecte
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install requests
+
+      - name: Collecter les articles
+        run: python collect.py
+
+      - name: Committer les données si elles ont changé
+        run: |
+          git config user.name  "carte-libe-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m "maj données $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "Rien de nouveau."
+          fi
