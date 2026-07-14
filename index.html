@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Libé sur le terrain — articles abonnés géolocalisés</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.min.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;600&family=Archivo+Black&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#1a1a1a; --paper:#faf9f6; --libe:#e2001a;
+    --steel:#55606b; --line:#e4e2dc; --wash:#f1efe9;
+  }
+  *{box-sizing:border-box; margin:0}
+  html,body{height:100%}
+  body{
+    font-family:"Archivo",system-ui,sans-serif; color:var(--ink);
+    background:var(--paper); display:flex;
+  }
+  /* ------------------------------------------------ panneau */
+  #panel{
+    width:370px; min-width:370px; height:100vh; overflow-y:auto;
+    border-right:1px solid var(--line); background:var(--paper);
+    display:flex; flex-direction:column;
+  }
+  header{padding:20px 20px 14px; border-bottom:3px solid var(--ink)}
+  .masthead{
+    font-family:"Archivo Black",sans-serif; font-size:26px; line-height:1.02;
+    transform:skewX(-6deg); letter-spacing:-.5px;
+  }
+  .masthead em{font-style:normal; color:var(--libe)}
+  .standfirst{margin-top:8px; font-size:13px; color:var(--steel); line-height:1.45}
+  .counts{
+    display:flex; gap:14px; padding:12px 20px; border-bottom:1px solid var(--line);
+    font-size:12.5px; color:var(--steel);
+  }
+  .counts b{
+    font-family:"Archivo Black",sans-serif; font-size:19px; color:var(--ink);
+    display:block; transform:skewX(-6deg);
+  }
+  /* accès rapide territoires */
+  .jump{display:flex; flex-wrap:wrap; gap:6px; padding:12px 20px;
+        border-bottom:1px solid var(--line)}
+  .jump button{
+    font:600 12px "Archivo",sans-serif; color:var(--ink); background:var(--wash);
+    border:1px solid var(--line); border-radius:999px; padding:5px 11px;
+    cursor:pointer;
+  }
+  .jump button:hover{border-color:var(--ink)}
+  .jump button:focus-visible{outline:2px solid var(--libe); outline-offset:2px}
+  /* liste des coupures */
+  #list{flex:1}
+  .clip{
+    display:block; padding:13px 20px; border-bottom:1px solid var(--line);
+    text-decoration:none; color:inherit; cursor:pointer;
+  }
+  .clip:hover, .clip.active{background:var(--wash)}
+  .clip:focus-visible{outline:2px solid var(--libe); outline-offset:-2px}
+  .kicker{
+    font:700 11px "Archivo",sans-serif; text-transform:uppercase;
+    letter-spacing:.06em; color:var(--libe);
+  }
+  .kicker span{color:var(--steel); font-weight:600; text-transform:none;
+               letter-spacing:0}
+  .clip h3{font-size:14.5px; line-height:1.32; margin-top:3px; font-weight:600}
+  .clip p{font-size:12.5px; color:var(--steel); line-height:1.4; margin-top:4px;
+          display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical;
+          overflow:hidden}
+  #empty{padding:34px 24px; font-size:13.5px; color:var(--steel); line-height:1.55}
+  #empty b{color:var(--ink)}
+  footer{padding:12px 20px; font-size:11px; color:var(--steel);
+         border-top:1px solid var(--line)}
+  footer a{color:var(--steel)}
+  /* ------------------------------------------------ carte */
+  #map{flex:1; height:100vh}
+  .dot{
+    width:14px; height:14px; border-radius:50%; background:var(--libe);
+    border:2px solid #fff; box-shadow:0 1px 4px rgba(0,0,0,.35);
+  }
+  .dot.hl{transform:scale(1.6); background:var(--ink)}
+  .cluster{
+    background:var(--libe); color:#fff; border:2px solid #fff;
+    border-radius:50%; display:flex; align-items:center; justify-content:center;
+    font-family:"Archivo Black",sans-serif; font-size:13px;
+    box-shadow:0 1px 5px rgba(0,0,0,.35); transform:skewX(-6deg);
+  }
+  .leaflet-popup-content{font-family:"Archivo",sans-serif; margin:12px 14px}
+  .leaflet-popup-content .kicker{display:block}
+  .leaflet-popup-content h3{font-size:14px; line-height:1.3; margin:3px 0 6px}
+  .leaflet-popup-content a{color:var(--libe); font-weight:600; font-size:12.5px}
+  @media (prefers-reduced-motion: reduce){ *{transition:none!important} }
+  @media (max-width:760px){
+    body{flex-direction:column}
+    #map{height:52vh; order:-1}
+    #panel{width:100%; min-width:0; height:auto; flex:1;
+           border-right:none; border-top:1px solid var(--line)}
+  }
+</style>
+</head>
+<body>
+
+<aside id="panel">
+  <header>
+    <div class="masthead">LIBÉ <em>SUR LE TERRAIN</em></div>
+    <p class="standfirst">Les articles réservés aux abonnés de
+      <i>Libération</i> localisés en France — métropole et outre-mer —
+      sur les deux derniers mois. Le lieu figure dans les tags, le titre
+      ou le chapô. Mise à jour automatique.</p>
+  </header>
+
+  <div class="counts">
+    <div><b id="n-total">–</b>articles</div>
+    <div><b id="n-places">–</b>lieux</div>
+    <div><b id="n-om">–</b>outre-mer</div>
+  </div>
+
+  <nav class="jump" aria-label="Aller à un territoire">
+    <button data-v="46.6,2.4,6">Métropole</button>
+    <button data-v="16.1,-61.4,8">Antilles</button>
+    <button data-v="4.5,-53.0,7">Guyane</button>
+    <button data-v="-17.5,50.3,6">Réunion · Mayotte</button>
+    <button data-v="-19.5,-192.0,4">Pacifique</button>
+  </nav>
+
+  <div id="list" role="list"></div>
+  <div id="empty" hidden>
+    <b>Aucun article pour l'instant.</b><br><br>
+    La carte se remplit à chaque passage du collecteur (toutes les deux
+    heures via GitHub Actions). Les flux RSS n'exposant que les articles
+    récents, la fenêtre de deux mois se constitue progressivement à
+    partir de la première exécution.
+  </div>
+
+  <footer>
+    Données : flux RSS publics de liberation.fr · fonds de carte
+    © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>
+    / CARTO · seuls titre, chapô, date et lien sont conservés.
+  </footer>
+</aside>
+
+<div id="map"></div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
+<script>
+const OUTREMER = new Set(["Guadeloupe","Martinique","Guyane","La Réunion",
+  "Mayotte","Nouvelle-Calédonie","Polynésie française","Wallis-et-Futuna",
+  "Saint-Pierre-et-Miquelon","Saint-Martin","Saint-Barthélemy"]);
+// lieux d'outre-mer approximés par longitude/latitude si la catégorie ne suffit pas
+const isOM = a => OUTREMER.has(a.place) || a.lat < 30 || a.lon < -20 || a.lon > 40;
+
+const map = L.map("map", {zoomControl:true}).setView([46.6, 2.4], 6);
+L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
+  attribution:'© OpenStreetMap, © CARTO', maxZoom:18
+}).addTo(map);
+
+const cluster = L.markerClusterGroup({
+  maxClusterRadius:42, showCoverageOnHover:false,
+  iconCreateFunction: c => L.divIcon({
+    html:`<div class="cluster" style="width:100%;height:100%">${c.getChildCount()}</div>`,
+    className:"", iconSize:[34,34]
+  })
+});
+map.addLayer(cluster);
+
+const fmt = iso => new Date(iso).toLocaleDateString("fr-FR",
+  {day:"numeric", month:"long"});
+const esc = s => s.replace(/[&<>"]/g,
+  c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+// petit décalage déterministe pour les articles partageant un même lieu
+function jitter(a){
+  let h = 0; for (const ch of a.id) h = (h*31 + ch.charCodeAt(0)) >>> 0;
+  const r = 0.012, t = (h % 360) * Math.PI/180, k = ((h>>>9) % 100)/100;
+  return [a.lat + Math.cos(t)*r*k, a.lon + Math.sin(t)*r*k];
+}
+
+fetch("data/articles.json").then(r => r.ok ? r.json() : [])
+ .catch(() => [])
+ .then(arts => {
+  const list = document.getElementById("list");
+  document.getElementById("n-total").textContent = arts.length;
+  document.getElementById("n-places").textContent =
+    new Set(arts.map(a => a.place)).size;
+  document.getElementById("n-om").textContent = arts.filter(isOM).length;
+
+  if (!arts.length){
+    document.getElementById("empty").hidden = false;
+    return;
+  }
+  const markers = {};
+  for (const a of arts){
+    const m = L.marker(jitter(a), {
+      icon: L.divIcon({html:'<div class="dot"></div>', className:"",
+                       iconSize:[14,14], iconAnchor:[7,7]})
+    }).bindPopup(
+      `<span class="kicker">${esc(a.place)}
+         <span>· ${fmt(a.date)}</span></span>
+       <h3>${esc(a.title)}</h3>
+       <a href="${esc(a.url)}" target="_blank" rel="noopener">
+         Lire sur liberation.fr →</a>`);
+    cluster.addLayer(m);
+    markers[a.id] = m;
+
+    const el = document.createElement("a");
+    el.className = "clip"; el.role = "listitem"; el.tabIndex = 0;
+    el.innerHTML =
+      `<span class="kicker">${esc(a.place)}
+         <span>· ${fmt(a.date)} · lieu repéré dans ${esc(a.matched_in)}</span>
+       </span>
+       <h3>${esc(a.title)}</h3>
+       ${a.subtitle ? `<p>${esc(a.subtitle)}</p>` : ""}`;
+    const go = () => {
+      document.querySelectorAll(".clip.active")
+        .forEach(x => x.classList.remove("active"));
+      el.classList.add("active");
+      const ll = m.getLatLng();
+      map.flyTo(ll, Math.max(map.getZoom(), 10), {duration:.6});
+      cluster.zoomToShowLayer(m, () => m.openPopup());
+    };
+    el.addEventListener("click", go);
+    el.addEventListener("keydown", e => {
+      if (e.key === "Enter" || e.key === " "){ e.preventDefault(); go(); }
+    });
+    list.appendChild(el);
+  }
+});
+
+document.querySelectorAll(".jump button").forEach(b =>
+  b.addEventListener("click", () => {
+    const [lat, lon, z] = b.dataset.v.split(",").map(Number);
+    map.flyTo([lat, lon], z, {duration:.8});
+  }));
+</script>
+</body>
+</html>
