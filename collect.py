@@ -65,7 +65,7 @@ TAG_FEEDS = [
 WINDOW_DAYS = 62          # fenêtre glissante ≈ 2 mois
 REQUEST_TIMEOUT = 20
 USER_AGENT = ("CarteLibeFrance/1.0 (projet personnel de veille cartographique ; "
-              "contact : remplacez-par-votre-email@example.com)")
+              "contact : d.dole@liberation.fr)")
 NOMINATIM = "https://nominatim.openstreetmap.org/search"
 # fr couvre métropole + DROM ; les COM du Pacifique ont leurs codes ISO
 COUNTRY_CODES = "fr,re,gp,mq,gf,yt,pm,nc,pf,wf,bl,mf"
