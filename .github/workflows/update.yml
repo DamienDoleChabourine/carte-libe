@@ -27,8 +27,8 @@ jobs:
       - run: pip install requests
 
       - name: Collecter les articles
-        run: python collect.py
-
+        run: python collect.py --debug
+           
       - name: Committer les données si elles ont changé
         run: |
           git config user.name  "carte-libe-bot"
