@@ -1,1 +1,28 @@
-[]
+[
+ {
+  "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
+  "id": "969c34015d68",
+  "title": "70°C sur un toboggan, 24°C sous les arbres : en pleine canicule, Paris passe l’épreuve de la caméra thermique",
+  "subtitle": "En parcourant les rues de la capitale avec un capteur de températures, l’association Greenpeace alerte sur l’inadaptation de la capitale aux fortes chaleurs et sur les risques encourus par les habitants, notamment les enfants.",
+  "date": "2026-07-11T06:23:00+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/economie/la-fonderie-de-bretagne-a-nouveau-placee-en-redressement-judiciaire-20260703_BPM3ABIEFVBMPEQ6ILAFK32FW4/",
+  "id": "bfee55f562bf",
+  "title": "La Fonderie de Bretagne à nouveau placée en redressement judiciaire",
+  "subtitle": "Ancienne filiale de Renault, l’entreprise spécialisée dans les pièces en fonte avait déjà été sauvée de la faillite en étant reprise par le groupe Europlasma en avril 2025.",
+  "date": "2026-07-03T09:50:41+00:00",
+  "place": "Bretagne",
+  "place_cat": "region",
+  "matched_in": "titre",
+  "lat": 48.2640845,
+  "lon": -2.9202408,
+  "premium": true
+ }
+]
