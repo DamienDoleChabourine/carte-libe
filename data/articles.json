@@ -50,5 +50,31 @@
   "lat": 48.2640845,
   "lon": -2.9202408,
   "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/assassinat-de-dominique-bernard-vers-un-proces-important-pour-comprendre-le-chemin-de-la-fanatisation-20260626_DEQPLCNDHNF7XL6TF5NKTIKC2E/",
+  "id": "dd05edc79542",
+  "title": "Assassinat de Dominique Bernard : vers un procès «important» pour comprendre le «chemin de la fanatisation»",
+  "subtitle": "Fait rare dans les affaires terroristes, l’auteur des coups mortels contre l’enseignant d’Arras est toujours vivant et parait en position de s’exprimer à son procès, que le parquet national antiterroriste a demandé mardi 23 juin.",
+  "date": "2026-06-26T08:21:38+00:00",
+  "place": "Arras",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 50.291048,
+  "lon": 2.7772211,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/culture/scenes/le-theatre-national-de-nice-renonce-a-la-lecture-dune-piece-sur-les-attentats-du-14-juillet-a-la-demande-de-victimes-20260619_OW3AEXYRZNB35HL2FDMSN2XTJE/",
+  "id": "98ec2e8a6b8a",
+  "title": "Le Théâtre national de Nice renonce à la lecture d’une pièce sur les attentats du 14 juillet à la demande de victimes",
+  "subtitle": "Le texte, écrit à partir des notes d’audience de l’avocate Olivia Chalus-Penochet, devait évoquer le sort de plus de 200 victimes. Les organisateurs ont annoncé mercredi 17 juin faire une croix sur sa représentation publique.",
+  "date": "2026-06-19T15:19:23+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
+  "premium": true
  }
 ]
