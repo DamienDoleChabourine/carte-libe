@@ -26,5 +26,9 @@
  "Grenoble, France": {
   "lat": 45.1875602,
   "lon": 5.7357819
+ },
+ "Nouvelle-Calédonie": {
+  "lat": -21.3019905,
+  "lon": 165.4880773
  }
 }
