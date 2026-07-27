@@ -1,5 +1,31 @@
 [
  {
+  "url": "https://www.liberation.fr/culture/arts/festival-normandie-impressionniste-fleurs-sur-la-ville-20260724_54UKRP7365HMHGCXB7NDXMZO7M/",
+  "id": "2f757fa43935",
+  "title": "Festival Normandie impressionniste : fleurs sur la ville",
+  "subtitle": "Nénuphars en Légo, peintures fauvistes, sculptures sonores… Les œuvres bucoliques du festival d’art contemporain essaiment jusqu’à fin septembre dans toute la région. «Libé» en a sélectionné cinq.",
+  "date": "2026-07-24T12:42:00+00:00",
+  "place": "Normandie",
+  "place_cat": "region",
+  "matched_in": "titre",
+  "lat": 49.0677708,
+  "lon": 0.3138532,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/les-gens-ici-subissent-plus-violemment-lepisode-de-chaleur-en-banlieue-de-toulouse-la-caravane-insoumise-discute-canicule-20260721_J6BWOMWMUVE2HM4FMGXYMT5IYU/",
+  "id": "7043b0b20307",
+  "title": "«Les gens ici subissent plus violemment l’épisode de chaleur» : en banlieue de Toulouse, la caravane insoumise discute canicule",
+  "subtitle": "Pour la dixième année d’affilée, LFI profite de l’été pour aller à la rencontre des habitants des quartiers populaires pour les convaincre de voter. Le parti était lundi 20 juillet dans la capitale occitane, très touchée par les récentes vagues de chaleur.",
+  "date": "2026-07-21T13:56:32+00:00",
+  "place": "Toulouse",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.6044638,
+  "lon": 1.4442433,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/ces-methodes-naident-en-rien-les-palestiniens-la-france-insoumise-critiquee-apres-linterruption-du-concert-de-barbara-butch-20260720_7D4I3R5GU5GOHJCYEV26AHLDVM/",
   "id": "125351494bbd",
   "title": "«Ces méthodes n’aident en rien les Palestiniens» : La France insoumise critiquée après l’interruption du concert de Barbara Butch",
@@ -23,6 +49,19 @@
   "matched_in": "titre",
   "lat": 48.8534951,
   "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/narcotrafic-une-centaine-dinterpellations-a-grenoble-lors-doperations-coordonnees-20260710_NJ4JOTI6DRB6VKXPANU57ZHVIA/",
+  "id": "96deb08940db",
+  "title": "Narcotrafic : une «centaine d’interpellations» à Grenoble lors d’opérations coordonnées",
+  "subtitle": "Sept quartiers différents connus pour abriter des points de deal ont été concernés par les opérations en l’espace de quatre jours dans l’agglomération, théâtre depuis fin 2025 d’une guerre de territoires entre trafiquants de drogues.",
+  "date": "2026-07-10T06:33:56+00:00",
+  "place": "Grenoble",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.1875602,
+  "lon": 5.7357819,
   "premium": true
  },
  {
@@ -101,6 +140,32 @@
   "matched_in": "chapô",
   "lat": -21.3019905,
   "lon": 165.4880773,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/tribunal-cest-les-noirs-qui-piquent-la-justice-reconnait-le-contexte-raciste-dune-agression-dans-laude-20260617_GYCPLXZJEZHADP7RTHCLLMRAL4/",
+  "id": "2471afa456e2",
+  "title": "«C’est les noirs qui piquent» : la justice reconnaît le contexte raciste d’une agression dans l’Aude",
+  "subtitle": "Dans un arrêt rendu lundi, la cour d’appel de Montpellier a infirmé un jugement de première instance à propos d’une phrase lancée par un des auteurs du tabassage de deux hommes originaires de la Guadeloupe et de Mayotte lors d’une fête de village en 2022.",
+  "date": "2026-06-17T17:11:21+00:00",
+  "place": "Montpellier",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.6112422,
+  "lon": 3.8767337,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/a-cause-deric-ciotti-nice-perd-les-jo-dhiver-2030-mais-gagne-peut-etre-une-prison-20260601_UU5WK63IWRD6JNHONIRVCFVODQ/",
+  "id": "a9dbe60a2348",
+  "title": "A cause d’Eric Ciotti, Nice perd les JO d’hiver 2030 mais gagne peut-être une prison",
+  "subtitle": "Après la décision vendredi 29 mai du comité d’organisation olympique de déplacer les épreuves prévues en 2030 dans la ville azuréenne à Lyon, le maire d’extrême droite a beau dénoncer une injustice, sa ville s’épargne une absurdité écologique qui s’ajouterait aux décisions démago",
+  "date": "2026-06-01T14:00:48+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
   "premium": true
  }
 ]

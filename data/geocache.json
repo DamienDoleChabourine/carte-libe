@@ -30,5 +30,17 @@
  "Nouvelle-Calédonie": {
   "lat": -21.3019905,
   "lon": 165.4880773
+ },
+ "Normandie, France": {
+  "lat": 49.0677708,
+  "lon": 0.3138532
+ },
+ "Toulouse, France": {
+  "lat": 43.6044638,
+  "lon": 1.4442433
+ },
+ "Montpellier, France": {
+  "lat": 43.6112422,
+  "lon": 3.8767337
  }
 }
