@@ -39,6 +39,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/politique/une-mairie-du-finistere-accusee-de-nettoyage-social-apres-avoir-supprime-un-bus-entre-quimper-et-la-mer-20260724_D5CT5QBSLRGPTL6A3K4NLVNHVE/",
+  "id": "4fd9f75dc3b4",
+  "title": "Une mairie du Finistère accusée de «nettoyage social» après avoir supprimé un bus entre Quimper et la mer",
+  "subtitle": "En pleine canicule, la suppression de plusieurs arrêts d’une ligne en direction de la commune littorale de Fouesnant, justifiée par des «incivilités», alimente une vive polémique.",
+  "date": "2026-07-24T09:26:47+00:00",
+  "place": "Finistère",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 48.2451153,
+  "lon": -4.0440902,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/les-gens-ici-subissent-plus-violemment-lepisode-de-chaleur-en-banlieue-de-toulouse-la-caravane-insoumise-discute-canicule-20260721_J6BWOMWMUVE2HM4FMGXYMT5IYU/",
   "id": "7043b0b20307",
   "title": "«Les gens ici subissent plus violemment l’épisode de chaleur» : en banlieue de Toulouse, la caravane insoumise discute canicule",
