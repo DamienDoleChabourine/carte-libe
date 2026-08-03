@@ -156,6 +156,32 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/chlordecone-huit-adultes-sur-dix-contamines-en-guadeloupe-et-en-martinique-20260624_W6CO6FPIW5BD7BQ2SSTEE5GJ4U/",
+  "id": "259e8734637f",
+  "title": "Chlordécone : huit adultes sur dix contaminés en Guadeloupe et en Martinique",
+  "subtitle": "Une nouvelle étude de Santé publique France révèle l’ampleur de la contamination au perturbateur endocrinien, qui a empoisonné les Antilles jusqu’en 1993.",
+  "date": "2026-06-24T11:09:34+00:00",
+  "place": "Guadeloupe",
+  "place_cat": "territoire",
+  "matched_in": "titre",
+  "lat": 16.2528827,
+  "lon": -61.5686855,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/pollution/scandale-du-chlordecone-la-justice-refuse-la-reouverture-de-lenquete-20260622_D6Z3VOVBIRDXVLVNOODCFM4KSM/",
+  "id": "e26716230f07",
+  "title": "Scandale du chlordécone : la justice refuse la réouverture de l’enquête",
+  "subtitle": "La cour d’appel de Paris a confirmé ce lundi 22 juin le non-lieu prononcé en 2023, en première instance, dans l’affaire de ce pesticide massivement utilisé à la Martinique et en Guadeloupe jusqu’en 1993, malgré les connaissances sur sa toxicité.",
+  "date": "2026-06-22T14:21:36+00:00",
+  "place": "Guadeloupe",
+  "place_cat": "territoire",
+  "matched_in": "chapô",
+  "lat": 16.2528827,
+  "lon": -61.5686855,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/culture/scenes/le-theatre-national-de-nice-renonce-a-la-lecture-dune-piece-sur-les-attentats-du-14-juillet-a-la-demande-de-victimes-20260619_OW3AEXYRZNB35HL2FDMSN2XTJE/",
   "id": "98ec2e8a6b8a",
   "title": "Le Théâtre national de Nice renonce à la lecture d’une pièce sur les attentats du 14 juillet à la demande de victimes",
@@ -205,6 +231,19 @@
   "matched_in": "titre",
   "lat": -21.1309332,
   "lon": 55.5265771,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/moins-de-keufs-plus-de-teufs-plusieurs-milliers-de-manifestants-a-rennes-en-defense-des-free-parties-20260606_NPMLPVU2ORHNVPDUBC75D2Z6FI/",
+  "id": "26bf130eccc9",
+  "title": "«Moins de keufs, plus de teufs» : plusieurs milliers de manifestants à Rennes en défense des free parties",
+  "subtitle": "Plusieurs milliers de personnes ont manifesté ce samedi 6 juin à Rennes pour défendre les fêtes libres, menacées par des textes à l’étude au Parlement proposant de durcir les peines encourues.",
+  "date": "2026-06-06T16:48:31+00:00",
+  "place": "Rennes",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.1113387,
+  "lon": -1.6800198,
   "premium": true
  }
 ]
