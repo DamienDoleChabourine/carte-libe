@@ -58,5 +58,25 @@
  "Rennes, France": {
   "lat": 48.1113387,
   "lon": -1.6800198
+ },
+ "Corse, France": {
+  "lat": 42.188098,
+  "lon": 9.0683139
+ },
+ "Gironde, France": {
+  "lat": 44.8839021,
+  "lon": -0.6046439
+ },
+ "Mont-de-Marsan, France": {
+  "lat": 43.8911318,
+  "lon": -0.500972
+ },
+ "Lille, France": {
+  "lat": 50.6365654,
+  "lon": 3.0635282
+ },
+ "Concarneau, France": {
+  "lat": 47.8757017,
+  "lon": -3.9223889
  }
 }
