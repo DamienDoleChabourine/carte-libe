@@ -401,18 +401,5 @@
   "lat": -21.1309332,
   "lon": 55.5265771,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/moins-de-keufs-plus-de-teufs-plusieurs-milliers-de-manifestants-a-rennes-en-defense-des-free-parties-20260606_NPMLPVU2ORHNVPDUBC75D2Z6FI/",
-  "id": "26bf130eccc9",
-  "title": "«Moins de keufs, plus de teufs» : plusieurs milliers de manifestants à Rennes en défense des free parties",
-  "subtitle": "Plusieurs milliers de personnes ont manifesté ce samedi 6 juin à Rennes pour défendre les fêtes libres, menacées par des textes à l’étude au Parlement proposant de durcir les peines encourues.",
-  "date": "2026-06-06T16:48:31+00:00",
-  "place": "Rennes",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.1113387,
-  "lon": -1.6800198,
-  "premium": true
  }
 ]
