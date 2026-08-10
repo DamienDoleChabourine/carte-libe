@@ -91,6 +91,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/sante/fleau-des-injections-esthetiques-illegales-il-y-a-deja-eu-deux-morts-en-france-et-il-y-en-aura-dautres-20260730_RLWOTDU3KVC3RGQK7EPLMRGUME/",
+  "id": "961ff36a66a6",
+  "title": "Fléau des injections esthétiques illégales : «Il y a déjà eu deux morts en France et il y en aura d’autres»",
+  "subtitle": "Après le décès lundi d’une personne ayant reçu une piqûre d’anesthésiant, deux femmes ont été placées en détention provisoire, et un homme sous contrôle judiciaire, a annoncé le procureur de Nice ce jeudi 30 juillet. Il s’agit de la deuxième victime en quelques mois ce cette prat",
+  "date": "2026-07-30T15:28:01+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/economie/transports/incendie-en-gironde-pas-de-tgv-vers-le-sud-de-bordeaux-hormis-toulouse-jusquau-dimanche-2-aout-inclus-20260729_YXFKJJRUOZC3NAUNWIUJACTL3Q/",
   "id": "8cceaa3db22b",
   "title": "Incendie en Gironde : pas de TGV vers le sud de Bordeaux, hormis Toulouse, jusqu’au dimanche 2 août inclus",
@@ -127,6 +140,19 @@
   "matched_in": "chapô",
   "lat": 50.6365654,
   "lon": 3.0635282,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/on-se-retrouve-coinces-dans-les-bouchons-la-nuit-denfer-pour-les-evacues-qui-fuient-lincendie-en-gironde-20260725_72F3AMAVUVC3NNXLQNSYI26FRY/",
+  "id": "9009625ad22e",
+  "title": "«On se retrouve coincés dans les bouchons» : la nuit d’enfer pour les évacués qui fuient l’incendie en Gironde",
+  "subtitle": "Poussés ce vendredi 24 juillet à fuir les flammes, des milliers d’habitants d’Andernos-les-Bains ont été coincés sur les routes pendant plusieurs heures à la nuit tombée.",
+  "date": "2026-07-25T05:56:35+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
   "premium": true
  },
  {
@@ -400,6 +426,19 @@
   "matched_in": "titre",
   "lat": -21.1309332,
   "lon": 55.5265771,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/culture/ils-sont-en-train-de-tout-casser-a-saint-nazaire-habitants-et-elus-se-mobilisent-contre-la-fermeture-du-centre-dart-contemporain-20260614_HJZM3YSQVRHDFIAGJIXXTZDE7Q/",
+  "id": "502b330fd4ef",
+  "title": "«Ils sont en train de tout casser» : à Saint-Nazaire, les habitants se mobilisent contre la fermeture du centre d’art contemporain",
+  "subtitle": "Sur fond de coupes budgétaires drastiques de la région, un rassemblement a eu lieu vendredi 12 juin pour dénoncer la «réorientation» annoncée du Grand Café. L’établissement, ouvert depuis trente ans, est un pilier de la vie culturelle locale.",
+  "date": "2026-06-14T13:17:41+00:00",
+  "place": "Saint-Nazaire",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 47.2733517,
+  "lon": -2.2138905,
   "premium": true
  }
 ]
