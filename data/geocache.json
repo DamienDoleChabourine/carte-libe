@@ -82,5 +82,29 @@
  "Saint-Nazaire, France": {
   "lat": 47.2733517,
   "lon": -2.2138905
+ },
+ "Yvelines, France": {
+  "lat": 48.7620374,
+  "lon": 1.8871376
+ },
+ "Nouvelle-Aquitaine, France": {
+  "lat": 45.4039367,
+  "lon": 0.3756199
+ },
+ "Dordogne, France": {
+  "lat": 45.1429199,
+  "lon": 0.6321258
+ },
+ "Saint-Brieuc, France": {
+  "lat": 48.5141134,
+  "lon": -2.7603283
+ },
+ "Auvergne-Rhône-Alpes, France": {
+  "lat": 45.2968119,
+  "lon": 4.6604809
+ },
+ "Nantes, France": {
+  "lat": 47.2186371,
+  "lon": -1.5541362
  }
 }

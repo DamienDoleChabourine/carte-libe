@@ -1,5 +1,70 @@
 [
  {
+  "url": "https://www.liberation.fr/environnement/animaux/cochons-decomposes-enquete-ouverte-contre-un-elevage-porcin-des-cotes-darmor-lun-des-pires-cas-dabandon-documente-par-l214-20260810_XVKCMHRU2BASBA6GZJKFV4WMRI/",
+  "id": "d6ab05f94d48",
+  "title": "Cochons décomposés : enquête ouverte contre un élevage porcin des Côtes-d’Armor, «l’un des pires cas d’abandon documenté par L214»",
+  "subtitle": "Le parquet de Saint-Brieuc a ouvert une enquête après que l’association de défense des animaux a filmé dans un élevage breton lié à la coopérative Eureden des «images difficilement soutenables» montrant «plus de 300 cadavres de cochons».",
+  "date": "2026-08-10T17:44:29+00:00",
+  "place": "Saint-Brieuc",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.5141134,
+  "lon": -2.7603283,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/un-educateur-de-gym-dans-les-yvelines-mis-en-examen-pour-agressions-et-harcelement-sexuels-sur-mineures-20260807_IDKE3VN55BAHVKLB5EK7O5I4FY/",
+  "id": "412f77ecb703",
+  "title": "Un éducateur de gym dans les Yvelines mis en examen pour agressions et harcèlement sexuels sur mineures",
+  "subtitle": "C’est à la suite d’un témoignage en mars d’une des anciennes élèves de l’éducateur sportif à la gendarmerie de Septeuil, village dans l’ouest des Yvelines, qu’une enquête a été ouverte. Âgée de 13 ans, elle a relaté des caresses sur les parties intimes à plusieurs reprises lors d",
+  "date": "2026-08-07T15:13:05+00:00",
+  "place": "Yvelines",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 48.7620374,
+  "lon": 1.8871376,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/nice-matin-deplore-lagression-dune-de-ses-journalistes-par-un-elu-municipal-rn-de-cagnes-sur-mer-20260807_3LVKCCEEWBAHRECS4KQSYRTDLE/",
+  "id": "fe1e73a3f42f",
+  "title": "«Nice-Matin» déplore l’agression d’une de ses journalistes par un élu municipal RN de Cagnes-sur-Mer",
+  "subtitle": "Le quotidien régional a dénoncé ce vendredi 7 août la violence d’un adjoint au maire d’extrême droite sur une reporter venue exercer son métier.",
+  "date": "2026-08-07T14:47:01+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/sante/hantavirus-un-patient-positif-isole-en-espagne-a-transite-en-france-fin-juillet-20260806_4D46O3MR7BH47AQ4L7NYTIVVQ4/",
+  "id": "b7a22af4a006",
+  "title": "Hantavirus : un patient positif, isolé en Espagne, a transité en France en juillet",
+  "subtitle": "Des analyses ont confirmé jeudi 6 août que l’individu, qui est passé par l’Ile-de-France, la Normandie et la Nouvelle-Aquitaine, a été infecté par la souche Andes, la même que celle du navire «MV Hondius». Les autorités sanitaires hexagonales sont en train d’établir les mesures à",
+  "date": "2026-08-07T10:21:33+00:00",
+  "place": "Nouvelle-Aquitaine",
+  "place_cat": "region",
+  "matched_in": "chapô",
+  "lat": 45.4039367,
+  "lon": 0.3756199,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/le-feminisme-tue-une-fresque-de-louise-michel-degradee-en-dordogne-par-des-tags-antifeministes-et-antisemites-20260807_MYRECH3G2VBLPOD2QYMEW3CPIY/",
+  "id": "c5ba51269582",
+  "title": "«Le féminisme tue» : une fresque de Louise Michel dégradée en Dordogne par des tags antiféministes et antisémites",
+  "subtitle": "Une étoile de David et deux phrases critiquant le positionnement de la révolutionnaire en faveur de la liberté des femmes ont été inscrites sur une œuvre qui honorait sa mémoire à Trélissac, jeudi 6 août. La mairie a annoncé déposer plainte.",
+  "date": "2026-08-07T09:23:47+00:00",
+  "place": "Dordogne",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 45.1429199,
+  "lon": 0.6321258,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/une-mascarade-le-flnc-rejette-le-projet-dautonomie-en-corse-et-menace-les-non-corses-venant-vivre-dans-lile-20260806_Y7AOEXFDJZF65KPWUUYIUTKA7A/",
   "id": "4e781ff987ba",
   "title": "Le FLNC rejette le projet d’autonomie en Corse et menace les non-Corses venant vivre dans l’île, le parquet antiterroriste ouvre une enquête",
@@ -78,6 +143,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/sante/incendies-et-sante-mentale-limpact-psychologique-sur-la-population-sera-majeur-20260801_3JLU5INZVNB2TEN7IKI4MYWOJE/",
+  "id": "e4623382e9c9",
+  "title": "Incendies et santé mentale : «L’impact psychologique sur la population sera majeur»",
+  "subtitle": "Une catastrophe ne fait pas que des blessés : elle déracine des milliers de déplacés, appuie sur des fragilités et laisse une profonde empreinte traumatique. A l’image des canicules ou du Covid, les incendies de juillet en Gironde forcent soignants et services sociaux à composer ",
+  "date": "2026-08-01T08:06:06+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/environnement/animaux/on-a-vu-des-animaux-morts-asphyxies-par-la-fumee-en-gironde-le-difficile-sauvetage-des-animaux-domestiques-des-zones-evacuees-20260730_SQGCJTYGBNA5VL5L64ICSIYQUQ/",
   "id": "d08013c68cb0",
   "title": "En Gironde, le difficile sauvetage des animaux domestiques des zones évacuées : «On en a vu asphyxiés par la fumée»",
@@ -117,6 +195,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/police-justice/je-voulais-juste-boire-une-biere-sept-supporteurs-juges-pour-une-rixe-a-paris-en-marge-de-la-finale-de-la-coupe-de-france-20260729_CALAVCVWNBED3M6UV4URRXYXLI/",
+  "id": "988ce0f5822b",
+  "title": "«Je voulais juste boire une bière» : sept supporteurs jugés pour une rixe à Paris en marge de la finale de la Coupe de France",
+  "subtitle": "Dans la nuit du 22 au 23 mai, une violente bagarre avait éclaté dans la capitale entre des fans de l’OGC Nice et du PSG. Mardi, trois supporteurs ont été relaxés et quatre ont écopé d’amendes pour leur participation à un «groupement» dont l’objectif était la violence et la dégrad",
+  "date": "2026-07-29T11:08:02+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/lifestyle/voyages/il-y-a-une-impression-de-depossession-de-nos-espaces-de-fete-a-paris-la-nuit-queer-broie-du-noir-20260729_HIRQGDV4NNGATHMWR64QBVWATI/",
   "id": "f3a0883c88d5",
   "title": "A Paris, la nuit queer broie du noir : «Il y a une impression de dépossession de nos espaces de fête»",
@@ -127,6 +218,32 @@
   "matched_in": "titre",
   "lat": 48.8534951,
   "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/climat/canicule-16-departements-dont-les-landes-et-la-gironde-passent-en-vigilance-orange-mercredi-20260728_BWB43LR7LJDVTKSMTDB5342T74/",
+  "id": "fbcd9bbd57c2",
+  "title": "Canicule : des pointes à 42 degrés et 16 départements, dont les Landes et la Gironde, en vigilance orange mercredi",
+  "subtitle": "La vague de chaleur va «se généraliser à une grande partie de la France» et la hausse des températures sera «durable sur le Centre-Est» à partir de ce mercredi 29 juillet, rapporte Météo France.",
+  "date": "2026-07-29T06:38:36+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-france-en-gironde-lincendie-toujours-stabilises-apres-une-nuit-calme-20260728_43JT4ACCERGYRDWHIIVAOXZBAA/",
+  "id": "b2a0bdad82f0",
+  "title": "L’incendie dans le Var désormais «fixé», celui de Gironde toujours actif ce mardi",
+  "subtitle": "Le retour d’une vague de chaleur dans la région bordelaise ravive certains foyers à l’est de la capitale régionale. Dans la matinée, les campings de Lacanau ont été évacués par précaution face à la dégradation attendue des conditions météo.",
+  "date": "2026-07-28T20:12:43+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
   "premium": true
  },
  {
@@ -143,11 +260,37 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/climat/une-bombe-a-retardement-la-foret-des-landes-de-gascogne-un-modele-productiviste-a-haut-risque-face-aux-flammes-20260725_YLCSYVYUGFDAXB7R26CL4C3QKM/",
+  "id": "613e1a38d976",
+  "title": "«Une bombe à retardement» : la forêt des Landes de Gascogne, un modèle productiviste à haut risque face aux flammes",
+  "subtitle": "L’incendie hors norme qui ravage la Gironde souligne la vulnérabilité d’un massif de résineux aux aiguilles inflammables. Les épisodes climatiques extrêmes révèlent des fragilités liées à la monoculture du pin et au défaut de prévention.",
+  "date": "2026-07-25T12:13:17+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/environnement/on-se-retrouve-coinces-dans-les-bouchons-la-nuit-denfer-pour-les-evacues-qui-fuient-lincendie-en-gironde-20260725_72F3AMAVUVC3NNXLQNSYI26FRY/",
   "id": "9009625ad22e",
   "title": "«On se retrouve coincés dans les bouchons» : la nuit d’enfer pour les évacués qui fuient l’incendie en Gironde",
   "subtitle": "Poussés ce vendredi 24 juillet à fuir les flammes, des milliers d’habitants d’Andernos-les-Bains ont été coincés sur les routes pendant plusieurs heures à la nuit tombée.",
   "date": "2026-07-25T05:56:35+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/cetait-effrayant-en-gironde-et-dans-les-landes-deux-ogres-de-feu-devorent-tout-sur-leur-passage-20260724_427JRR2BGZAXJI3DXEDMVOSWWI/",
+  "id": "7b13c14231fe",
+  "title": "«C’était effrayant» : en Gironde et dans les Landes, deux «ogres» de feu dévorent tout sur leur passage",
+  "subtitle": "Déclenchés mercredi et jeudi, les incendies ravagent toujours, vendredi soir, cette partie du Sud-Ouest et ont déjà forcé l’évacuation de 110 000 personnes, en pleine saison touristique.",
+  "date": "2026-07-24T19:10:22+00:00",
   "place": "Gironde",
   "place_cat": "departement",
   "matched_in": "titre",
@@ -234,6 +377,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/culture/on-depasse-les-limites-de-ce-qui-est-acceptable-en-democratie-barbara-butch-forcee-de-quitter-la-scene-du-cabaret-frappe-a-grenoble-20260719_DWNXM7QXTVGE7KYQDXQWOZV5LE/",
+  "id": "a4102a87d34c",
+  "title": "«On dépasse les limites de ce qui est acceptable en démocratie» : Barbara Butch forcée de quitter la scène du Cabaret frappé à Grenoble",
+  "subtitle": "La DJ, connue pour sa participation à la cérémonie d’ouverture des JO, et cible fréquente de l’extrême droite, a été empêchée, ce samedi 18 juillet, de mixer dans un festival isérois par une action de militants propalestiniens à l’appel de la section locale de La France insoumise",
+  "date": "2026-07-19T16:29:19+00:00",
+  "place": "Grenoble",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.1875602,
+  "lon": 5.7357819,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
   "id": "969c34015d68",
   "title": "70°C sur un toboggan, 24°C sous les arbres : en pleine canicule, Paris passe l’épreuve de la caméra thermique",
@@ -299,6 +455,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/police-justice/nantes-un-jeune-homme-de-19-ans-tue-par-balle-le-cinquieme-homicide-en-deux-mois-dans-la-ville-20260628_BAZOMO2ZSBH33HWFKBIEFIHZ3E/",
+  "id": "d198eff471d7",
+  "title": "Nantes : un jeune homme de 19 ans tué par balle, le cinquième homicide en deux mois dans la ville",
+  "subtitle": "La victime a été prise pour cible ce dimanche 28 juin au petit matin dans le nord de Nantes, non loin du stade de la Beaujoire. Le parquet n’a pour l’heure pas communiqué sur un éventuel lien avec le narcotrafic.",
+  "date": "2026-06-28T11:46:42+00:00",
+  "place": "Nantes",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 47.2186371,
+  "lon": -1.5541362,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/assassinat-de-dominique-bernard-vers-un-proces-important-pour-comprendre-le-chemin-de-la-fanatisation-20260626_DEQPLCNDHNF7XL6TF5NKTIKC2E/",
   "id": "dd05edc79542",
   "title": "Assassinat de Dominique Bernard : vers un procès «important» pour comprendre le «chemin de la fanatisation»",
@@ -309,6 +478,19 @@
   "matched_in": "chapô",
   "lat": 50.291048,
   "lon": 2.7772211,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/laurent-wauquiez-accuse-de-detournements-de-fonds-publics-par-les-ecologistes-dauvergne-rhone-alpes-20260625_FHK7UB3GKBEGPAUL3LLUUDRMBM/",
+  "id": "1f4716d9ae88",
+  "title": "Laurent Wauquiez accusé de «détournements de fonds publics» par les Ecologistes d’Auvergne-Rhône-Alpes",
+  "subtitle": "Les Verts ont annoncé mercredi 24 juin saisir la justice, au titre de l’article 40 du code de procédure pénale, accusant le patron des députés LR d’exercer «une présidence de fait» de la région, malgré sa démission en 2024.",
+  "date": "2026-06-25T09:28:52+00:00",
+  "place": "Auvergne-Rhône-Alpes",
+  "place_cat": "region",
+  "matched_in": "titre",
+  "lat": 45.2968119,
+  "lon": 4.6604809,
   "premium": true
  },
  {
@@ -426,6 +608,19 @@
   "matched_in": "titre",
   "lat": -21.1309332,
   "lon": 55.5265771,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/corse-dopposant-a-partisan-de-lautonomie-le-virage-a-180-degres-de-jean-luc-melenchon-20260615_RUEG3IYTRZCETFGJF2S5UQ2GTM/",
+  "id": "7173733bca25",
+  "title": "Corse : d’opposant à partisan de l’autonomie, le virage à 180 degrés de Jean-Luc Mélenchon",
+  "subtitle": "D’abord hostile à toute autonomie de l’île, l’insoumis en chef y est désormais favorable. Il explique son évolution par les bons résultats locaux des nationalistes depuis 2015 et par une rencontre avec des députés qui lui auraient ouvert les yeux.",
+  "date": "2026-06-15T18:32:00+00:00",
+  "place": "Corse",
+  "place_cat": "region",
+  "matched_in": "titre",
+  "lat": 42.188098,
+  "lon": 9.0683139,
   "premium": true
  },
  {
