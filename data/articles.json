@@ -546,6 +546,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/politique/nouvelle-caledonie-les-independantistes-en-ordre-disperse-a-lapproche-des-elections-provinciales-20260620_MP4YAS5CPNDLJHQCSLFXNPK6XE/",
+  "id": "b98cdf440356",
+  "title": "Nouvelle-Calédonie : les indépendantistes en ordre dispersé à l’approche des élections provinciales",
+  "subtitle": "Les divisions héritées des violences de 2024 continuent de fragiliser le camp indépendantiste, qui compte de nombreuses listes concurrentes pour le scrutin du 28 juin. La situation pourrait profiter aux loyalistes dans leur quête d’une majorité au Congrès.",
+  "date": "2026-06-20T05:00:00+00:00",
+  "place": "Nouvelle-Calédonie",
+  "place_cat": "territoire",
+  "matched_in": "titre",
+  "lat": -21.3019905,
+  "lon": 165.4880773,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/culture/scenes/le-theatre-national-de-nice-renonce-a-la-lecture-dune-piece-sur-les-attentats-du-14-juillet-a-la-demande-de-victimes-20260619_OW3AEXYRZNB35HL2FDMSN2XTJE/",
   "id": "98ec2e8a6b8a",
   "title": "Le Théâtre national de Nice renonce à la lecture d’une pièce sur les attentats du 14 juillet à la demande de victimes",
@@ -556,6 +569,19 @@
   "matched_in": "titre",
   "lat": 43.7009358,
   "lon": 7.2683912,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/a-mayotte-le-smic-et-le-rsa-devraient-commencer-a-augmenter-cet-ete-20260618_R52274JCINDO5A6AQR4ZLN5SZM/",
+  "id": "0cb439f9658a",
+  "title": "A Mayotte, le Smic et le RSA devraient commencer à augmenter cet été",
+  "subtitle": "Depuis le 1er janvier 2026, le Smic mahorais est égal à 87,5 % de celui de l’Hexagone, et doit augmenter de 2,5 % par an jusqu’en 2031 pour rattraper l’écart, selon un projet d’ordonnance présenté ce jeudi.",
+  "date": "2026-06-18T19:51:23+00:00",
+  "place": "Mayotte",
+  "place_cat": "territoire",
+  "matched_in": "titre",
+  "lat": -12.823048,
+  "lon": 45.1520755,
   "premium": true
  },
  {
@@ -634,6 +660,19 @@
   "matched_in": "titre",
   "lat": 42.188098,
   "lon": 9.0683139,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/sciences/histoire/zoos-humains-130-ans-apres-le-parlement-donne-son-feu-vert-a-la-restitution-a-la-restitution-a-la-guyane-des-restes-de-six-amerindiens-20260615_RCXKPWU5BVHVZFLXURRT3XWFRI/",
+  "id": "647295cd42aa",
+  "title": "«Zoos humains» : 130 ans après, le Parlement donne son feu vert à la restitution à la Guyane des restes de six Amérindiens",
+  "subtitle": "L’Assemblée a voté à l’unanimité ce lundi une loi issue du Sénat ouvrant la voie au retour en Guyane des dépouilles de ces six personnes, mortes après avoir été exposées au Jardin d’acclimatation en 1892 et restées bloquées en France depuis.",
+  "date": "2026-06-15T17:18:28+00:00",
+  "place": "Guyane",
+  "place_cat": "territoire",
+  "matched_in": "titre",
+  "lat": 4.0039882,
+  "lon": -52.999998,
   "premium": true
  },
  {
