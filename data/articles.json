@@ -1,5 +1,31 @@
 [
  {
+  "url": "https://www.liberation.fr/economie/transports/il-faut-que-ce-soit-beaucoup-plus-simple-les-conducteurs-de-voitures-electriques-sous-tension-a-lheure-des-grands-departs-20260814_KK5VPBCCOBDQBDOGNDSXCAZKMM/",
+  "id": "cc42f8a4856e",
+  "title": "«Il faut que ce soit beaucoup plus simple» : les conducteurs de voitures électriques sous tension à l’heure des grands départs",
+  "subtitle": "Sur l’aire d’autoroute de Limours-Janvry (Essonne), sur l’A10, les conducteurs de voitures électriques s’essaient à la recharge, parfois aidés par des bornistes, un métier apparu récemment.",
+  "date": "2026-08-14T04:58:00+00:00",
+  "place": "Essonne",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 48.5303402,
+  "lon": 2.2392918,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/logement/rechauffement-climatique-paris-pourrait-devenir-inhabitable-si-on-ne-la-transforme-pas-en-profondeur-20260813_6CT4NXLY4RFMRNI6ACKTWGWYNA/",
+  "id": "173531338630",
+  "title": "Réchauffement climatique : «Paris pourrait devenir inhabitable si on ne transforme pas la ville en profondeur»",
+  "subtitle": "La capitale brûlera-t-elle ? Malgré des efforts louables, les coupes budgétaires annoncées par Bercy et la réglementation freinent encore l’adaptation de la ville au changement climatique, soutient Alice Timsit, adjointe au maire en charge de la transition écologique.",
+  "date": "2026-08-13T15:15:17+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/environnement/animaux/cochons-decomposes-enquete-ouverte-contre-un-elevage-porcin-des-cotes-darmor-lun-des-pires-cas-dabandon-documente-par-l214-20260810_XVKCMHRU2BASBA6GZJKFV4WMRI/",
   "id": "d6ab05f94d48",
   "title": "Cochons décomposés : enquête ouverte contre un élevage porcin des Côtes-d’Armor, «l’un des pires cas d’abandon documenté par L214»",
@@ -62,6 +88,19 @@
   "matched_in": "titre",
   "lat": 45.1429199,
   "lon": 0.6321258,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/comme-sil-navait-pas-fait-de-geste-illegal-a-linstitut-pratique-du-journalisme-tensions-apres-les-saluts-nazis-dun-etudiant-20260806_VY5H3SCTYNEHXDWSRUQRL5A2OA/",
+  "id": "d538ef45e1e8",
+  "title": "A l’Institut pratique du journalisme, tensions après les saluts nazis d’un étudiant : «Comme s’il n’avait pas fait de geste illégal»",
+  "subtitle": "Après des gestes dénoncés par ses camarades, l’élève n’a reçu pour sanction disciplinaire de l’université Paris-Dauphine qu’une suspension temporaire estivale et pourra faire sa rentrée en septembre. Une décision qui choque les étudiants.",
+  "date": "2026-08-06T15:45:55+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
   "premium": true
  },
  {
@@ -335,6 +374,19 @@
   "matched_in": "titre",
   "lat": 48.2451153,
   "lon": -4.0440902,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/international/en-guadeloupe-une-crise-de-leau-frappe-lacces-a-leau-potable-et-aux-sites-de-baignade-20260722_CXM7BWMDTZEMXALAZ2WYR2KHHQ/",
+  "id": "9a71b6a5c39d",
+  "title": "En Guadeloupe, une crise de l’eau frappe l’accès à l’eau potable et aux sites de baignade",
+  "subtitle": "Alors que les résidents se confrontent à des coupures prolongées à cause de la sécheresse, la dégradation du réseau d’assainissement les empêche aussi de se baigner dans plusieurs sites naturels.",
+  "date": "2026-07-22T10:10:24+00:00",
+  "place": "Guadeloupe",
+  "place_cat": "territoire",
+  "matched_in": "titre",
+  "lat": 16.2528827,
+  "lon": -61.5686855,
   "premium": true
  },
  {
