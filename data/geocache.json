@@ -118,5 +118,33 @@
  "Essonne, France": {
   "lat": 48.5303402,
   "lon": 2.2392918
+ },
+ "Biarritz, France": {
+  "lat": 43.4711437,
+  "lon": -1.5527275
+ },
+ "Charente-Maritime, France": {
+  "lat": 45.7302268,
+  "lon": -0.7212876
+ },
+ "Périgueux, France": {
+  "lat": 45.1840214,
+  "lon": 0.7160392
+ },
+ "Bouches-du-Rhône, France": {
+  "lat": 43.5424182,
+  "lon": 5.0343236
+ },
+ "Avignon, France": {
+  "lat": 43.9492493,
+  "lon": 4.8059012
+ },
+ "Haute-Marne, France": {
+  "lat": 48.1329414,
+  "lon": 5.2529108
+ },
+ "Bordeaux, France": {
+  "lat": 44.841225,
+  "lon": -0.5800364
  }
 }

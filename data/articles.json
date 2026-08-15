@@ -1,5 +1,18 @@
 [
  {
+  "url": "https://www.liberation.fr/politique/quand-la-france-brule-le-president-samuse-en-jet-ski-a-bregancon-faure-et-tondelier-dezinguent-macron-a-la-une-de-paris-match-20260814_U2HPIYHBF5EMFJND24DSHJWTSY/",
+  "id": "32a9e7f751a6",
+  "title": "«Quand la France brûle, le président s’amuse en jet ski à Brégançon» : Faure et Tondelier dézinguent Macron, à la une de «Paris-Match»",
+  "subtitle": "Le premier secrétaire du PS et la cheffe de file des Ecologistes ont attaqué ce jeudi le président de la République pour son apparition «people» en première page de l’hebdomadaire.",
+  "date": "2026-08-14T09:50:56+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/economie/transports/il-faut-que-ce-soit-beaucoup-plus-simple-les-conducteurs-de-voitures-electriques-sous-tension-a-lheure-des-grands-departs-20260814_KK5VPBCCOBDQBDOGNDSXCAZKMM/",
   "id": "cc42f8a4856e",
   "title": "«Il faut que ce soit beaucoup plus simple» : les conducteurs de voitures électriques sous tension à l’heure des grands départs",
@@ -23,6 +36,32 @@
   "matched_in": "titre",
   "lat": 48.8534951,
   "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/dix-carabines-trois-pistolets-un-fusil-a-pompe-des-armes-volees-chez-un-tireur-sportif-dans-les-bouches-du-rhone-20260811_DPL5H4NWYVDCPOXUXYU3DI7YTM/",
+  "id": "e1d375ec8cf0",
+  "title": "Dix carabines, trois pistolets, un fusil à pompe : des armes volées chez un tireur sportif dans les Bouches-du-Rhône",
+  "subtitle": "Le cambriolage s’est déroulé dans la nuit du 7 au 8 août à Miramas, au domicile d’un sexagénaire. La division de la criminalité territoriale a été saisie.",
+  "date": "2026-08-11T07:41:13+00:00",
+  "place": "Bouches-du-Rhône",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 43.5424182,
+  "lon": 5.0343236,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
+  "id": "a5c3d3444db3",
+  "title": "Canicule : 43 départements dont la Manche et la pointe bretonne en vigilance orange mardi à partir de midi",
+  "subtitle": "Concentrées sur le quart sud-est de la France ce lundi, les fortes chaleurs frapperont jusqu’au Finistère dès demain. «Entre mercredi et vendredi, les 35 °C concerneront une grande partie du pays», alerte Météo France.",
+  "date": "2026-08-10T19:08:24+00:00",
+  "place": "Finistère",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 48.2451153,
+  "lon": -4.0440902,
   "premium": true
  },
  {
@@ -143,6 +182,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/police-justice/mort-de-cheikh-f-tue-par-un-policier-municipal-du-vaucluse-la-legitime-defense-difficilement-compatible-avec-les-premiers-elements-de-lenquete-20260803_XJ5ICIOBLVDD3D3FDGKHQI67PI/",
+  "id": "76dab629dc0d",
+  "title": "Mort de Cheikh F., tué par un policier municipal du Vaucluse : la légitime défense difficilement compatible avec les premiers éléments de l’enquête",
+  "subtitle": "Dans la nuit du 14 au 15 juillet, l’homme de 29 ans d’origine maghrébine a été tué par les tirs d’un agent du Pontet, ville RN près d’Avignon. L’enquête, en cours, montre pourtant que son véhicule était entravé et qu’il a été touché dans le dos, révèlent «Libération» et «Mediapar",
+  "date": "2026-08-03T10:00:00+00:00",
+  "place": "Avignon",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.9492493,
+  "lon": 4.8059012,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/logement/pres-de-rennes-la-seconde-jeunesse-des-constructions-en-terre-crue-rempart-face-aux-temperatures-caniculaires-20260803_OKEFXZBBFRAS3N7X2MCCRJTNHI/",
   "id": "c8be5bd77d2c",
   "title": "Près de Rennes, la seconde jeunesse des constructions en terre crue, rempart face aux températures caniculaires",
@@ -153,6 +205,19 @@
   "matched_in": "titre",
   "lat": 48.1113387,
   "lon": -1.6800198,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/culture/cinema/les-seances-sont-prises-dassaut-a-montpellier-lengouement-exceptionnel-autour-de-lodyssee-de-christopher-nolan-20260802_YOPY3TKGMZAOJKBBO7I6QTCOCQ/",
+  "id": "201318cad52d",
+  "title": "«Les séances sont prises d’assaut» : à Montpellier, l’engouement exceptionnel autour de «l’Odyssée» de Christopher Nolan",
+  "subtitle": "Dans la ville héraultaise, la seule en France pouvant projeter l’adaptation de l’œuvre d’Homère en Imax 70 mm, les spectateurs, pour certains venus de loin, ressortent de la séance émerveillés. Un emballement qui se traduit aussi par l’explosion de fréquentation que connaît le Pa",
+  "date": "2026-08-02T15:43:46+00:00",
+  "place": "Montpellier",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.6112422,
+  "lon": 3.8767337,
   "premium": true
  },
  {
@@ -286,6 +351,32 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/incendies-en-gironde-le-feu-agit-aux-portes-du-camp-militaire-de-souge-selon-le-maire-de-martignas-sur-jalle-20260728_GABSW2XKFRGYPLXZJ5IATBBBSQ/",
+  "id": "9cf575d9a31b",
+  "title": "Incendies en Gironde : le «feu agit aux portes du camp» militaire de Souge, selon le maire de Martignas-sur-Jalle",
+  "subtitle": "Face au brasier, certains points stratégiques sont au centre de toutes les inquiétudes, notamment le camp militaire de l’ouest de la métropole bordelaise. Des «experts et des moyens» ont été «déployés pour la sécurité des sites industriels», a fait savoir le ministère des Armées.",
+  "date": "2026-07-28T18:57:13+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/en-gironde-le-combat-des-pompiers-contre-les-reprises-de-feu-cest-un-peu-le-jeu-du-chat-et-de-la-souris-20260728_G2RRB2YBHBC7RJHBCJ5WQ4YFFQ/",
+  "id": "a193e1d03bd5",
+  "title": "En Gironde, le combat des pompiers contre les reprises de feu : «C’est un peu le jeu du chat et de la souris»",
+  "subtitle": "Ce mardi 28 juillet, plusieurs milliers de touristes ont été évacués de Lacanau alors que les flammes étaient aux portes du camp militaire de Souge. Malgré un sinistre «stabilisé», l’inquiétude était de mise avant l’arrivée d’un nouveau «pic de chaleur».",
+  "date": "2026-07-28T18:38:27+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/economie/social/les-vetements-pour-enfants-okaidi-sortent-du-redressement-judiciaire-20260728_JNWQ36JHAJHQZHCRANQ5OJXQBI/",
   "id": "8545586780ae",
   "title": "Les vêtements pour enfants Okaïdi sortent du redressement judiciaire",
@@ -296,6 +387,32 @@
   "matched_in": "chapô",
   "lat": 50.6365654,
   "lon": 3.0635282,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/incendie-en-gironde-si-on-ne-coupe-pas-des-arbres-cest-toute-la-foret-qui-va-disparaitre-sous-les-flammes-20260728_IXYVU33VPVA2HAQ46TLQKBO7ZE/",
+  "id": "3ce28dfcfbd2",
+  "title": "Incendie en Gironde : «Si on ne coupe pas des arbres, c’est toute la forêt qui va disparaître sous les flammes»",
+  "subtitle": "Surveillance, ouverture de pistes, création de pare-feu ou appui logistique… Bruno Lafon, président de la Défense des forêts contre les incendies Nouvelle-Aquitaine, qui épaule les pompiers depuis le début du feu extrême en Gironde, appelle à repenser l’aménagement des massifs bo",
+  "date": "2026-07-28T10:34:20+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/le-maire-du-porge-commune-devastee-par-le-megafeu-en-gironde-le-paysage-est-detruit-notre-village-est-a-terre-20260727_VD5WHTBXZ5BM3GOUD3WONHRC5Q/",
+  "id": "ff4136d5f623",
+  "title": "Le maire du Porge, commune dévastée par le mégafeu en Gironde : «Le paysage est détruit, notre village est à terre»",
+  "subtitle": "La localité est l’une des plus meurtries par le brasier qui ravage le département. Martial Zaninetti revient sur ces journées de crise, la peur d’une reprise de feu avec la canicule qui s’annonce et demande un plan Marshall au gouvernement.",
+  "date": "2026-07-27T12:08:24+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
   "premium": true
  },
  {
@@ -403,6 +520,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/police-justice/biarritz-deux-animateurs-dun-centre-de-loisirs-en-garde-a-vue-pour-des-soupcons-de-viol-et-agressions-sexuelles-20260721_J2NHLUZR7VGKZDAV7WFYUPHZBI/",
+  "id": "66feb1709c2a",
+  "title": "Biarritz : deux animateurs d’un centre de loisirs en garde à vue pour des soupçons de viol et agressions sexuelles",
+  "subtitle": "Treize enfants de 3 à 4 ans seraient concernés par des faits survenus début juillet, révèlent «Sud Ouest» et Ici Pays basque. Plusieurs plaintes ont été déposées et la municipalité a suspendu les agents.",
+  "date": "2026-07-21T13:44:59+00:00",
+  "place": "Biarritz",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.4711437,
+  "lon": -1.5527275,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/ces-methodes-naident-en-rien-les-palestiniens-la-france-insoumise-critiquee-apres-linterruption-du-concert-de-barbara-butch-20260720_7D4I3R5GU5GOHJCYEV26AHLDVM/",
   "id": "125351494bbd",
   "title": "«Ces méthodes n’aident en rien les Palestiniens» : La France insoumise critiquée après l’interruption du concert de Barbara Butch",
@@ -413,6 +543,19 @@
   "matched_in": "chapô",
   "lat": 45.1875602,
   "lon": 5.7357819,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/biodiversite/trois-jours-plus-tard-il-ny-avait-plus-rien-a-sauver-en-charente-maritime-des-pecheurs-au-secours-des-poissons-asphyxies-par-la-secheresse-20260721_KUFZO3ABO5FRBGKJBZ43COPUQA/",
+  "id": "5332253b824a",
+  "title": "En Charente-Maritime, des pêcheurs au secours des poissons asphyxiés par la sécheresse",
+  "subtitle": "Epuisette à la main, des bénévoles multiplient les pêches de sauvetage pour réoxygéner les gardons, perches, ablettes ou brochets du département où plus de 40 % des cours d’eau sont asséchés, un taux inédit en juillet.",
+  "date": "2026-07-21T05:29:00+00:00",
+  "place": "Charente-Maritime",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 45.7302268,
+  "lon": -0.7212876,
   "premium": true
  },
  {
@@ -439,6 +582,32 @@
   "matched_in": "titre",
   "lat": 45.1875602,
   "lon": 5.7357819,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/assassinat-dune-surveillante-dans-un-college-de-haute-marne-en-2025-le-parquet-reclame-18-ans-de-prison-20260716_HIHFYLV45NG2PPUJN4S7GQVFIY/",
+  "id": "81f5b5b03b33",
+  "title": "Assassinat d’une surveillante dans un collège de Haute-Marne en 2025 : l’adolescent condamné à 18 ans de prison",
+  "subtitle": "Au deuxième jour du procès qui s’est tenu à huis clos, le tribunal de Chaumont a condamné ce jeudi 16 juillet l’élève accusé d’avoir tué l’année dernière une assistante d’éducation dans son collège de Nogent.",
+  "date": "2026-07-16T17:39:51+00:00",
+  "place": "Haute-Marne",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 48.1329414,
+  "lon": 5.2529108,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/lifestyle/voyages/yvette-neliaz-dame-pipi-du-pulp-ou-elle-est-devenue-photographe-les-gens-voulaient-faire-partie-de-lhistoire-du-club-20260716_AFYTHHEBLRAB3LX5YFVMCTGYIM/",
+  "id": "f65f4218ee4f",
+  "title": "Yvette Néliaz, dame pipi du Pulp où elle est devenue photographe : «Les gens voulaient faire partie de l’histoire du club»",
+  "subtitle": "Devenue artiste alors qu’elle était en poste aux toilettes du club lesbien au début des années 2000, la désormais octogénaire se voit consacrée dans un livre réalisé par les étudiants de l’école Duperré à Paris.",
+  "date": "2026-07-16T10:22:38+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
   "premium": true
  },
  {
@@ -494,6 +663,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/pres-de-bordeaux-une-chaine-humaine-pour-dire-non-a-la-lgv-sud-ouest-20260704_NBX53IYSPFDDXMEZRB3LFEGAFE/",
+  "id": "d271d8f267e6",
+  "title": "Près de Bordeaux, une «chaîne humaine» pour dire non à la LGV Sud-Ouest",
+  "subtitle": "Des centaines de militants se sont réunis ce samedi pour dénoncer les impacts sur la biodiversité et le coût faramineux du projet de ligne à grande vitesse, estimé à 14 milliards d’euros et qui devrait être «réévalué de + 20 %» avec l’inflation. Les opposants appellent à rénover ",
+  "date": "2026-07-04T13:26:05+00:00",
+  "place": "Bordeaux",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 44.841225,
+  "lon": -0.5800364,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/lifestyle/voyages/ou-se-baigner-en-eau-naturelle-cet-ete-a-paris-et-ses-alentours-20260605_ZEHGW46E3RBGNP5RW3E3GXWLZQ/",
   "id": "c1e24b42b565",
   "title": "Seine, Marne, canaux… Tout savoir sur les sites de baignade rouverts ce samedi en Ile-de-France",
@@ -517,6 +699,32 @@
   "matched_in": "titre",
   "lat": 48.2640845,
   "lon": -2.9202408,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/ville/vous-avez-deja-vu-ca-quelque-part-a-chanteloup-les-vignes-la-colere-des-habitants-prives-delectricite-quatre-jours-pendant-la-canicule-20260702_PPNA53UL3FAATN6AU2X7377KNA/",
+  "id": "a19fd2c1f183",
+  "title": "«Vous avez déjà vu ça quelque part ?» : à Chanteloup-les-Vignes, la colère des habitants privés d’électricité quatre jours pendant la canicule",
+  "subtitle": "Une panne est survenue le 24 juin sur le réseau électrique du nord des Yvelines, et a duré jusqu’à dimanche dans le quartier prioritaire de la Noé. Résidents et associations redoutent la prochaine vague de chaleur, et dénoncent «l’abandon» des pouvoirs publics.",
+  "date": "2026-07-02T04:13:00+00:00",
+  "place": "Yvelines",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 48.7620374,
+  "lon": 1.8871376,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/fronde-a-perigueux-contre-lorganisation-dun-banquet-du-canon-francais-impossible-que-la-ville-devienne-un-refuge-pour-lextreme-droite-20260701_Q6JNYLYKNZHR5KENTPV3XOOMIM/",
+  "id": "3c2c677df005",
+  "title": "Fronde à Périgueux contre l’organisation d’un banquet du Canon français : «Impossible que la ville devienne un refuge pour l’extrême droite»",
+  "subtitle": "Plus de 400 personnes ont manifesté mardi devant la mairie de la préfecture de Dordogne afin de réclamer l’annulation de l’évènement prévu en octobre prochain. L’ombre de l’un des actionnaires de l’entreprise, Pierre-Édouard Stérin, est pointée du doigt.",
+  "date": "2026-07-01T12:44:40+00:00",
+  "place": "Périgueux",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.1840214,
+  "lon": 0.7160392,
   "premium": true
  },
  {
@@ -621,6 +829,32 @@
   "matched_in": "titre",
   "lat": 43.7009358,
   "lon": 7.2683912,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/soupcons-despionnage-pour-la-russie-un-belarusse-mis-en-examen-apres-avoir-filme-le-prototype-de-drone-dun-fabricant-francais-20260619_SXYN6PDBNJAJPBW2B75KJDVWKE/",
+  "id": "53fa935d5602",
+  "title": "Soupçons d’espionnage pour la Russie : un Bélarusse mis en examen après avoir filmé le «prototype de drone» d’un fabricant français",
+  "subtitle": "L’homme a été arrêté le 3 juin à proximité de l’usine Delair, à côté de Toulouse, qui fournit notamment du matériel à l’Ukraine.",
+  "date": "2026-06-19T11:13:44+00:00",
+  "place": "Toulouse",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.6044638,
+  "lon": 1.4442433,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/lui-president-jean-luc-melenchon-promet-de-demissionner-sil-perd-son-referendum-sur-la-nouvelle-caledonie-20260619_IHTGAR7375HNDLFAVNXF3RLURU/",
+  "id": "c22f681413a3",
+  "title": "Lui Président, Jean-Luc Mélenchon promet de démissionner s’il perd son référendum sur la Nouvelle-Calédonie",
+  "subtitle": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
+  "date": "2026-06-19T09:25:01+00:00",
+  "place": "Nouvelle-Calédonie",
+  "place_cat": "territoire",
+  "matched_in": "titre",
+  "lat": -21.3019905,
+  "lon": 165.4880773,
   "premium": true
  },
  {
