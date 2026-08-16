@@ -1532,31 +1532,5 @@
   "lat": -21.1309332,
   "lon": 55.5265771,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/corse-dopposant-a-partisan-de-lautonomie-le-virage-a-180-degres-de-jean-luc-melenchon-20260615_RUEG3IYTRZCETFGJF2S5UQ2GTM/",
-  "id": "7173733bca25",
-  "title": "Corse : d’opposant à partisan de l’autonomie, le virage à 180 degrés de Jean-Luc Mélenchon",
-  "subtitle": "D’abord hostile à toute autonomie de l’île, l’insoumis en chef y est désormais favorable. Il explique son évolution par les bons résultats locaux des nationalistes depuis 2015 et par une rencontre avec des députés qui lui auraient ouvert les yeux.",
-  "date": "2026-06-15T18:32:00+00:00",
-  "place": "Corse",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 42.188098,
-  "lon": 9.0683139,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/sciences/histoire/zoos-humains-130-ans-apres-le-parlement-donne-son-feu-vert-a-la-restitution-a-la-restitution-a-la-guyane-des-restes-de-six-amerindiens-20260615_RCXKPWU5BVHVZFLXURRT3XWFRI/",
-  "id": "647295cd42aa",
-  "title": "«Zoos humains» : 130 ans après, le Parlement donne son feu vert à la restitution à la Guyane des restes de six Amérindiens",
-  "subtitle": "L’Assemblée a voté à l’unanimité ce lundi une loi issue du Sénat ouvrant la voie au retour en Guyane des dépouilles de ces six personnes, mortes après avoir été exposées au Jardin d’acclimatation en 1892 et restées bloquées en France depuis.",
-  "date": "2026-06-15T17:18:28+00:00",
-  "place": "Guyane",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": 4.0039882,
-  "lon": -52.999998,
-  "premium": true
  }
 ]
