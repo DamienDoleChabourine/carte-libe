@@ -146,5 +146,45 @@
  "Bordeaux, France": {
   "lat": 44.841225,
   "lon": -0.5800364
+ },
+ "Digne-les-Bains, France": {
+  "lat": 44.0917585,
+  "lon": 6.2346362
+ },
+ "Strasbourg, France": {
+  "lat": 48.584614,
+  "lon": 7.7507127
+ },
+ "Vosges, France": {
+  "lat": 48.1637861,
+  "lon": 6.3820712
+ },
+ "Deux-Sèvres, France": {
+  "lat": 46.53914,
+  "lon": -0.2994785
+ },
+ "Pas-de-Calais, France": {
+  "lat": 50.5144061,
+  "lon": 2.2580078
+ },
+ "Pyrénées-Orientales, France": {
+  "lat": 42.625894,
+  "lon": 2.506509
+ },
+ "Indre-et-Loire, France": {
+  "lat": 47.2232046,
+  "lon": 0.6866703
+ },
+ "Marseille, France": {
+  "lat": 43.2963986,
+  "lon": 5.3777888
+ },
+ "Lyon, France": {
+  "lat": 45.7578137,
+  "lon": 4.8320114
+ },
+ "Meudon, France": {
+  "lat": 48.8126688,
+  "lon": 2.2385432
  }
 }
