@@ -194,5 +194,17 @@
  "Occitanie, France": {
   "lat": 43.6487851,
   "lon": 2.3435684
+ },
+ "Haute-Loire, France": {
+  "lat": 45.0857249,
+  "lon": 3.8338261
+ },
+ "Nîmes, France": {
+  "lat": 43.8374249,
+  "lon": 4.3600687
+ },
+ "Centre-Val de Loire, France": {
+  "lat": 47.5490251,
+  "lon": 1.7324062
  }
 }

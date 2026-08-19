@@ -13,6 +13,58 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/avec-la-brigade-fluviale-de-paris-entre-prevention-et-interventions-on-peut-etre-tres-bon-nageur-et-se-noyer-20260818_6NRHPL4JEVCIRJ3W67LQ74EW54/",
+  "id": "ab494cad5359",
+  "title": "Avec la brigade fluviale de Paris, entre prévention et interventions : «On peut être très bon nageur et se noyer»",
+  "subtitle": "Face à la multiplication des épisodes de chaleurs extrêmes, le nombre de noyades mortelles explose. Des policiers parcourent quotidiennement les eaux franciliennes pour informer, contrôler, ou sauver.",
+  "date": "2026-08-18T05:50:00+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/logement/cest-une-usure-psychologique-un-an-apres-lincendie-dans-le-nord-de-marseille-les-sinistres-se-sentent-delaisses-20260818_VCIA6YWV7FGCNMHOYSBY46NEJI/",
+  "id": "b18ab728f2c9",
+  "title": "«C’est une usure psychologique» : un an après l’incendie dans le nord de Marseille, les sinistrés se sentent délaissés",
+  "subtitle": "Des habitants du quartier de l’Estaque, touchés par un feu ravageur il y a un an, n’ont toujours pas pu retrouver leur maison et dénoncent l’abandon des pouvoirs publics et la lenteur des assurances.",
+  "date": "2026-08-18T04:58:00+00:00",
+  "place": "Marseille",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.2963986,
+  "lon": 5.3777888,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/babouins-sale-negre-15-mois-de-prison-avec-sursis-pour-avoir-menace-des-enfants-avec-une-arme-20260817_AX6TULQR4JH3ZA5UZ4HQ27JNNA/",
+  "id": "7f5616c5a733",
+  "title": "«Babouins», «sale nègre» : 15 mois de prison avec sursis pour avoir menacé des enfants avec une arme",
+  "subtitle": "En Haute-Loire, un sexagénaire a été condamné à 15 mois de prison avec sursis pour violence avec armes contre des enfants. En avril, il avait proféré des insultes racistes et tiré près d’eux à la carabine.",
+  "date": "2026-08-17T19:19:01+00:00",
+  "place": "Haute-Loire",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 45.0857249,
+  "lon": 3.8338261,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/visage-blafard-triste-et-qui-samaigrit-au-fil-du-temps-a-nimes-un-enfant-de-huit-ans-enferme-depuis-plusieurs-semaines-dans-sa-chambre-20260817_DEEYFGNLWZA3JK7LBWZZCNEMAA/",
+  "id": "31804dcf1867",
+  "title": "«Visage blafard, triste et qui s’amaigrit au fil du temps» : à Nîmes, un enfant de huit ans enfermé depuis plusieurs semaines dans sa chambre",
+  "subtitle": "Il a été placé le 14 août sur demande de sa mère au juge des enfants et attend une place en famille d’accueil. Son beau-père est soupçonné par le voisinage de l’avoir séquestré, sans eau ni nourriture, depuis des semaines.",
+  "date": "2026-08-17T10:47:16+00:00",
+  "place": "Nîmes",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.8374249,
+  "lon": 4.3600687,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/lecornu-prend-la-plume-et-promet-de-nouvelles-mesures-aux-agriculteurs-20260815_GX2ROS3DDBAK3LHIGXKFILSLDM/",
   "id": "967ccc0f6dda",
   "title": "Lecornu prend la plume et promet de nouvelles mesures aux agriculteurs",
@@ -117,6 +169,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/politique/politiquement-insupportable-a-rennes-enquete-ouverte-pour-harcelement-moral-aggrave-contre-une-elue-lfi-victime-dinjures-racistes-et-de-degradations-20260814_L27I42HKYBC4DJISLUPFYUNTWE/",
+  "id": "99f7d50bcd47",
+  "title": "A Rennes, une élue LFI dénonce des injures racistes et des dégradations, une enquête ouverte",
+  "subtitle": "Conseillère municipale et départementale, Régine Komokoli a porté plainte mardi 11 août après une attaque contre sa voiture. Une procédure est déjà ouverte depuis avril pour des faits similaires, précise le parquet.",
+  "date": "2026-08-14T10:00:03+00:00",
+  "place": "Rennes",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.1113387,
+  "lon": -1.6800198,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/quand-la-france-brule-le-president-samuse-en-jet-ski-a-bregancon-faure-et-tondelier-dezinguent-macron-a-la-une-de-paris-match-20260814_U2HPIYHBF5EMFJND24DSHJWTSY/",
   "id": "32a9e7f751a6",
   "title": "«Quand la France brûle, le président s’amuse en jet ski à Brégançon» : Faure et Tondelier dézinguent Macron, à la une de «Paris-Match»",
@@ -153,6 +218,32 @@
   "matched_in": "titre",
   "lat": 45.7578137,
   "lon": 4.8320114,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/pres-de-rennes-un-incendie-ne-progresse-plus-apres-avoir-brule-200-hectares-de-foret-20260813_QEVYPW4KXVFC3GR2AANNQMEABQ/",
+  "id": "917efa913f37",
+  "title": "Au sud de Rennes, près de Saint-Just, le feu de forêt «stabilisé» mais «pas fixé», 200 pompiers toujours déployés",
+  "subtitle": "157 personnes, évacuées ce jeudi par précaution, ont été prises en charge dans un gymnase ou des salles municipales des alentours. L’incendie serait parti mercredi «d’une ligne électrique sur laquelle un arbre est tombé».",
+  "date": "2026-08-13T17:18:02+00:00",
+  "place": "Rennes",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.1113387,
+  "lon": -1.6800198,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/a-nice-un-collectif-de-gauche-accuse-eric-ciotti-de-ne-pas-respecter-la-laicite-pour-le-15-aout-20260813_WSNUZJNYDNGSBOYVLZT4JD2QVM/",
+  "id": "35fb868fd7ab",
+  "title": "A Nice, un collectif de gauche accuse Eric Ciotti de ne pas respecter la laïcité pour le 15 août",
+  "subtitle": "Le maire appelle à participer, ce samedi, à une célébration publique de la fête de l’Assomption dans la ville. Une partie de l’opposition demande des clarifications, notamment sur son financement.",
+  "date": "2026-08-13T17:06:00+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
   "premium": true
  },
  {
@@ -205,6 +296,19 @@
   "matched_in": "chapô",
   "lat": 48.8534951,
   "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-et-fortes-chaleurs-la-canicule-setend-ce-mardi-jusqua-la-manche-et-la-pointe-bretonne-20260811_H7X62JWD2JHV3IPDO3OY4ET3UM/",
+  "id": "fe740dd5ee08",
+  "title": "Fortes chaleurs : la canicule gagne la quasi-totalité du pays, seul le Nord est épargné",
+  "subtitle": "Météo France a placé 78 départements en vigilance orange mercredi contre 43 ce mardi. Les températures maximales seront supérieures à 35 degrés. Du Centre-Val de Loire à la Nouvelle-Aquitaine, elles seront comprises entre 38 et 40 °C. En Île-de-France elles seront voisines de 38 ",
+  "date": "2026-08-11T18:46:15+00:00",
+  "place": "Centre-Val de Loire",
+  "place_cat": "region",
+  "matched_in": "chapô",
+  "lat": 47.5490251,
+  "lon": 1.7324062,
   "premium": true
  },
  {
@@ -1661,19 +1765,6 @@
   "matched_in": "titre",
   "lat": -21.3019905,
   "lon": 165.4880773,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/a-mayotte-le-smic-et-le-rsa-devraient-commencer-a-augmenter-cet-ete-20260618_R52274JCINDO5A6AQR4ZLN5SZM/",
-  "id": "0cb439f9658a",
-  "title": "A Mayotte, le Smic et le RSA devraient commencer à augmenter cet été",
-  "subtitle": "Depuis le 1er janvier 2026, le Smic mahorais est égal à 87,5 % de celui de l’Hexagone, et doit augmenter de 2,5 % par an jusqu’en 2031 pour rattraper l’écart, selon un projet d’ordonnance présenté ce jeudi.",
-  "date": "2026-06-18T19:51:23+00:00",
-  "place": "Mayotte",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": -12.823048,
-  "lon": 45.1520755,
   "premium": true
  }
 ]
