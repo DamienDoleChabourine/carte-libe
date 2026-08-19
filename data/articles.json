@@ -1480,18 +1480,5 @@
   "lat": -21.3019905,
   "lon": 165.4880773,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/statut-de-la-corse-attention-au-poison-communautaire-20260618_XVZORGNGARAALJWEYZ67RRZFTI/",
-  "id": "15a7a7d9bf57",
-  "title": "Statut de la Corse : attention au poison communautaire",
-  "subtitle": "Alors que les députés examinent un projet de révision constitutionnelle visant à accorder une autonomie à l’île, introduire la notion de «communauté» dans notre loi fondamentale ouvrirait une brèche dangereuse pour nos principes républicains.",
-  "date": "2026-06-18T10:51:39+00:00",
-  "place": "Corse",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 42.188098,
-  "lon": 9.0683139,
-  "premium": true
  }
 ]
