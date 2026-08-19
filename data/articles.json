@@ -1675,18 +1675,5 @@
   "lat": -12.823048,
   "lon": 45.1520755,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/statut-de-la-corse-le-changement-de-pied-du-rn-apres-son-alliance-avec-des-nationalistes-aux-municipales-20260618_XRIVF3AZCNFQJPRWDQUC3NR5WI/",
-  "id": "adef541b01a7",
-  "title": "Statut de la Corse : le changement de pied du RN après son alliance avec des nationalistes aux municipales",
-  "subtitle": "Le parti d’extrême droite, s’il porte habituellement une ligne jacobine, a ouvert la porte à une forme d’autonomie de l’île à l’occasion de l’examen du projet de loi constitutionnelle, après s’être allié à un groupe identitaire aux scrutins municipaux à Ajaccio et Bastia.",
-  "date": "2026-06-18T18:26:20+00:00",
-  "place": "Corse",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 42.188098,
-  "lon": 9.0683139,
-  "premium": true
  }
 ]
