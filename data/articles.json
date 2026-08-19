@@ -1,5 +1,18 @@
 [
  {
+  "url": "https://www.liberation.fr/sports/football/championnat-deurope-de-cecifoot-a-strasbourg-avec-la-medaille-dor-aux-jo-2024-ca-a-pris-une-ampleur-totalement-differente-20260819_Y7PFLFQ2PJCL7BLJAISK6MV734/",
+  "id": "1017dd191bf1",
+  "title": "Championnat d’Europe de cécifoot à Strasbourg : «Avec la médaille d’or aux JO 2024, ça a pris une ampleur totalement différente»",
+  "subtitle": "La capitale alsacienne accueille cette semaine les championnats d’Europe. Les tribunes pleines et les bonnes audiences traduisent un engouement toujours là, deux ans après les Jeux de Paris. Même si les joueurs demandent plus de moyens.",
+  "date": "2026-08-19T13:25:48+00:00",
+  "place": "Strasbourg",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.584614,
+  "lon": 7.7507127,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/lecornu-prend-la-plume-et-promet-de-nouvelles-mesures-aux-agriculteurs-20260815_GX2ROS3DDBAK3LHIGXKFILSLDM/",
   "id": "967ccc0f6dda",
   "title": "Lecornu prend la plume et promet de nouvelles mesures aux agriculteurs",
@@ -130,6 +143,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/immigration/un-rassemblement-en-soutien-a-une-initiative-anti-immigration-interdit-a-lyon-ce-dimanche-20260813_34223BIUTJCFTKDIQFCWY5ZTIM/",
+  "id": "076b678f6a07",
+  "title": "Un rassemblement en soutien à une initiative anti-immigration interdit à Lyon ce dimanche",
+  "subtitle": "Le préfet du Rhône estime dans un arrêté publié ce jeudi que cette manifestation «introduisant une discrimination fondée sur la race et l’origine ethnique», porte une «atteinte grave au respect de la dignité humaine».",
+  "date": "2026-08-13T19:10:38+00:00",
+  "place": "Lyon",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.7578137,
+  "lon": 4.8320114,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/logement/rechauffement-climatique-paris-pourrait-devenir-inhabitable-si-on-ne-la-transforme-pas-en-profondeur-20260813_6CT4NXLY4RFMRNI6ACKTWGWYNA/",
   "id": "173531338630",
   "title": "Réchauffement climatique : «Paris pourrait devenir inhabitable si on ne transforme pas la ville en profondeur»",
@@ -166,6 +192,19 @@
   "matched_in": "titre",
   "lat": 46.53914,
   "lon": -0.2994785,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/idees-et-debats/tribunes/avec-emmanuel-macron-aux-exclus-la-patrie-non-reconnaissante-20260812_WDCIC2URRFCCDPPM4CJS42LPXE/",
+  "id": "33fbe120faf5",
+  "title": "Avec Emmanuel Macron, aux exclus, la patrie non reconnaissante",
+  "subtitle": "En juillet, l’Etat annonçait une diminution des aides pour les associations en charge des hébergements d’urgence à Paris. L’ultime épisode de la destruction de la question sociale par le gouvernement depuis 2017, pointe le philosophe Guillaume Le Blanc.",
+  "date": "2026-08-12T13:45:00+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
   "premium": true
  },
  {
@@ -286,6 +325,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/droits-des-femmes/male-tears-et-vinyle-de-bruel-explose-vers-lyon-un-collectif-feministe-prend-fetes-et-causes-20260806_TXRQ3T5IKVA4DL5FVDNVJJOFQM/",
+  "id": "08c767df7ee2",
+  "title": "«Male tears» et vinyle de Bruel explosé : vers Lyon, un collectif féministe prend fêtes et causes",
+  "subtitle": "En Auvergne-Rhône-Alpes, Dynastits organise des ventes aux enchères joyeuses de vieux disques, afin de dénoncer les artistes «problémachistes» et récolter de l’argent pour les associations de défense des droits des femmes.",
+  "date": "2026-08-06T17:04:00+00:00",
+  "place": "Lyon",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.7578137,
+  "lon": 4.8320114,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/comme-sil-navait-pas-fait-de-geste-illegal-a-linstitut-pratique-du-journalisme-tensions-apres-les-saluts-nazis-dun-etudiant-20260806_VY5H3SCTYNEHXDWSRUQRL5A2OA/",
   "id": "d538ef45e1e8",
   "title": "A l’Institut pratique du journalisme, tensions après les saluts nazis d’un étudiant : «Comme s’il n’avait pas fait de geste illégal»",
@@ -296,6 +348,19 @@
   "matched_in": "chapô",
   "lat": 48.8534951,
   "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/economie/social/la-poste-envisage-de-faire-rattraper-a-ses-salaries-de-gironde-les-heures-perdues-a-cause-des-incendies-20260806_5TGXVNIG4ZACTBOR4WIMRJCFBQ/",
+  "id": "829a6fde1d5d",
+  "title": "La Poste envisage de faire rattraper à ses salariés de Gironde les heures perdues à cause des incendies",
+  "subtitle": "Les feux de fin juillet avaient entraîné la fermeture d’une plateforme de distribution et de bureaux girondins. Cette solution étudiée par le groupe permettrait de «garantir» le maintien de la rémunération des salariés concernés, selon France Inter qui révèle l’information ce 6 a",
+  "date": "2026-08-06T10:11:54+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
   "premium": true
  },
  {
@@ -702,11 +767,50 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/climat/incendies-une-probable-nouvelle-vague-de-chaleur-a-partir-de-mardi-selon-meteo-france-20260726_MDIQFJN7B5FJREAXPXOWBO4KVI/",
+  "id": "d749f46167b1",
+  "title": "Météo France confirme la vague de chaleur à partir de mardi, le Sud-Ouest touché",
+  "subtitle": "Avec des maximales pouvant atteindre les 40°C, le pays s’apprête à affronter une nouvelle hausse des températures à partir de mardi, à commencer par le Sud-Ouest en proie aux incendies, mais également les grandes villes comme Paris et Lyon.",
+  "date": "2026-07-27T12:25:14+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/environnement/le-maire-du-porge-commune-devastee-par-le-megafeu-en-gironde-le-paysage-est-detruit-notre-village-est-a-terre-20260727_VD5WHTBXZ5BM3GOUD3WONHRC5Q/",
   "id": "ff4136d5f623",
   "title": "Le maire du Porge, commune dévastée par le mégafeu en Gironde : «Le paysage est détruit, notre village est à terre»",
   "subtitle": "La localité est l’une des plus meurtries par le brasier qui ravage le département. Martial Zaninetti revient sur ces journées de crise, la peur d’une reprise de feu avec la canicule qui s’annonce et demande un plan Marshall au gouvernement.",
   "date": "2026-07-27T12:08:24+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/les-tamouls-esprit-de-la-chapelle-a-paris-cest-comme-si-on-etait-a-la-maison-20260726_7L4CJCGPXRFN5JQ7Q3RO23GBYE/",
+  "id": "5a7764dedc3f",
+  "title": "Les Tamouls, esprit de La Chapelle à Paris : «C’est comme si on était à la maison»",
+  "subtitle": "(2/6) En suivant la ligne 2 du métro parisien, à La Chapelle, rencontre avec les exilés tamouls du Sri Lanka, installés depuis la fin des années 80.",
+  "date": "2026-07-26T16:00:00+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/cest-la-premiere-fois-que-je-vois-la-ville-morte-comme-ca-eysines-largement-evacuee-a-cause-du-megafeu-en-gironde-est-desertee-de-ses-habitants-20260726_OEJ5EFA4QZBHBHZRQOCAMHNKEU/",
+  "id": "fcf327dff70a",
+  "title": "«C’est la première fois que je vois la ville morte comme ça» : Eysines, largement évacuée à cause du mégafeu en Gironde, est désertée de ses habitants",
+  "subtitle": "Cette commune de 25 000 habitants de l’agglomération de Bordeaux a été partiellement évacuée dans la nuit de vendredi à samedi. Les résidents n’ont pas encore le droit de rentrer chez eux, même si certains ont bravé les interdictions de la préfecture. Reportage dans une ville fan",
+  "date": "2026-07-26T07:07:23+00:00",
   "place": "Gironde",
   "place_cat": "departement",
   "matched_in": "titre",
@@ -780,6 +884,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/politique/action-contre-le-concert-de-barbara-butch-la-mairie-de-grenoble-annonce-une-plainte-contre-x-pour-violences-volontaires-20260724_F53PHZCV6JC2HHPAU5YGYAXQKQ/",
+  "id": "913139d39d55",
+  "title": "Action contre le concert de Barbara Butch : la mairie de Grenoble annonce une plainte contre X pour «violences volontaires»",
+  "subtitle": "La préfecture iséroise a notamment fait état de jets de projectiles en direction de la DJ, à l’occasion de la mobilisation de militants propalestiniens et LFI, qui lui reprochaient son soutien à la loi Yadan et un concert en Israël.",
+  "date": "2026-07-24T13:37:46+00:00",
+  "place": "Grenoble",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.1875602,
+  "lon": 5.7357819,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/culture/arts/festival-normandie-impressionniste-fleurs-sur-la-ville-20260724_54UKRP7365HMHGCXB7NDXMZO7M/",
   "id": "2f757fa43935",
   "title": "Festival Normandie impressionniste : fleurs sur la ville",
@@ -829,6 +946,19 @@
   "matched_in": "chapô",
   "lat": 48.8534951,
   "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/maintenant-cest-le-terrain-qui-va-parler-en-gironde-un-nouveau-brasier-pendant-que-nunez-rend-hommage-a-deux-pompiers-tues-20260722_U2ZRDKFK3VDFNAN6OTBWIKOTHQ/",
+  "id": "1586c515fcef",
+  "title": "L’incendie progresse en Gironde, près de 10 000 personnes doivent être évacuées",
+  "subtitle": "Dans le département, un nouveau feu s’est déclaré ce mercredi 22 juillet entre Le Porge et Saumos. Il s’est intensifié pendant la nuit et a déjà ravagé 2 000 hectares.",
+  "date": "2026-07-23T06:12:16+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
   "premium": true
  },
  {
@@ -1040,6 +1170,32 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/sports/football/girondins-de-bordeaux-lexclusion-du-club-de-foot-des-competitions-nationales-confirmee-en-appel-20260715_FTNULYDJLVD75FWNZUYUKG43NA/",
+  "id": "82a7023e5215",
+  "title": "Girondins de Bordeaux : l’exclusion du club de foot des compétitions nationales confirmée en appel",
+  "subtitle": "Le recours intenté par le club au scapulaire, six fois vainqueur de la Ligue 1, n’a pas abouti, a fait part ce mercredi 15 juillet la DNCG, gendarme financier du football français. Les Girondins sont officiellement rétrogradés, au mieux, en Régional 1.",
+  "date": "2026-07-15T16:12:52+00:00",
+  "place": "Bordeaux",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 44.841225,
+  "lon": -0.5800364,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/dix-ans-de-lattentat-du-14-juillet-a-nice-thierry-vimal-pere-dune-jeune-victime-met-le-proces-en-piece-20260713_VPSDZZLEJJFSFLU7WHX7VFVNCQ/",
+  "id": "fc0cec93d695",
+  "title": "Dix ans de l’attentat du 14 Juillet à Nice : Thierry Vimal, père d’une jeune victime, met le procès en pièce",
+  "subtitle": "L’écrivain niçois, dont la fille Amie, 12 ans, a été tuée par le terroriste sur la promenade des Anglais en 2016, adapte sur scène, de manière caustique et captivante, les chroniques qu’il a tirées des débats de la cour d’assises spéciale de Paris.",
+  "date": "2026-07-13T05:00:00+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/marche-hommage-aux-victimes-de-lattentat-de-nice-integrer-le-mot-resilience-a-sa-vie-est-difficile-20260712_2GVHEPZN4RHPVMYG2SQUAMKB3E/",
   "id": "3ec6f3a89b3f",
   "title": "Marche hommage aux victimes de l’attentat de Nice : «Intégrer le mot résilience à sa vie est difficile»",
@@ -1102,6 +1258,19 @@
   "matched_in": "titre",
   "lat": 49.2607914,
   "lon": 2.4733771,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/culture/scenes/a-montpellier-danse-un-message-inquietant-un-spectacle-agacant-et-un-final-brillant-20260706_XM3MIQSHUVF7JPFOWL74WVACHA/",
+  "id": "208d010c6568",
+  "title": "A Montpellier Danse, un message inquiétant, un spectacle agaçant et un final brillant",
+  "subtitle": "Conclu samedi, le festival héraultais a relayé, en coulisse, les craintes du milieu chorégraphique sur fond de coupes budgétaires et de montée de l’extrême droite. Sur scène, la délicatesse du trio Garcia-Wachter-Bory a contrasté avec l’enfumage boursouflé du collectif (La)Horde.",
+  "date": "2026-07-06T16:58:51+00:00",
+  "place": "Montpellier",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.6112422,
+  "lon": 3.8767337,
   "premium": true
  },
  {
@@ -1209,6 +1378,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/sports/football/football-les-girondins-de-bordeaux-exclus-de-toutes-les-competitions-nationales-en-2026-2027-par-la-dncg-20260630_DUCG5NF3NZGJLLRNTCNUCP72SA/",
+  "id": "8878e79b319a",
+  "title": "Football : les Girondins de Bordeaux exclus de toutes les compétitions nationales en 2026-2027 par la DNCG",
+  "subtitle": "Le club a annoncé ce mardi 30 juin qu’il comptait faire appel de la décision du gendarme financier du foot français.",
+  "date": "2026-06-30T14:41:22+00:00",
+  "place": "Bordeaux",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 44.841225,
+  "lon": -0.5800364,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/immigration/il-y-a-quelque-chose-ici-de-la-france-hospitaliere-a-lille-une-solidarite-de-quartier-pour-les-mineurs-exiles-20260629_QVUCS3S3ARAU5DBIGCT2T3QDXY/",
   "id": "e5e92210ae97",
   "title": "«Il y a quelque chose ici de la France hospitalière» : à Lille, une solidarité de quartier pour les mineurs exilés",
@@ -1300,6 +1482,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/culture/scenes/en-occitanie-un-directeur-dagence-qui-accompagne-le-spectacle-vivant-accuse-de-management-toxique-20260625_XD24Z5JOHRDLTOAQ6B336HZVSE/",
+  "id": "3a858de9322e",
+  "title": "En Occitanie, un directeur d’agence qui accompagne le spectacle vivant accusé de «management toxique»",
+  "subtitle": "Volonté de diviser pour mieux régner, concentration du pouvoir… Yvan Godard est mis en cause par des salariés de l’Agence unique Occitanie culture, qui témoignent de leur souffrance au travail, et des artistes qui disent avoir subi les conséquences de ces dysfonctionnements. Lui ",
+  "date": "2026-06-25T12:43:49+00:00",
+  "place": "Occitanie",
+  "place_cat": "region",
+  "matched_in": "titre",
+  "lat": 43.6487851,
+  "lon": 2.3435684,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/laurent-wauquiez-accuse-de-detournements-de-fonds-publics-par-les-ecologistes-dauvergne-rhone-alpes-20260625_FHK7UB3GKBEGPAUL3LLUUDRMBM/",
   "id": "1f4716d9ae88",
   "title": "Laurent Wauquiez accusé de «détournements de fonds publics» par les Ecologistes d’Auvergne-Rhône-Alpes",
@@ -1362,6 +1557,19 @@
   "matched_in": "chapô",
   "lat": 16.2528827,
   "lon": -61.5686855,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/portraits/jenny-briffa-laccorte-de-noumea-20260621_Y4TSWE5LJFCZNBG6Q5IAVOR6QU/",
+  "id": "d91b35eada8e",
+  "title": "Jenny Briffa, dramaturge : l’accorte de Nouméa",
+  "subtitle": "L’ex-journaliste écrit des pièces de théâtre où elle raconte la complexité et la vitalité de sa Nouvelle-Calédonie.",
+  "date": "2026-06-21T15:18:27+00:00",
+  "place": "Nouméa",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": -22.2745264,
+  "lon": 166.442419,
   "premium": true
  },
  {
@@ -1466,6 +1674,19 @@
   "matched_in": "titre",
   "lat": -12.823048,
   "lon": 45.1520755,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/statut-de-la-corse-le-changement-de-pied-du-rn-apres-son-alliance-avec-des-nationalistes-aux-municipales-20260618_XRIVF3AZCNFQJPRWDQUC3NR5WI/",
+  "id": "adef541b01a7",
+  "title": "Statut de la Corse : le changement de pied du RN après son alliance avec des nationalistes aux municipales",
+  "subtitle": "Le parti d’extrême droite, s’il porte habituellement une ligne jacobine, a ouvert la porte à une forme d’autonomie de l’île à l’occasion de l’examen du projet de loi constitutionnelle, après s’être allié à un groupe identitaire aux scrutins municipaux à Ajaccio et Bastia.",
+  "date": "2026-06-18T18:26:20+00:00",
+  "place": "Corse",
+  "place_cat": "region",
+  "matched_in": "titre",
+  "lat": 42.188098,
+  "lon": 9.0683139,
   "premium": true
  },
  {

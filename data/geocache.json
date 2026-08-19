@@ -186,5 +186,13 @@
  "Meudon, France": {
   "lat": 48.8126688,
   "lon": 2.2385432
+ },
+ "Nouméa, Nouvelle-Calédonie": {
+  "lat": -22.2745264,
+  "lon": 166.442419
+ },
+ "Occitanie, France": {
+  "lat": 43.6487851,
+  "lon": 2.3435684
  }
 }
