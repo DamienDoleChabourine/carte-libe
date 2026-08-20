@@ -1714,18 +1714,5 @@
   "lat": -21.3019905,
   "lon": 165.4880773,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/culture/scenes/le-theatre-national-de-nice-renonce-a-la-lecture-dune-piece-sur-les-attentats-du-14-juillet-a-la-demande-de-victimes-20260619_OW3AEXYRZNB35HL2FDMSN2XTJE/",
-  "id": "98ec2e8a6b8a",
-  "title": "Le Théâtre national de Nice renonce à la lecture d’une pièce sur les attentats du 14 juillet à la demande de victimes",
-  "subtitle": "Le texte, écrit à partir des notes d’audience de l’avocate Olivia Chalus-Penochet, devait évoquer le sort de plus de 200 victimes. Les organisateurs ont annoncé mercredi 17 juin faire une croix sur sa représentation publique.",
-  "date": "2026-06-19T15:19:23+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
  }
 ]
