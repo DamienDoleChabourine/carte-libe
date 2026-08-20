@@ -1727,18 +1727,5 @@
   "lat": 43.7009358,
   "lon": 7.2683912,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/lifestyle/logement-travail-loisirs-pour-les-francais-des-bouts-de-ficelle-face-au-coup-de-chaleur-20260619_WMOUCJQPFVA2TKSP3VQTBY7F5Y/",
-  "id": "fd1649ec8846",
-  "title": "Blanc de Meudon, ventilos miniatures, baignades sauvages… La grande débrouille des Français face à la canicule",
-  "subtitle": "Des logements aux écoles en passant par les loisirs, «Libération» a arpenté la région parisienne et les alentours de Montpellier à la recherche des solutions trouvées pour affronter la canicule.",
-  "date": "2026-06-19T13:26:50+00:00",
-  "place": "Meudon",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8126688,
-  "lon": 2.2385432,
-  "premium": true
  }
 ]
