@@ -1753,18 +1753,5 @@
   "lat": 43.6044638,
   "lon": 1.4442433,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/lui-president-jean-luc-melenchon-promet-de-demissionner-sil-perd-son-referendum-sur-la-nouvelle-caledonie-20260619_IHTGAR7375HNDLFAVNXF3RLURU/",
-  "id": "c22f681413a3",
-  "title": "Lui Président, Jean-Luc Mélenchon promet de démissionner s’il perd son référendum sur la Nouvelle-Calédonie",
-  "subtitle": "Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.",
-  "date": "2026-06-19T09:25:01+00:00",
-  "place": "Nouvelle-Calédonie",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": -21.3019905,
-  "lon": 165.4880773,
-  "premium": true
  }
 ]
