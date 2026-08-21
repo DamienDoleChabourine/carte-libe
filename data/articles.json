@@ -1885,6 +1885,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/a-marseille-le-crepuscule-du-marche-du-soleil-temple-des-bonnes-affaires-mine-par-la-contrefacon-20260622_6LGM4NMNYJDQFCBKO5ZORVJXVQ/",
+  "id": "3b94c450cc4c",
+  "title": "A Marseille, le crépuscule du marché du Soleil, temple des bonnes affaires miné par la contrefaçon",
+  "subtitle": "La galerie marchande à l’ambiance de souk oriental, située depuis quatre décennies dans un quartier populaire du centre-ville, a baissé le rideau après une série d’opérations douanières durant laquelle des centaines de milliers de marchandises contrefaites ont été saisies. Ce lun",
+  "date": "2026-06-22T05:30:00+00:00",
+  "place": "Marseille",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.2963986,
+  "lon": 5.3777888,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/portraits/jenny-briffa-laccorte-de-noumea-20260621_Y4TSWE5LJFCZNBG6Q5IAVOR6QU/",
   "id": "d91b35eada8e",
   "title": "Jenny Briffa, dramaturge : l’accorte de Nouméa",
