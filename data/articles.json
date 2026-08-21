@@ -1,5 +1,44 @@
 [
  {
+  "url": "https://www.liberation.fr/politique/a-grenoble-les-ecologistes-nesquivent-pas-la-question-des-alliances-pour-2027-20260820_6MJDAUW2PFCZTFK7YG3NSJSBLM/",
+  "id": "b4163d67fe4a",
+  "title": "A Grenoble, Les Ecologistes n’esquivent pas la question des alliances pour 2027",
+  "subtitle": "Alors que ses opposants réclament une clarification de la ligne entre deux positions qu’ils jugent incompatibles, la cheffe et candidate des verts, Marine Tondelier, a assuré devant les journalistes que ce débat serait tranché par les adhérents.",
+  "date": "2026-08-20T18:42:23+00:00",
+  "place": "Grenoble",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.1875602,
+  "lon": 5.7357819,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/culture/photographie/almageste-lexploration-hors-frontieres-de-mouna-saboni-20260806_CQHLHOG5UBEZZLIUHBDKU5FMNU/",
+  "id": "756f3007bf7d",
+  "title": "«Almageste», l’exploration hors frontières de Mouna Saboni",
+  "subtitle": "L’artiste franco-marocaine a séjourné à l’espace culturel Zone i, à Thoré-la-Rochette (Loir-et-Cher), pour enrichir son projet, conciliant écriture et photographie, sur la notion d’identité à travers les ­territoires méditerranéens.",
+  "date": "2026-08-20T10:05:00+00:00",
+  "place": "Loir-et-Cher",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 47.6597752,
+  "lon": 1.2971835,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/affaire-le-scouarnec-information-judiciaire-ouverte-pour-10-nouveaux-viols-et-40-agressions-sexuelles-20260819_XTFYILYPWZBF3LXEI2HMFPS4ZM/",
+  "id": "a970ee0b392d",
+  "title": "Affaire Le Scouarnec : information judiciaire ouverte pour 10 nouveaux viols et 40 agressions sexuelles",
+  "subtitle": "Les faits ne sont pas prescrits et «concernent 48 victimes», a précisé la procureure de Lorient ce mercredi. Joël Le Scouarnec avait été condamné fin mai 2025 à 20 ans de prison pour viols et agressions sexuelles sur 299 mineurs.",
+  "date": "2026-08-19T17:29:38+00:00",
+  "place": "Lorient",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 47.7477336,
+  "lon": -3.3660907,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/sports/football/championnat-deurope-de-cecifoot-a-strasbourg-avec-la-medaille-dor-aux-jo-2024-ca-a-pris-une-ampleur-totalement-differente-20260819_Y7PFLFQ2PJCL7BLJAISK6MV734/",
   "id": "1017dd191bf1",
   "title": "Championnat d’Europe de cécifoot à Strasbourg : «Avec la médaille d’or aux JO 2024, ça a pris une ampleur totalement différente»",
@@ -62,6 +101,19 @@
   "matched_in": "titre",
   "lat": 43.8374249,
   "lon": 4.3600687,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/lecornu-ne-doit-pas-venir-pour-un-discours-mais-avec-un-gros-cheque-au-porge-le-gouvernement-attendu-au-tournant-apres-lincendie-20260817_MCTS6Y6LWFCZ3L2TAM4U7THJIE/",
+  "id": "30f884bac47c",
+  "title": "«Des chèques, pas des promesses dans le vent» : au Porge, le gouvernement attendu au tournant après l’incendie",
+  "subtitle": "En amont de la visite officielle du gouvernement en Gironde lundi 17 août, le Premier ministre s’est rendu dimanche, sans caméra, dans la commune la plus meurtrie par le mégafeu qui a ravagé près de 42 000 hectares. Les sinistrés appellent à des aides à la hauteur de la catastrop",
+  "date": "2026-08-17T04:00:00+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
   "premium": true
  },
  {
@@ -260,6 +312,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/incendie-dans-des-dunes-sur-le-littoral-du-pas-de-calais-un-camping-evacue-20260812_WNQEBSPEDFB4ZOZKGYJJPTCVS4/",
+  "id": "2db56434dca7",
+  "title": "Les incendies dans le Pas-de-Calais pas encore fixés, un avion Dash est intervenu pour la première fois",
+  "subtitle": "Des départs de feu, survenus mercredi 12 août sur les communes de Neufchâtel-Hardelot, Dannes et Camiers ont brûlé 180 hectares. Les dunes du Mont Saint-Frieux constituent le plus grand espace naturel sensible du département.",
+  "date": "2026-08-13T14:51:19+00:00",
+  "place": "Pas-de-Calais",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 50.5144061,
+  "lon": 2.2580078,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/dans-les-vosges-une-enquete-ouverte-apres-le-vol-de-cinq-cloches-en-bronze-dans-une-ancienne-fonderie-20260813_54FA4RTSFZEK3KBMQPXMEHCO6A/",
   "id": "d58ff9e6d2e5",
   "title": "Dans les Vosges, une enquête ouverte après le vol de cinq cloches en bronze dans une ancienne fonderie",
@@ -296,6 +361,45 @@
   "matched_in": "chapô",
   "lat": 48.8534951,
   "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/une-extreme-droite-qui-vient-de-letranger-un-russe-et-un-franco-ukrainien-condamnes-apres-des-saluts-nazis-pres-dune-synagogue-20260812_57IIRPL6AZELVDNYE45OJI3ACY/",
+  "id": "38dd23e2412f",
+  "title": "«Une extrême droite qui vient de l’étranger» : un Russe et un Franco-Ukrainien condamnés après des saluts nazis près d’une synagogue",
+  "subtitle": "Les jeunes hommes de 19 et 20 ans ont écopé respectivement de huit et de six mois d’emprisonnement mardi 11 août, selon le parquet de Pontoise. Ils ont aussi été inscrits au fichier des auteurs d’infractions terroristes.",
+  "date": "2026-08-12T13:14:16+00:00",
+  "place": "Pontoise",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 49.0508845,
+  "lon": 2.1008067,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/logement/pour-2050-paris-a-lheure-de-la-pause-fraicheur-vegetalisation-protections-solaires-sur-les-batiments-espaces-souterrains-20260812_ELOA6EJDDRFEVPZFO7FZTI4FM4/",
+  "id": "9b4eff33acef",
+  "title": "Pour 2050, Paris à l’heure de la pause fraîcheur : végétalisation, protections solaires sur les bâtiments, espaces souterrains...",
+  "subtitle": "Avec ses toits en zinc et ses façades haussmanniennes, la capitale a montré son impréparation face aux derniers épisodes caniculaires. Architectes, ingénieurs et artistes ont pourtant anticipé des solutions pour rafraîchir la ville, à la condition de voir le paysage transformé.",
+  "date": "2026-08-12T10:49:07+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/on-se-croirait-dans-lapres-guerre-quand-les-gens-avaient-tout-perdu-apres-lincendie-les-sinistres-du-porge-tentent-de-rebatir-leur-vie-20260812_LQJB5S3TGJBZPL2SPT2MJYFASE/",
+  "id": "10dd1a8fe5dd",
+  "title": "Après l’incendie, les sinistrés du Porge tentent de rebâtir leur vie : «On se croirait dans l’après-guerre, quand les gens avaient tout perdu»",
+  "subtitle": "Près de deux semaines après le mégafeu qui a ravagé 183 maisons dans cette commune de Gironde, l’une des plus endeuillées, la maison France Services Victimes guide les habitants dans ce temps de l’après. Entre relogement, assurance et impôts, «Libé» a passé une journée dans ce ce",
+  "date": "2026-08-12T10:12:10+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
   "premium": true
  },
  {
@@ -413,6 +517,19 @@
   "matched_in": "chapô",
   "lat": 45.4039367,
   "lon": 0.3756199,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/religions/quelles-sont-les-grandes-etapes-du-voyage-a-la-fois-diplomatique-et-religieux-du-pape-en-france-fin-septembre-20260807_WVIQ6NUUMFGHPPOEAXHQDIVHMI/",
+  "id": "f04950e9fa45",
+  "title": "Quelles sont les grandes étapes du voyage à la fois diplomatique et religieux du pape en France, fin septembre ?",
+  "subtitle": "Le Vatican a officialisé, ce vendredi 7 août, le programme du déplacement de Léon XIV dans notre pays du 25 au 28 septembre. Deux jours sont prévus à Paris, avant une étape à Lourdes, et une autre à Metz.",
+  "date": "2026-08-07T10:07:43+00:00",
+  "place": "Lourdes",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.0940904,
+  "lon": -0.0464975,
   "premium": true
  },
  {
@@ -673,6 +790,19 @@
   "matched_in": "titre",
   "lat": 44.8839021,
   "lon": -0.6046439,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/sports/football/chute-des-girondins-de-bordeaux-le-club-vendu-a-un-fonds-dinvestissement-britannique-la-liquidation-seloigne-20260731_OKEFBPX3JBFODDAIF3BJU7UDEE/",
+  "id": "313632d4ea9f",
+  "title": "Chute des Girondins de Bordeaux : le club vendu à un fonds d’investissement britannique, la liquidation s’éloigne",
+  "subtitle": "Alors qu’il était condamné à évoluer en Régional 1, faute d’avoir obtenu les financements nécessaires en juillet, le club six fois vainqueur de la Ligue 1 voit son problème en partie résolu avec son rachat ce vendredi 31 juillet par Sparta Capital.",
+  "date": "2026-07-31T18:50:04+00:00",
+  "place": "Bordeaux",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 44.841225,
+  "lon": -0.5800364,
   "premium": true
  },
  {
@@ -1196,6 +1326,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/lifestyle/gastronomie/visiter-marseille-sans-etre-pris-pour-un-pigeon-nos-bonnes-adresses-pour-manger-un-morceau-20260720_YMR4B3EGPFAFNJEWQYN3QSQDIA/",
+  "id": "3462a143d881",
+  "title": "Visiter Marseille sans être pris pour un pigeon : nos bonnes adresses pour manger un morceau",
+  "subtitle": "Cet été, «Libé» vous partage ses bons plans dans des coins (très) touristiques. Aujourd’hui, quelques idées pour casser la croûte sans y laisser un rein dans la deuxième ville de France, de la Plaine à la Belle de Mai en passant par Noailles et Belsunce.",
+  "date": "2026-07-20T09:00:35+00:00",
+  "place": "Marseille",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.2963986,
+  "lon": 5.3777888,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/culture/scenes/mahaut-drama-cirque-rappe-et-danse-anti-milei-a-paris-lete-crues-de-scenes-20260720_FMPTAFANTFE4DAP54HXNW36ZUA/",
   "id": "7e2f864cc955",
   "title": "Mahaut Drama, cirque rappé et danse anti-Milei… A Paris l’été, crues de scènes",
@@ -1274,6 +1417,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/police-justice/a-bordeaux-deux-plaintes-pour-viols-contre-un-directeur-decole-une-information-judiciaire-ouverte-20260715_ESFUJWOOGBCPTMBUNNVROTRIPM/",
+  "id": "5b18a89939bf",
+  "title": "A Bordeaux, deux plaintes pour viols contre un directeur d’école, une information judiciaire ouverte",
+  "subtitle": "Le directeur de l’école élémentaire privée catholique Sainte-Marie Bastide est soupçonné de viols, d’agressions sexuelles et de menaces de mort à l’encontre de deux petits garçons.",
+  "date": "2026-07-15T20:19:37+00:00",
+  "place": "Bordeaux",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 44.841225,
+  "lon": -0.5800364,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/sports/football/girondins-de-bordeaux-lexclusion-du-club-de-foot-des-competitions-nationales-confirmee-en-appel-20260715_FTNULYDJLVD75FWNZUYUKG43NA/",
   "id": "82a7023e5215",
   "title": "Girondins de Bordeaux : l’exclusion du club de foot des compétitions nationales confirmée en appel",
@@ -1284,6 +1440,19 @@
   "matched_in": "titre",
   "lat": 44.841225,
   "lon": -0.5800364,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/dix-ans-apres-lattentat-de-nice-la-lente-enquete-sur-les-failles-de-la-securite-connait-un-leger-sursaut-20260713_R3HPQH7BANC6VKAOCTXFWRWT6Y/",
+  "id": "840891a32555",
+  "title": "Dix ans après l’attentat de Nice, la lente enquête sur les failles de la sécurité connaît un léger sursaut",
+  "subtitle": "La sécurisation de la Promenade des Anglais est le dernier dossier judiciaire encore ouvert dans cette affaire. Les victimes et leurs avocats déplorent le «marasme» dans lequel se trouve la procédure, qui doit déterminer les responsabilités et les éventuels manquements à la prote",
+  "date": "2026-07-13T13:35:51+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
   "premium": true
  },
  {
@@ -1339,6 +1508,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/culture/livres/festival-partir-en-livre-a-grenoble-un-atelier-litteraire-pour-les-dieux-et-les-petits-20260710_7QS4KJWQ6REBTAQNAAVTR6Q3XQ/",
+  "id": "517b200db372",
+  "title": "Festival Partir en livre : à Grenoble, un atelier littéraire pour les dieux et les petits",
+  "subtitle": "En partenariat avec le Centre national du livre, l’autrice jeunesse Marie Boulier initie des jeunes esprits à la lecture et à l’écriture sur fond de quête mythologique.",
+  "date": "2026-07-10T16:30:38+00:00",
+  "place": "Grenoble",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.1875602,
+  "lon": 5.7357819,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/narcotrafic-une-centaine-dinterpellations-a-grenoble-lors-doperations-coordonnees-20260710_NJ4JOTI6DRB6VKXPANU57ZHVIA/",
   "id": "96deb08940db",
   "title": "Narcotrafic : une «centaine d’interpellations» à Grenoble lors d’opérations coordonnées",
@@ -1362,6 +1544,32 @@
   "matched_in": "titre",
   "lat": 49.2607914,
   "lon": 2.4733771,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/sante/on-a-le-sentiment-detre-enfin-ecoutes-a-montpellier-des-chercheurs-ont-peut-etre-perce-une-des-origines-du-begaiement-20260707_23ZO3EVMRJEKFCF4UR34WJE3ZA/",
+  "id": "396aae44b49e",
+  "title": "«On a le sentiment d’être enfin écoutés» : à Montpellier, des chercheurs ont peut-être percé une des origines du bégaiement",
+  "subtitle": "Alors que ce trouble parfois très handicapant touche 1 % de la population et que 5 % des enfants traversent un épisode de bégaiement, une équipe de scientifiques tente, depuis 2021, de localiser grâce à des IRM les zones cérébrales impliquées dans ces «accidents de parole».",
+  "date": "2026-07-07T14:34:43+00:00",
+  "place": "Montpellier",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.6112422,
+  "lon": 3.8767337,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/la-piste-de-laeroport-de-nantes-ferme-lundi-soir-apres-un-nouvel-incident-sur-un-avion-20260707_CXYIFEPFBBCFBINTWEIPRCOIRY/",
+  "id": "2611770363f1",
+  "title": "La piste de l’aéroport de Nantes fermée lundi soir après un nouvel incident sur un avion",
+  "subtitle": "L’éclatement d’un pneu lors d’un décollage a entraîné de nombreux retards sur les autres vols. Mais l’ensemble des passagers est indemne, et le site aéroportuaire a rouvert ce mardi 7 juillet.",
+  "date": "2026-07-07T10:00:56+00:00",
+  "place": "Nantes",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 47.2186371,
+  "lon": -1.5541362,
   "premium": true
  },
  {
@@ -1612,6 +1820,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/economie/la-canicule-fait-disjoncter-le-reseau-delectricite-20260624_XVS6W6WT2NHLVBFEM2ROYJF4IQ/",
+  "id": "e33c63585543",
+  "title": "La canicule fait disjoncter le réseau d’électricité",
+  "subtitle": "Pannes géantes en Bretagne, câbles souterrains fragilisés, réacteurs nucléaires ralentis : mercredi 24 juin, 85 000 foyers étaient privés d’électricité en France. La faute aux fortes chaleurs qui mettent à rude épreuve les infrastructures.",
+  "date": "2026-06-24T18:40:37+00:00",
+  "place": "Bretagne",
+  "place_cat": "region",
+  "matched_in": "chapô",
+  "lat": 48.2640845,
+  "lon": -2.9202408,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/environnement/chlordecone-huit-adultes-sur-dix-contamines-en-guadeloupe-et-en-martinique-20260624_W6CO6FPIW5BD7BQ2SSTEE5GJ4U/",
   "id": "259e8734637f",
   "title": "Chlordécone : huit adultes sur dix contaminés en Guadeloupe et en Martinique",
@@ -1700,19 +1921,6 @@
   "matched_in": "titre",
   "lat": 42.625894,
   "lon": 2.506509,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/nouvelle-caledonie-les-independantistes-en-ordre-disperse-a-lapproche-des-elections-provinciales-20260620_MP4YAS5CPNDLJHQCSLFXNPK6XE/",
-  "id": "b98cdf440356",
-  "title": "Nouvelle-Calédonie : les indépendantistes en ordre dispersé à l’approche des élections provinciales",
-  "subtitle": "Les divisions héritées des violences de 2024 continuent de fragiliser le camp indépendantiste, qui compte de nombreuses listes concurrentes pour le scrutin du 28 juin. La situation pourrait profiter aux loyalistes dans leur quête d’une majorité au Congrès.",
-  "date": "2026-06-20T05:00:00+00:00",
-  "place": "Nouvelle-Calédonie",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": -21.3019905,
-  "lon": 165.4880773,
   "premium": true
  }
 ]

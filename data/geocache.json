@@ -206,5 +206,21 @@
  "Centre-Val de Loire, France": {
   "lat": 47.5490251,
   "lon": 1.7324062
+ },
+ "Loir-et-Cher, France": {
+  "lat": 47.6597752,
+  "lon": 1.2971835
+ },
+ "Lorient, France": {
+  "lat": 47.7477336,
+  "lon": -3.3660907
+ },
+ "Pontoise, France": {
+  "lat": 49.0508845,
+  "lon": 2.1008067
+ },
+ "Lourdes, France": {
+  "lat": 43.0940904,
+  "lon": -0.0464975
  }
 }
