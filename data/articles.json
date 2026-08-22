@@ -1896,31 +1896,5 @@
   "lat": 43.2963986,
   "lon": 5.3777888,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/portraits/jenny-briffa-laccorte-de-noumea-20260621_Y4TSWE5LJFCZNBG6Q5IAVOR6QU/",
-  "id": "d91b35eada8e",
-  "title": "Jenny Briffa, dramaturge : l’accorte de Nouméa",
-  "subtitle": "L’ex-journaliste écrit des pièces de théâtre où elle raconte la complexité et la vitalité de sa Nouvelle-Calédonie.",
-  "date": "2026-06-21T15:18:27+00:00",
-  "place": "Nouméa",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": -22.2745264,
-  "lon": 166.442419,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/gregory-doucet-maire-ecologiste-de-lyon-a-gauche-on-a-un-besoin-imperatif-de-se-reunir-20260621_WG5X5JJXEZEWXOYFNGBPZVRHBY/",
-  "id": "c2bb00f835d1",
-  "title": "Grégory Doucet, maire écologiste de Lyon : «A gauche, on a un besoin impératif de se réunir»",
-  "subtitle": "A l’heure du bilan de ses cent jours à la tête de la ville et à un an de la présidentielle, le maire de Lyon appelle à une primaire à gauche. Il réagit également à l’affaire des violences sexuelles que n’aurait pas dénoncées Jean-Michel Aulas, son ancien concurrent aux municipale",
-  "date": "2026-06-21T15:02:20+00:00",
-  "place": "Lyon",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 45.7578137,
-  "lon": 4.8320114,
-  "premium": true
  }
 ]
