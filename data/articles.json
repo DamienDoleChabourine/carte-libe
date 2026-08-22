@@ -1922,18 +1922,5 @@
   "lat": 45.7578137,
   "lon": 4.8320114,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/les-pyrenees-orientales-pourraient-etre-le-premier-departement-a-changer-de-nom-depuis-pres-de-trente-ans-20260621_KX5MXDG5XJA77ME5KE6NYDI5I4/",
-  "id": "b139af08e085",
-  "title": "Les Pyrénées-Orientales pourraient être le premier département à changer de nom depuis près de trente ans",
-  "subtitle": "Du 22 juin au 15 août, les habitants du département catalan sont appelés à se prononcer sur le prochain nom de leur territoire dont l’actuel, qu’ils peuvent décider de conserver, est jugé insuffisamment représentatif de l’identité locale.",
-  "date": "2026-06-21T08:04:00+00:00",
-  "place": "Pyrénées-Orientales",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 42.625894,
-  "lon": 2.506509,
-  "premium": true
  }
 ]
