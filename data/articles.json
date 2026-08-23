@@ -1870,18 +1870,5 @@
   "lat": 42.188098,
   "lon": 9.0683139,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/pollution/scandale-du-chlordecone-la-justice-refuse-la-reouverture-de-lenquete-20260622_D6Z3VOVBIRDXVLVNOODCFM4KSM/",
-  "id": "e26716230f07",
-  "title": "Scandale du chlordécone : la justice refuse la réouverture de l’enquête",
-  "subtitle": "La cour d’appel de Paris a confirmé ce lundi 22 juin le non-lieu prononcé en 2023, en première instance, dans l’affaire de ce pesticide massivement utilisé à la Martinique et en Guadeloupe jusqu’en 1993, malgré les connaissances sur sa toxicité.",
-  "date": "2026-06-22T14:21:36+00:00",
-  "place": "Guadeloupe",
-  "place_cat": "territoire",
-  "matched_in": "chapô",
-  "lat": 16.2528827,
-  "lon": -61.5686855,
-  "premium": true
  }
 ]
