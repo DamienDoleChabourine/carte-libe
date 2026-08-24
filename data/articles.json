@@ -1,5 +1,18 @@
 [
  {
+  "url": "https://www.liberation.fr/societe/sante/dans-le-mercantour-des-ados-diabetiques-sur-le-chemin-des-sommets-jamais-je-naurais-pense-etre-capable-de-faire-ca-20260823_XJJG4WWNWBG53LTDWUJTKKIAXE/",
+  "id": "149d3cd7a4f3",
+  "title": "Dans le Mercantour, des ados diabétiques sur le chemin des sommets : «Jamais je n’aurais pensé être capable de faire ça»",
+  "subtitle": "Sur les sentiers escarpés des Alpes-Maritimes, le «dépassement de soi, le calme et la nature» s’ouvrent à un groupe de jeunes diabétiques de type 1, accompagnés par un guide lui aussi atteint par cette pathologie. Une première pour beaucoup, qui découvrent être capables de randon",
+  "date": "2026-08-23T05:40:00+00:00",
+  "place": "Alpes-Maritimes",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 43.9210587,
+  "lon": 7.1790785,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/a-grenoble-les-ecologistes-nesquivent-pas-la-question-des-alliances-pour-2027-20260820_6MJDAUW2PFCZTFK7YG3NSJSBLM/",
   "id": "b4163d67fe4a",
   "title": "A Grenoble, Les Ecologistes n’esquivent pas la question des alliances pour 2027",
@@ -49,6 +62,19 @@
   "matched_in": "titre",
   "lat": 48.584614,
   "lon": 7.7507127,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/decouverte-avec-un-oreiller-sur-le-visage-une-enquete-ouverte-pour-meurtre-apres-la-mort-suspecte-dune-residente-dun-ehpad-a-rennes-20260818_7L2NNOINFZALFBU4DCJ7ANSSBY/",
+  "id": "d128f3b2595c",
+  "title": "«Découverte avec un oreiller sur le visage» : une enquête ouverte pour meurtre après la mort suspecte d’une résidente d’un Ehpad à Rennes",
+  "subtitle": "La femme de 82 ans était «invalide» et «pas autonome» selon une source policière à l’AFP. Son corps a été retrouvé dimanche 16 août dans la soirée.",
+  "date": "2026-08-18T10:19:55+00:00",
+  "place": "Rennes",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.1113387,
+  "lon": -1.6800198,
   "premium": true
  },
  {
@@ -1869,19 +1895,6 @@
   "matched_in": "titre",
   "lat": 45.1875602,
   "lon": 5.7357819,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/statut-de-la-corse-a-lassemblee-une-version-de-compromis-suspendue-a-un-vote-incertain-20260623_7I6OP7ZXPRH2PCLH5J23CMMKPU/",
-  "id": "41820da18a05",
-  "title": "Statut de la Corse : à l’Assemblée, une version de compromis adoptée par les députés",
-  "subtitle": "Les députés se sont prononcés, ce mardi 23 juin, en faveur du projet de loi constitutionnelle visant à accorder un «statut d’autonomie» à l’île. Amendée, l’évocation d’une «communauté insulaire» ne fait pas l’unanimité et LFI regrette que le principe «non-régression sociale» ne f",
-  "date": "2026-06-23T16:37:48+00:00",
-  "place": "Corse",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 42.188098,
-  "lon": 9.0683139,
   "premium": true
  }
 ]

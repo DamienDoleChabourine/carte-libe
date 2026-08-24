@@ -222,5 +222,9 @@
  "Lourdes, France": {
   "lat": 43.0940904,
   "lon": -0.0464975
+ },
+ "Alpes-Maritimes, France": {
+  "lat": 43.9210587,
+  "lon": 7.1790785
  }
 }
