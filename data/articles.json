@@ -1703,6 +1703,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/politique/elections/elections-en-nouvelle-caledonie-les-loyalistes-nobtiendraient-pas-la-majorite-absolue-20260628_KLU5U74JYRCFLB7WSXMPR76UQE/",
+  "id": "a00a362a5b8c",
+  "title": "En Nouvelle-Calédonie, les élections bousculent les équilibres politiques, sans dégager de majorité",
+  "subtitle": "L’écrasante victoire des loyalistes en province Sud, la plus peuplée de l’archipel, ne suffit pas à la coalition non-indépendantiste emmenée par Sonia Backès pour décrocher la majorité absolue au Congrès. Les indépendantistes, divisés, conservent les deux autres provinces. Tout r",
+  "date": "2026-06-29T07:48:40+00:00",
+  "place": "Nouvelle-Calédonie",
+  "place_cat": "territoire",
+  "matched_in": "titre",
+  "lat": -21.3019905,
+  "lon": 165.4880773,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/immigration/il-y-a-quelque-chose-ici-de-la-france-hospitaliere-a-lille-une-solidarite-de-quartier-pour-les-mineurs-exiles-20260629_QVUCS3S3ARAU5DBIGCT2T3QDXY/",
   "id": "e5e92210ae97",
   "title": "«Il y a quelque chose ici de la France hospitalière» : à Lille, une solidarité de quartier pour les mineurs exilés",
