@@ -1883,18 +1883,5 @@
   "lat": 16.2528827,
   "lon": -61.5686855,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/canicule-a-grenoble-on-a-cree-la-ville-parc-la-ou-regnait-le-bitume-20260624_UMOV72TWHJDTJODZPKFV5EGSWA/",
-  "id": "2e3d73e34a0e",
-  "title": "Canicule : à Grenoble, «on a créé la ville-parc là où régnait le bitume»",
-  "subtitle": "Rénovations thermiques, écoles végétalisées, installation de fontaines à eau… Gérée depuis 2014 par Les Ecologistes, la préfecture de l’Isère, dense et très sensible aux fortes chaleurs, a multiplié les initiatives visant à limiter l’impact des épisodes caniculaires.",
-  "date": "2026-06-24T03:28:00+00:00",
-  "place": "Grenoble",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 45.1875602,
-  "lon": 5.7357819,
-  "premium": true
  }
 ]
