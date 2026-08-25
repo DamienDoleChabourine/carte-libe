@@ -1857,18 +1857,5 @@
   "lat": 45.2968119,
   "lon": 4.6604809,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/la-canicule-fait-disjoncter-le-reseau-delectricite-20260624_XVS6W6WT2NHLVBFEM2ROYJF4IQ/",
-  "id": "e33c63585543",
-  "title": "La canicule fait disjoncter le réseau d’électricité",
-  "subtitle": "Pannes géantes en Bretagne, câbles souterrains fragilisés, réacteurs nucléaires ralentis : mercredi 24 juin, 85 000 foyers étaient privés d’électricité en France. La faute aux fortes chaleurs qui mettent à rude épreuve les infrastructures.",
-  "date": "2026-06-24T18:40:37+00:00",
-  "place": "Bretagne",
-  "place_cat": "region",
-  "matched_in": "chapô",
-  "lat": 48.2640845,
-  "lon": -2.9202408,
-  "premium": true
  }
 ]
