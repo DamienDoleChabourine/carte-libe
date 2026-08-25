@@ -1870,18 +1870,5 @@
   "lat": 48.2640845,
   "lon": -2.9202408,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/chlordecone-huit-adultes-sur-dix-contamines-en-guadeloupe-et-en-martinique-20260624_W6CO6FPIW5BD7BQ2SSTEE5GJ4U/",
-  "id": "259e8734637f",
-  "title": "Chlordécone : huit adultes sur dix contaminés en Guadeloupe et en Martinique",
-  "subtitle": "Une nouvelle étude de Santé publique France révèle l’ampleur de la contamination au perturbateur endocrinien, qui a empoisonné les Antilles jusqu’en 1993.",
-  "date": "2026-06-24T11:09:34+00:00",
-  "place": "Guadeloupe",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": 16.2528827,
-  "lon": -61.5686855,
-  "premium": true
  }
 ]
