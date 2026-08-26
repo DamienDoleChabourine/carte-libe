@@ -1844,18 +1844,5 @@
   "lat": 43.6487851,
   "lon": 2.3435684,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/laurent-wauquiez-accuse-de-detournements-de-fonds-publics-par-les-ecologistes-dauvergne-rhone-alpes-20260625_FHK7UB3GKBEGPAUL3LLUUDRMBM/",
-  "id": "1f4716d9ae88",
-  "title": "Laurent Wauquiez accusé de «détournements de fonds publics» par les Ecologistes d’Auvergne-Rhône-Alpes",
-  "subtitle": "Les Verts ont annoncé mercredi 24 juin saisir la justice, au titre de l’article 40 du code de procédure pénale, accusant le patron des députés LR d’exercer «une présidence de fait» de la région, malgré sa démission en 2024.",
-  "date": "2026-06-25T09:28:52+00:00",
-  "place": "Auvergne-Rhône-Alpes",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 45.2968119,
-  "lon": 4.6604809,
-  "premium": true
  }
 ]
