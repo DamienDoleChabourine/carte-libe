@@ -1805,31 +1805,5 @@
   "lat": -21.3019905,
   "lon": 165.4880773,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/assassinat-de-dominique-bernard-vers-un-proces-important-pour-comprendre-le-chemin-de-la-fanatisation-20260626_DEQPLCNDHNF7XL6TF5NKTIKC2E/",
-  "id": "dd05edc79542",
-  "title": "Assassinat de Dominique Bernard : vers un procès «important» pour comprendre le «chemin de la fanatisation»",
-  "subtitle": "Fait rare dans les affaires terroristes, l’auteur des coups mortels contre l’enseignant d’Arras est toujours vivant et parait en position de s’exprimer à son procès, que le parquet national antiterroriste a demandé mardi 23 juin.",
-  "date": "2026-06-26T08:21:38+00:00",
-  "place": "Arras",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 50.291048,
-  "lon": 2.7772211,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/elections/nouvelle-caledonie-comment-fonctionnent-les-elections-provinciales-tant-attendues-depuis-deux-ans-20260626_ANSSFDCXTJH4HAIXQNLRJEHZY4/",
-  "id": "14615d2e9063",
-  "title": "Nouvelle-Calédonie : comment fonctionnent les élections provinciales, tant attendues depuis deux ans ?",
-  "subtitle": "Près de 200 000 Calédoniens sont appelés aux urnes ce dimanche 28 juin pour désigner les membres de l’assemblée de l’archipel. Le résultat influencera les prochaines discussions sur le statut institutionnel du territoire.",
-  "date": "2026-06-26T05:06:00+00:00",
-  "place": "Nouvelle-Calédonie",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": -21.3019905,
-  "lon": 165.4880773,
-  "premium": true
  }
 ]
