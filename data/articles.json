@@ -1792,18 +1792,5 @@
   "lat": -12.823048,
   "lon": 45.1520755,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/en-nouvelle-caledonie-on-nous-a-fait-croire-quon-ne-pouvait-plus-vivre-ensemble-20260627_GZPAA6EDXZGINEYNPCYYUFG2ZI/",
-  "id": "a8174d1d5d6a",
-  "title": "En Nouvelle-Calédonie, «on nous a fait croire qu’on ne pouvait plus vivre ensemble»",
-  "subtitle": "La campagne des élections provinciales, prévues dimanche 28 juin, a alimenté les divisions entre loyalistes et indépendantistes de l’archipel. Dans les quartiers et au sein des communautés, une partie de la population rejette cet antagonisme et témoigne d’une solidarité permanent",
-  "date": "2026-06-27T05:12:00+00:00",
-  "place": "Nouvelle-Calédonie",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": -21.3019905,
-  "lon": 165.4880773,
-  "premium": true
  }
 ]
