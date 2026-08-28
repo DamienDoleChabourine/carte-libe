@@ -1779,18 +1779,5 @@
   "lat": 47.2186371,
   "lon": -1.5541362,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/recensement-polemique-a-mayotte-lile-compte-moins-de-350-000-habitants-20260627_MT675ZUYTRAPJFBBVEJKNPKM6Y/",
-  "id": "1831d7de1361",
-  "title": "Recensement polémique à Mayotte : l’île compte moins de 350 000 habitants",
-  "subtitle": "L’Insee doit publier début juillet les résultats du recensement, sensible, du département d’outre-mer. Selon nos informations, la population s’élèverait à moins de 350 000 habitants, bien en deçà des estimations de certains élus locaux, qui comptent sur ce chiffre pour obtenir da",
-  "date": "2026-06-27T10:55:35+00:00",
-  "place": "Mayotte",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": -12.823048,
-  "lon": 45.1520755,
-  "premium": true
  }
 ]
