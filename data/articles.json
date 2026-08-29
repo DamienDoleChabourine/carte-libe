@@ -1753,31 +1753,5 @@
   "lat": 50.6365654,
   "lon": 3.0635282,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/international/europe/fin-de-la-canicule-elections-en-nouvelle-caledonie-16e-de-finale-de-la-coupe-du-monde-lactu-de-ce-week-end-des-27-et-28-juin-20260628_J3XZWVJHIBAAZPDDC3FWRD3DUY/",
-  "id": "92fd85cd1728",
-  "title": "Fin de la canicule, élections en Nouvelle-Calédonie, 16e de finale de la Coupe du monde… L’actu de ce week-end des 27 et 28 juin",
-  "subtitle": "La rédaction de «Libération» récapitule les principales actualités des samedi 27 et dimanche 28 juin 2026.",
-  "date": "2026-06-28T15:18:15+00:00",
-  "place": "Nouvelle-Calédonie",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": -21.3019905,
-  "lon": 165.4880773,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/nantes-un-jeune-homme-de-19-ans-tue-par-balle-le-cinquieme-homicide-en-deux-mois-dans-la-ville-20260628_BAZOMO2ZSBH33HWFKBIEFIHZ3E/",
-  "id": "d198eff471d7",
-  "title": "Nantes : un jeune homme de 19 ans tué par balle, le cinquième homicide en deux mois dans la ville",
-  "subtitle": "La victime a été prise pour cible ce dimanche 28 juin au petit matin dans le nord de Nantes, non loin du stade de la Beaujoire. Le parquet n’a pour l’heure pas communiqué sur un éventuel lien avec le narcotrafic.",
-  "date": "2026-06-28T11:46:42+00:00",
-  "place": "Nantes",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 47.2186371,
-  "lon": -1.5541362,
-  "premium": true
  }
 ]
