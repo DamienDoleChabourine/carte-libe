@@ -1727,18 +1727,5 @@
   "lat": 45.1840214,
   "lon": 0.7160392,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/sports/football/football-les-girondins-de-bordeaux-exclus-de-toutes-les-competitions-nationales-en-2026-2027-par-la-dncg-20260630_DUCG5NF3NZGJLLRNTCNUCP72SA/",
-  "id": "8878e79b319a",
-  "title": "Football : les Girondins de Bordeaux exclus de toutes les compétitions nationales en 2026-2027 par la DNCG",
-  "subtitle": "Le club a annoncé ce mardi 30 juin qu’il comptait faire appel de la décision du gendarme financier du foot français.",
-  "date": "2026-06-30T14:41:22+00:00",
-  "place": "Bordeaux",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 44.841225,
-  "lon": -0.5800364,
-  "premium": true
  }
 ]
