@@ -1701,18 +1701,5 @@
   "lat": 48.7620374,
   "lon": 1.8871376,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/bordeaux-enquete-ouverte-apres-sept-plaintes-pour-violences-sexuelles-en-maternelle-20260701_K6G2KBUTUBH63BV33FRPJ5ST3M/",
-  "id": "239a1b87b43b",
-  "title": "A Bordeaux, une enquête ouverte après sept plaintes pour violences sexuelles en maternelle",
-  "subtitle": "Un Atsem et un animateur du périscolaire ont été entendus mardi après des perquisitions à leur domicile. Auraient été visés «des enfants qui ne parlaient pas encore très bien, avaient du mal à s’exprimer», selon une représentante de parents d’élèves.",
-  "date": "2026-07-01T18:26:48+00:00",
-  "place": "Bordeaux",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 44.841225,
-  "lon": -0.5800364,
-  "premium": true
  }
 ]
