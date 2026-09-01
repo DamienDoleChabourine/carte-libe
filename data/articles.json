@@ -1714,18 +1714,5 @@
   "lat": 44.841225,
   "lon": -0.5800364,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/fronde-a-perigueux-contre-lorganisation-dun-banquet-du-canon-francais-impossible-que-la-ville-devienne-un-refuge-pour-lextreme-droite-20260701_Q6JNYLYKNZHR5KENTPV3XOOMIM/",
-  "id": "3c2c677df005",
-  "title": "Fronde à Périgueux contre l’organisation d’un banquet du Canon français : «Impossible que la ville devienne un refuge pour l’extrême droite»",
-  "subtitle": "Plus de 400 personnes ont manifesté mardi devant la mairie de la préfecture de Dordogne afin de réclamer l’annulation de l’évènement prévu en octobre prochain. L’ombre de l’un des actionnaires de l’entreprise, Pierre-Édouard Stérin, est pointée du doigt.",
-  "date": "2026-07-01T12:44:40+00:00",
-  "place": "Périgueux",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 45.1840214,
-  "lon": 0.7160392,
-  "premium": true
  }
 ]
