@@ -1675,18 +1675,5 @@
   "lat": 48.2640845,
   "lon": -2.9202408,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/portraits/pierre-abbate-gardien-de-la-paix-lors-de-lattentat-de-nice-police-secousses-20260702_4JHFGTQTMRDADO6QQAI6ANE56E/",
-  "id": "24b5f096ee97",
-  "title": "Pierre Abbate, ancien gardien de la paix : police secousses",
-  "subtitle": "L’ancien membre des forces de l’ordre, en fonction lors de l’attentat de Nice en 2016, s’est reconverti comme DJ et producteur de festivals.",
-  "date": "2026-07-02T13:18:59+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
  }
 ]
