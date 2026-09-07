@@ -1597,18 +1597,5 @@
   "lat": 43.6112422,
   "lon": 3.8767337,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/la-piste-de-laeroport-de-nantes-ferme-lundi-soir-apres-un-nouvel-incident-sur-un-avion-20260707_CXYIFEPFBBCFBINTWEIPRCOIRY/",
-  "id": "2611770363f1",
-  "title": "La piste de l’aéroport de Nantes fermée lundi soir après un nouvel incident sur un avion",
-  "subtitle": "L’éclatement d’un pneu lors d’un décollage a entraîné de nombreux retards sur les autres vols. Mais l’ensemble des passagers est indemne, et le site aéroportuaire a rouvert ce mardi 7 juillet.",
-  "date": "2026-07-07T10:00:56+00:00",
-  "place": "Nantes",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 47.2186371,
-  "lon": -1.5541362,
-  "premium": true
  }
 ]
