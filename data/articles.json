@@ -1584,18 +1584,5 @@
   "lat": 49.2607914,
   "lon": 2.4733771,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/sante/on-a-le-sentiment-detre-enfin-ecoutes-a-montpellier-des-chercheurs-ont-peut-etre-perce-une-des-origines-du-begaiement-20260707_23ZO3EVMRJEKFCF4UR34WJE3ZA/",
-  "id": "396aae44b49e",
-  "title": "«On a le sentiment d’être enfin écoutés» : à Montpellier, des chercheurs ont peut-être percé une des origines du bégaiement",
-  "subtitle": "Alors que ce trouble parfois très handicapant touche 1 % de la population et que 5 % des enfants traversent un épisode de bégaiement, une équipe de scientifiques tente, depuis 2021, de localiser grâce à des IRM les zones cérébrales impliquées dans ces «accidents de parole».",
-  "date": "2026-07-07T14:34:43+00:00",
-  "place": "Montpellier",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.6112422,
-  "lon": 3.8767337,
-  "premium": true
  }
 ]
