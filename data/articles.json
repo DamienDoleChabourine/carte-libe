@@ -1,5 +1,31 @@
 [
  {
+  "url": "https://www.liberation.fr/societe/police-justice/un-homme-tue-par-balle-dans-la-banlieue-de-lyon-20260905_ZKH54F3PFFFQ3ACLJRKBLVGTWY/",
+  "id": "9753f60a242e",
+  "title": "Un homme tué par balle dans la banlieue de Lyon",
+  "subtitle": "Un ou plusieurs inconnus ont ouvert le feu vendredi soir, à Vaulx-en-Velin, depuis un autre véhicule avant de prendre la fuite. Aucun lien avec le narcotrafic n’est établi à ce stade.",
+  "date": "2026-09-05T10:50:33+00:00",
+  "place": "Lyon",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.7578137,
+  "lon": 4.8320114,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/violences-dans-le-periscolaire-a-paris-le-maire-emmanuel-gregoire-et-anne-hidalgo-vises-par-une-plainte-de-familles-20260904_6QJP4PKJZVFZ5PFK7PNJE4GZTY/",
+  "id": "e1638b448216",
+  "title": "«La ville de Paris savait mais n’a pas agi» : Emmanuel Grégoire et Anne Hidalgo visés par une plainte pour leur gestion des violences sexuelles dans le périscolaire",
+  "subtitle": "Les plaignants, des familles de victimes, demandent vendredi 4 septembre que la lumière soit faite sur ce que les élus savaient des dysfonctionnements dans le périscolaire. Le maire socialiste a annoncé «prendre acte» de cette plainte et se tenir à disposition de la justice.",
+  "date": "2026-09-04T12:50:09+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/immigration/mayotte-le-laboratoire-inhumain-des-politiques-migratoires-de-la-droite-et-de-lextreme-droite-20260827_U5W3IHGDGRC2TGGK4DT7ORI74E/",
   "id": "12e6b8edb1dd",
   "title": "Mayotte, le «laboratoire inhumain» des politiques migratoires de la droite et de l’extrême droite",
@@ -10,6 +36,32 @@
   "matched_in": "titre",
   "lat": -12.823048,
   "lon": 45.1520755,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/immigration/a-paris-une-soixantaine-de-migrants-decouverts-dans-la-remorque-dun-camion-20260826_4HQZP7TDABFIFFLSZWPEFAZ5DI/",
+  "id": "39cf7c63a529",
+  "title": "A Paris, une soixantaine de migrants découverts dans la remorque d’un camion",
+  "subtitle": "Les personnes, dont des femmes et des enfants, ont été découvertes dans la nuit, serrées dans la remorque véhicule abandonné dans le XVIIIe arrondissement de la capitale.",
+  "date": "2026-08-26T10:32:34+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/concert-de-patrick-bruel-a-strasbourg-la-maire-catherine-trautmann-demande-au-zenith-sa-deprogrammation-20260824_HNKZEBG7L5FRLJYSNE7BRK4WZI/",
+  "id": "fae605526410",
+  "title": "Concert de Patrick Bruel à Strasbourg : la maire Catherine Trautmann demande au Zénith sa déprogrammation",
+  "subtitle": "L’élue a affirmé ce lundi avoir «informé le gestionnaire de la salle de [sa] position» afin que le concert «ne puisse pas se tenir à Strasbourg». Avant elle, plusieurs maires s’étaient déjà opposés à la venue du chanteur dans leur ville.",
+  "date": "2026-08-24T16:29:47+00:00",
+  "place": "Strasbourg",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.584614,
+  "lon": 7.7507127,
   "premium": true
  },
  {
@@ -49,6 +101,19 @@
   "matched_in": "chapô",
   "lat": 47.6597752,
   "lon": 1.2971835,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/sports/football/mort-du-footballeur-robert-mouynet-dernier-survivant-de-lequipe-de-france-troisieme-de-la-coupe-du-monde-1958-20260820_HQSXGGYO4RHZDJFR6JDHN46TRA/",
+  "id": "5ac4b3af1dde",
+  "title": "Mort du footballeur Robert Mouynet, dernier survivant de l’équipe de France troisième de la Coupe du monde 1958",
+  "subtitle": "L’ancien défenseur de Toulouse, Lyon et Cannes avait 96 ans. Blessé, il avait participé sans jouer à l’épopée glorieuse des Bleus de Raymond Kopa et Just Fontaine, éliminés en demi-finale par le Brésil de Pelé.",
+  "date": "2026-08-20T09:11:09+00:00",
+  "place": "Toulouse",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.6044638,
+  "lon": 1.4442433,
   "premium": true
  },
  {
@@ -1063,6 +1128,19 @@
   "matched_in": "titre",
   "lat": 44.8839021,
   "lon": -0.6046439,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/ce-matin-je-me-suis-leve-avec-lidee-daider-au-parc-des-expositions-de-bordeaux-la-vie-sorganise-aupres-des-sinistres-des-flammes-20260726_7WNVVYGGIJGSTJRL32B3FGPZJQ/",
+  "id": "1a6058b1aa75",
+  "title": "«Ce matin, je me suis levé avec l’idée d’aider» : au parc des expositions de Bordeaux, la vie s’organise auprès des sinistrés des flammes",
+  "subtitle": "Ateliers de maquillage pour enfants, épicerie de fortune, salles pour animaux… Au sein de l’immense espace, où sont accueillis des milliers d’évacués de l’incendie depuis quelques jours, citoyens comme pouvoirs publics régissent la vie quotidienne. Du temporaire qui pourrait dure",
+  "date": "2026-07-26T18:43:19+00:00",
+  "place": "Bordeaux",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 44.841225,
+  "lon": -0.5800364,
   "premium": true
  },
  {
