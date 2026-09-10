@@ -1636,18 +1636,5 @@
   "lat": 45.1875602,
   "lon": 5.7357819,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/narcotrafic-une-centaine-dinterpellations-a-grenoble-lors-doperations-coordonnees-20260710_NJ4JOTI6DRB6VKXPANU57ZHVIA/",
-  "id": "96deb08940db",
-  "title": "Narcotrafic : une «centaine d’interpellations» à Grenoble lors d’opérations coordonnées",
-  "subtitle": "Sept quartiers différents connus pour abriter des points de deal ont été concernés par les opérations en l’espace de quatre jours dans l’agglomération, théâtre depuis fin 2025 d’une guerre de territoires entre trafiquants de drogues.",
-  "date": "2026-07-10T06:33:56+00:00",
-  "place": "Grenoble",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 45.1875602,
-  "lon": 5.7357819,
-  "premium": true
  }
 ]
