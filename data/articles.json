@@ -1623,18 +1623,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/culture/livres/festival-partir-en-livre-a-grenoble-un-atelier-litteraire-pour-les-dieux-et-les-petits-20260710_7QS4KJWQ6REBTAQNAAVTR6Q3XQ/",
-  "id": "517b200db372",
-  "title": "Festival Partir en livre : à Grenoble, un atelier littéraire pour les dieux et les petits",
-  "subtitle": "En partenariat avec le Centre national du livre, l’autrice jeunesse Marie Boulier initie des jeunes esprits à la lecture et à l’écriture sur fond de quête mythologique.",
-  "date": "2026-07-10T16:30:38+00:00",
-  "place": "Grenoble",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 45.1875602,
-  "lon": 5.7357819,
-  "premium": true
  }
 ]
