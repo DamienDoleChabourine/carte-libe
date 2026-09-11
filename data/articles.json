@@ -1,5 +1,31 @@
 [
  {
+  "url": "https://www.liberation.fr/societe/police-justice/ardennes-un-quinquagenaire-en-proces-pour-le-viol-et-le-meurtre-de-loana-20260907_ZXVOQH3QPRDO3EJADN6SA7DVQU/",
+  "id": "3382a32625f5",
+  "title": "Ardennes : un homme de 60 ans en procès pour le viol et le meurtre de Loana",
+  "subtitle": "Jugé de ce lundi à mercredi à Charleville-Mézières, Jean-Baptiste M. encourt la réclusion criminelle à perpétuité assortie d’une période de sûreté maximale de 30 ans. Au premier jour du procès, il a entièrement reconnu les faits.",
+  "date": "2026-09-07T15:52:10+00:00",
+  "place": "Ardennes",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 49.6980118,
+  "lon": 4.6716005,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-jean-luc-melenchon-a-la-braderie-de-lille-a-fond-sur-le-pouvoir-dachat-20260905_GBAQNSSV55E2TESVNL3AOUNWLA/",
+  "id": "d42795e4eafd",
+  "title": "Présidentielle 2027 : Jean-Luc Mélenchon à la braderie de Lille, à fond sur le pouvoir d’achat",
+  "subtitle": "Devant une foule conquise, le candidat insoumis a, ce samedi, déroulé notamment les aspects économiques et sociaux de son programme : blocage des prix et des loyers, augmentation du smic et annulation d’une partie de la dette française.",
+  "date": "2026-09-05T18:31:22+00:00",
+  "place": "Lille",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 50.6365654,
+  "lon": 3.0635282,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/un-homme-tue-par-balle-dans-la-banlieue-de-lyon-20260905_ZKH54F3PFFFQ3ACLJRKBLVGTWY/",
   "id": "9753f60a242e",
   "title": "Un homme tué par balle dans la banlieue de Lyon",
@@ -26,6 +52,58 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/police-justice/agression-homophobe-du-president-de-lassociation-lgbt-flag-le-suspect-mis-en-examen-20260902_RSN5XQPCIFB5ZLNAQWYJX7V32I/",
+  "id": "e1ea9abff4fc",
+  "title": "Agression homophobe du président de l’association LGBT + «FLAG !» : le suspect mis en examen",
+  "subtitle": "Agé de 26 ans, l’homme au casier judiciaire vierge est poursuivi pour violences aggravées et vol. Le policier Pierre Picavet avait été agressé dans la nuit du samedi 29 août dans le quartier du Marais à Paris.",
+  "date": "2026-09-02T15:50:28+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/animaux/dans-lherault-un-boa-constrictor-recherche-depuis-trois-jours-et-des-habitants-appeles-a-la-vigilance-20260902_BCYDSLSWAJG7FOBJWLQMGD2XBE/",
+  "id": "362b046673db",
+  "title": "Dans l’Hérault, un boa constrictor recherché depuis trois jours et des habitants appelés à la vigilance",
+  "subtitle": "Un serpent de 1,70m s’est échappé de son vivarium depuis le dernier week-end d’août dans la commune de Saint-André-de-Sangonis, près de Montpellier. Il est toutefois non venimeux et présenté comme «plutôt peureux».",
+  "date": "2026-09-02T10:44:55+00:00",
+  "place": "Montpellier",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.6112422,
+  "lon": 3.8767337,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/sports/football/ligue-des-champions-tirage-corse-pour-le-psg-et-lille-en-phase-de-ligue-lens-davantage-menage-20260827_MJRCYZ7HGRG7ZFKB3ZIZ7L6QS4/",
+  "id": "085a8353889f",
+  "title": "Ligue des champions : tirage corsé pour le PSG et Lille en phase de ligue, Lens davantage ménagé",
+  "subtitle": "Les Parisiens devront notamment se frotter au Barça et à Manchester City, tandis que les Lillois défieront le Bayern Munich et Arsenal, en plus d’autres équipes de moindre dimension mais piégeuses.",
+  "date": "2026-08-27T18:32:39+00:00",
+  "place": "Lille",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 50.6365654,
+  "lon": 3.0635282,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/violences-dans-le-periscolaire-parisien-anne-hidalgo-directement-visee-par-des-plaintes-20260827_RQL6G2J2LJGNTHCYF4Q2RIIDLQ/",
+  "id": "5c31af2be8af",
+  "title": "Violences dans le périscolaire parisien : Anne Hidalgo directement visée par des plaintes",
+  "subtitle": "L’ancienne maire de Paris et son ex-premier adjoint, Patrick Bloche, sont visés par trois plaintes pour «non-assistance à personne en danger» déposées par des parents de l’école Saint-Dominique (VIIe arrondissement).",
+  "date": "2026-08-27T13:55:40+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/immigration/mayotte-le-laboratoire-inhumain-des-politiques-migratoires-de-la-droite-et-de-lextreme-droite-20260827_U5W3IHGDGRC2TGGK4DT7ORI74E/",
   "id": "12e6b8edb1dd",
   "title": "Mayotte, le «laboratoire inhumain» des politiques migratoires de la droite et de l’extrême droite",
@@ -39,6 +117,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/cycliste-poignarde-par-un-conducteur-la-lutte-contre-les-violences-motorisees-nest-pas-une-priorite-gouvernementale-20260826_RUHDOL5VBZHJBNUFVXB23HV72A/",
+  "id": "3ff87d57af82",
+  "title": "Cycliste poignardé par un conducteur : «La lutte contre les violences motorisées n’est pas une priorité gouvernementale»",
+  "subtitle": "Un homme circulant à vélo a été blessé à l’arme blanche mardi à Paris après un différend avec un automobiliste. Deux ans après la mort de Paul Varry, écrasé par un SUV, aucune mesure de prévention de ces violences n’a été prise, explique le porte-parole de l’association Paris en ",
+  "date": "2026-08-26T13:06:11+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/immigration/a-paris-une-soixantaine-de-migrants-decouverts-dans-la-remorque-dun-camion-20260826_4HQZP7TDABFIFFLSZWPEFAZ5DI/",
   "id": "39cf7c63a529",
   "title": "A Paris, une soixantaine de migrants découverts dans la remorque d’un camion",
@@ -49,6 +140,32 @@
   "matched_in": "titre",
   "lat": 48.8534951,
   "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/sebastien-lecornu-a-mayotte-pour-accelerer-la-reconstruction-trop-lente-un-an-apres-le-cyclone-chido-20260826_P7BWEA45SRGWDPXVHOBUKA4SMI/",
+  "id": "63b22f5c0502",
+  "title": "Sébastien Lecornu à Mayotte pour accélérer la reconstruction «trop lente» plus d’un an après le cyclone Chido",
+  "subtitle": "Le Premier ministre regrette «des retards dans la livraison d’équipements publics» et des «difficultés persistantes» dans de nombreux domaines dans le département le plus pauvre de France.",
+  "date": "2026-08-26T06:22:37+00:00",
+  "place": "Mayotte",
+  "place_cat": "territoire",
+  "matched_in": "titre",
+  "lat": -12.823048,
+  "lon": 45.1520755,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/climat/dans-laude-a-pomas-apres-la-tornade-le-sentiment-davoir-vecu-une-guerre-20260825_LQZX555EDBG6HIXJ3ABKBW6AWE/",
+  "id": "ccf8db1412bc",
+  "title": "Dans l’Aude, à Pomas, après la tornade, «le sentiment d’avoir vécu une guerre»",
+  "subtitle": "Lundi 24 août, vers 17 heures, une tornade a ravagé le village proche de Carcassonne, emportant tout sur son passage. Les habitants, sains et saufs mais traumatisés par la catastrophe, racontent l’inquiétude face aux énormes dégâts matériels.",
+  "date": "2026-08-25T16:51:53+00:00",
+  "place": "Carcassonne",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.2130358,
+  "lon": 2.3491069,
   "premium": true
  },
  {
@@ -75,6 +192,32 @@
   "matched_in": "chapô",
   "lat": 43.9210587,
   "lon": 7.1790785,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/lifestyle/gastronomie/on-a-demande-a-des-touristes-ce-quils-pensaient-vraiment-de-la-cuisine-a-paris-je-ne-suis-pas-prete-pour-les-escargots-20260822_WHLWWJV7GNFGLIM65ZKYF32JCI/",
+  "id": "045cf7df9ce2",
+  "title": "On a demandé à des touristes ce qu’ils pensaient vraiment de la cuisine à Paris : «Je ne suis pas prête pour les escargots»",
+  "subtitle": "Soupe à l’oignon, pain au chocolat, foccacia… Entre grands classiques et cuisines du monde entier, les visiteurs ont l’embarras du choix dans la capitale. Mais une fois les pieds sous la table, sont-ils si conquis que ça ?",
+  "date": "2026-08-22T08:19:00+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/mort-de-sonia-bellina-un-suspect-mis-en-examen-et-place-en-detention-provisoire-pour-assassinat-20260821_SOGDKC7IFFBDNG26SSFBV56GTA/",
+  "id": "839d1a4b26a9",
+  "title": "Mort de Sonia Bellina : un suspect mis en examen et placé en détention provisoire pour assassinat",
+  "subtitle": "L’homme de 32 ans avait déjà fait l’objet de plusieurs condamnations, dont une pour violences conjugales en 2023. Il a reconnu avoir eu des relations tarifées avec l’influenceuse la veille et la nuit des faits, annonce le parquet de Nîmes.",
+  "date": "2026-08-21T16:21:28+00:00",
+  "place": "Nîmes",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.8374249,
+  "lon": 4.3600687,
   "premium": true
  },
  {
@@ -1222,6 +1365,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/economie/cest-le-saint-tropez-de-la-cote-atlantique-la-pointe-du-cap-ferret-petit-paradis-des-ultrariches-menace-par-les-flammes-20260724_BLI6Q5KFOJA65CIZHVUNVNAXGY/",
+  "id": "9219a93e439f",
+  "title": "«C’est le Saint-Tropez de la côte Atlantique» : la pointe du Cap Ferret, petit paradis des ultrariches menacé par les flammes",
+  "subtitle": "Aimant à résidences secondaires de gens fortunés et de célébrités, la pointe des «44 hectares», discret paradis sur le bassin d’Arcachon, a dû être évacuée en raison de la progression du feu dans la nuit de jeudi à vendredi, comme l’ensemble de la presqu’île du Cap Ferret.",
+  "date": "2026-07-24T18:21:58+00:00",
+  "place": "Arcachon",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 44.6616428,
+  "lon": -1.1700018,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/de-nice-au-kilimandjaro-quest-devenu-lancien-maire-christian-estrosi-20260724_5OLUQRPUTNBGDOVOPEBO6IXDWU/",
   "id": "1c2c8b1bb87d",
   "title": "De Nice au Kilimandjaro, qu’est devenu l’ancien maire Christian Estrosi ?",
@@ -1560,6 +1716,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/police-justice/venue-controversee-de-le-pen-ceremonie-avec-macron-minute-de-silence-avant-france-espagne-10-ans-apres-nice-se-souvient-de-lattentat-du-14-juillet-2016-20260714_O364MPA5ERBFZC3VUYOBB6IHKM/",
+  "id": "07751104bb1d",
+  "title": "Venue controversée de Le Pen, cérémonie avec Macron, minute de silence avant France-Espagne : 10 ans après, Nice se souvient de l’attentat du 14 juillet 2016",
+  "subtitle": "La ville méditerranéenne a commencé à honorer les 86 morts et plus de 400 blessés touchés par l’attaque terroriste à la voiture-bélier, voilà dix ans.",
+  "date": "2026-07-14T12:35:48+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/dix-ans-apres-lattentat-de-nice-la-lente-enquete-sur-les-failles-de-la-securite-connait-un-leger-sursaut-20260713_R3HPQH7BANC6VKAOCTXFWRWT6Y/",
   "id": "840891a32555",
   "title": "Dix ans après l’attentat de Nice, la lente enquête sur les failles de la sécurité connaît un léger sursaut",
@@ -1609,19 +1778,6 @@
   "matched_in": "titre",
   "lat": 43.7009358,
   "lon": 7.2683912,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/70c-sur-un-toboggan-24c-sous-les-arbres-en-pleine-canicule-paris-passe-lepreuve-de-la-camera-thermique-20260711_6F4MOBMM6NB5FLW2KPBCFOSBXU/",
-  "id": "969c34015d68",
-  "title": "70°C sur un toboggan, 24°C sous les arbres : en pleine canicule, Paris passe l’épreuve de la caméra thermique",
-  "subtitle": "En parcourant les rues de la capitale avec un capteur de températures, l’association Greenpeace alerte sur l’inadaptation de la capitale aux fortes chaleurs et sur les risques encourus par les habitants, notamment les enfants.",
-  "date": "2026-07-11T06:23:00+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
   "premium": true
  }
 ]

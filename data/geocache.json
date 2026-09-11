@@ -226,5 +226,17 @@
  "Alpes-Maritimes, France": {
   "lat": 43.9210587,
   "lon": 7.1790785
+ },
+ "Carcassonne, France": {
+  "lat": 43.2130358,
+  "lon": 2.3491069
+ },
+ "Ardennes, France": {
+  "lat": 49.6980118,
+  "lon": 4.6716005
+ },
+ "Arcachon, France": {
+  "lat": 44.6616428,
+  "lon": -1.1700018
  }
 }
