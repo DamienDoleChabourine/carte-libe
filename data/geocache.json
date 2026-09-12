@@ -238,5 +238,57 @@
  "Arcachon, France": {
   "lat": 44.6616428,
   "lon": -1.1700018
+ },
+ "Aubervilliers, France": {
+  "lat": 48.9146078,
+  "lon": 2.3821895
+ },
+ "Rouen, France": {
+  "lat": 49.4404591,
+  "lon": 1.0939658
+ },
+ "Seine-Saint-Denis, France": {
+  "lat": 48.9098125,
+  "lon": 2.4528635
+ },
+ "Vitry-sur-Seine, France": {
+  "lat": 48.7876,
+  "lon": 2.39164
+ },
+ "Auch, France": {
+  "lat": 43.6463558,
+  "lon": 0.5850507
+ },
+ "Béziers, France": {
+  "lat": 43.3426562,
+  "lon": 3.2131307
+ },
+ "Hautes-Pyrénées, France": {
+  "lat": 43.1437925,
+  "lon": 0.1586552
+ },
+ "Bayeux, France": {
+  "lat": 49.2764624,
+  "lon": -0.7024738
+ },
+ "Caen, France": {
+  "lat": 49.1813403,
+  "lon": -0.3635615
+ },
+ "Fécamp, France": {
+  "lat": 49.757156,
+  "lon": 0.3763863
+ },
+ "Fontainebleau, France": {
+  "lat": 48.4049375,
+  "lon": 2.7015872
+ },
+ "Cannes, France": {
+  "lat": 43.5515198,
+  "lon": 7.0134418
+ },
+ "Mulhouse, France": {
+  "lat": 47.7467233,
+  "lon": 7.3389937
  }
 }
