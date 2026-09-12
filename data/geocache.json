@@ -314,5 +314,25 @@
  "Antibes, France": {
   "lat": 43.5813878,
   "lon": 7.1236966
+ },
+ "Val-de-Marne, France": {
+  "lat": 48.7744893,
+  "lon": 2.4543321
+ },
+ "Ille-et-Vilaine, France": {
+  "lat": 48.1727681,
+  "lon": -1.6498092
+ },
+ "Morbihan, France": {
+  "lat": 47.8259812,
+  "lon": -2.7633493
+ },
+ "Tarn-et-Garonne, France": {
+  "lat": 44.080656,
+  "lon": 1.2050633
+ },
+ "Seine-et-Marne, France": {
+  "lat": 48.6190207,
+  "lon": 3.0418158
  }
 }

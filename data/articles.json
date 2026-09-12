@@ -1,5 +1,31 @@
 [
  {
+  "url": "https://www.liberation.fr/politique/dans-une-fete-de-lhumanite-dominee-par-melenchon-ruffin-et-tondelier-en-quete-dune-voie-pour-sortir-de-limpasse-20260912_TKSLNS3ZZVACRC2DKHAZS2RUEI/",
+  "id": "9699a3f68a2e",
+  "title": "Dans une Fête de l’Humanité dominée par Mélenchon, Ruffin et Tondelier en quête d’une voie pour sortir de l’impasse",
+  "subtitle": "Exclus de la primaire des socialistes et marginalisés par la dynamique des insoumis qui régnaient sur les festivités en Essonne ce samedi 12 septembre, l’ex-insoumis et l’écologiste ont chacun appelé à trouver une solution crédible et collective pour que la gauche gagne en 2027.",
+  "date": "2026-09-12T17:58:27+00:00",
+  "place": "Essonne",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 48.5303402,
+  "lon": 2.2392918,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/economie/transports/cetait-vraiment-assez-choquant-jen-tremble-encore-ce-que-lon-sait-ce-samedi-sur-le-deraillement-du-ter-en-normandie-20260912_CK2OUTDMEBHTRJRVD5C2SEAJIU/",
+  "id": "1d50f9ce65ac",
+  "title": "Acte malveillant, victime grave hors de danger, état du trafic : ce que l’on sait ce samedi sur le déraillement du TER en Normandie",
+  "subtitle": "Un train circulant entre Rouen et Caen a déraillé vendredi soir avec 186 passages à bord, faisant des dizaines de blessés, dont une jeune femme en urgence absolue. Selon les premiers éléments de l’enquête, la piste de l’acte malveillant se précise.",
+  "date": "2026-09-12T13:23:03+00:00",
+  "place": "Normandie",
+  "place_cat": "region",
+  "matched_in": "titre",
+  "lat": 49.0677708,
+  "lon": 0.3138532,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/normandie-rumeurs-de-free-party-dans-la-region-la-prefecture-annonce-linterdiction-de-tout-rassemblement-20260911_BQNTTZTXOVDEVD27PNZVQOA7AM/",
   "id": "66e435ca8714",
   "title": "Normandie : rumeurs de free party dans la région, la préfecture annonce l’interdiction de tout rassemblement",
@@ -26,6 +52,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/culture/musique/ca-permet-de-profiter-du-repertoire-mais-gratuitement-avant-le-concert-de-celine-dion-les-fans-sechauffent-au-karaoke-geant-de-la-ville-de-paris-20260911_YZOVNT4F2FFC7DVYZMMPQFK7SM/",
+  "id": "6ce68cbf78bc",
+  "title": "«Ça permet de profiter du répertoire, mais gratuitement» : avant le concert de Céline Dion, les fans s’échauffent au karaoké géant de la Ville de Paris",
+  "subtitle": "10 000 personnes étaient attendues vendredi 11 septembre à Stalingrad pour chanter ensemble les plus grands tubes de la star québécoise. Un événement qui a permis aux sans-ticket de profiter de la liesse.",
+  "date": "2026-09-11T18:30:06+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/a-angers-un-hommage-a-sarah-et-franck-decedes-un-jour-de-canicule-et-aux-autres-morts-de-la-rue-20260911_UM5V44WFVRENJNUO4DHBSF6L3M/",
   "id": "54ddca5b3aad",
   "title": "A Angers, un hommage à Sarah et Franck, décédés un jour de canicule, et aux autres morts de la rue",
@@ -36,6 +75,19 @@
   "matched_in": "titre",
   "lat": 47.4739884,
   "lon": -0.5515588,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/proces-des-fondateurs-de-frichti-des-livreurs-de-bonheur-aux-derives-institutionnalisees-de-luberisation-20260911_SCKU472BBNCDBLJK3375HEVJ6U/",
+  "id": "95aefc8502dc",
+  "title": "Procès des fondateurs de Frichti : des «livreurs de bonheur» aux dérives institutionnalisées de l’ubérisation",
+  "subtitle": "Quentin Vacher et Julia Bijaoui sont jugés à Paris depuis jeudi 10 septembre pour «travail dissimulé» et «emploi illégal d’étrangers». Leur entreprise, désormais liquidée, a longtemps été présentée comme un des fleurons de la start-up nation.",
+  "date": "2026-09-11T17:12:07+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
   "premium": true
  },
  {
@@ -156,6 +208,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/economie/social/passes-de-la-ratp-a-keolis-durant-lete-des-conducteurs-de-bus-franciliens-en-greve-pour-denoncer-lorganisation-du-travail-defaillante-20260910_3UMV7TA7CJGILMDJT7EASGNPNU/",
+  "id": "44bd1b69107f",
+  "title": "Passés de la RATP à Keolis durant l’été, des conducteurs de bus franciliens en grève pour dénoncer l’organisation du travail «défaillante»",
+  "subtitle": "Une quinzaine de lignes opérant au sud de Paris et dans le Val-de-Marne sont perturbées, ce jeudi 10 et vendredi 11 septembre, en raison de cette ouverture à la concurrence qui se traduirait par plusieurs dysfonctionnements opérationnels.",
+  "date": "2026-09-10T15:01:18+00:00",
+  "place": "Val-de-Marne",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 48.7744893,
+  "lon": 2.4543321,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/idees-et-debats/tribunes/thermo-sur-seine-le-super-incinerateur-de-vitry-un-nouveau-notre-dame-des-landes-20260910_VV2ZW5YHRBF7DK75ZWPIEBUX5A/",
   "id": "426932b09282",
   "title": "Thermo-sur-Seine : le super incinérateur de Vitry, un nouveau Notre-Dame-des-Landes ?",
@@ -273,6 +338,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/education/violences-dans-le-periscolaire-a-paris-emmanuel-gregoire-inaugure-la-nouvelle-ecole-de-formation-des-animateurs-20260907_USLUBU6HOJG7BJE6XQYURQWWA4/",
+  "id": "c04408594d57",
+  "title": "Violences dans le périscolaire à Paris : Emmanuel Grégoire inaugure la nouvelle école de formation des animateurs",
+  "subtitle": "L’établissement formera les animateurs des écoles de la capitale, éclaboussées par le scandale des violences sexuelles qui a donné lieu à plusieurs plaintes de familles. Les syndicats restent dubitatifs.",
+  "date": "2026-09-07T19:56:29+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/ardennes-un-quinquagenaire-en-proces-pour-le-viol-et-le-meurtre-de-loana-20260907_ZXVOQH3QPRDO3EJADN6SA7DVQU/",
   "id": "3382a32625f5",
   "title": "Ardennes : un homme de 60 ans en procès pour le viol et le meurtre de Loana",
@@ -312,6 +390,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/sante/nouvelle-caledonie-un-marathon-interrompu-apres-la-mort-dun-coureur-et-une-serie-de-malaises-une-situation-completement-inedite-20260907_CHAUTTSZMNE2FK7UBNYMDY5ZFU/",
+  "id": "6b421250c7e2",
+  "title": "Nouvelle-Calédonie : un marathon interrompu après la mort d’un coureur et une série de malaises, une situation «complètement inédite»",
+  "subtitle": "Un Calédonien de 25 ans, victime d’un arrêt cardiaque, s’est effondré à l’arrivée dimanche alors qu’il courait le semi-marathon. Huit participants dans un état grave ont été pris en charge par des secours ont été débordés.",
+  "date": "2026-09-07T10:54:00+00:00",
+  "place": "Nouvelle-Calédonie",
+  "place_cat": "territoire",
+  "matched_in": "titre",
+  "lat": -21.3019905,
+  "lon": 165.4880773,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/environnement/climat/six-departements-en-vigilance-orange-canicule-dimanche-et-lundi-20260906_7GZQCXGHUVASBMLB42DFYZFLDM/",
   "id": "9bbddc258559",
   "title": "Six départements en vigilance orange canicule dimanche et lundi",
@@ -335,6 +426,19 @@
   "matched_in": "titre",
   "lat": 50.6365654,
   "lon": 3.0635282,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/presidentielle-2027-eric-ciotti-maire-de-nice-propose-un-pacte-dalliance-a-marine-le-pen-20260905_ASP3I5ZKF5D25IALL3SS653NPI/",
+  "id": "31bf10beb780",
+  "title": "Présidentielle 2027 : Eric Ciotti, maire de Nice, propose «un pacte d’alliance» à Marine Le Pen",
+  "subtitle": "Le dirigeant de l’Union des droites pour la République (UDR) a officialisé, lors de sa rentrée politique à ce samedi, son soutien à la candidate du RN dans la course à l’Elysée. Il a mis en avant une «quinzaine de propositions» qu’il a transmises à la candidate RN.",
+  "date": "2026-09-05T17:42:05+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
   "premium": true
  },
  {
@@ -416,6 +520,32 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/un-incendie-en-cours-en-ardeche-ou-il-va-faire-jusqua-39c-ce-vendredi-20260904_2VTTW346ORBCHEN6QTQI6QKYKY/",
+  "id": "29643abeeb7c",
+  "title": "Un incendie en cours en Ardèche, où il va faire jusqu’à 39°C ce vendredi",
+  "subtitle": "Les flammes ont parcouru près de 30 hectares depuis jeudi soir et progressent encore. Elles ont provoqué l’évacuation de plusieurs dizaines de personnes, alors que le département est placé en vigilance orange canicule.",
+  "date": "2026-09-04T06:30:04+00:00",
+  "place": "Ardèche",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.815194,
+  "lon": 4.3986525,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/strasbourg-deux-ans-de-prison-ferme-pour-un-interne-en-medecine-qui-a-fait-avorter-sa-compagne-a-son-insu-20260903_DHBWFQOLNBHCXFITDY4JR56UC4/",
+  "id": "9ca6ad03c122",
+  "title": "Strasbourg : deux ans de prison ferme pour un interne en médecine qui a fait avorter sa compagne à son insu",
+  "subtitle": "Cet homme de 36 ans avait fait avaler à son amie des comprimés abortifs en mars 2024 à Furdenheim dans le Bas-Rhin. Il a expliqué qu’il n’était pas «en situation psychologique, financière et matérielle» d’avoir un enfant.",
+  "date": "2026-09-03T20:29:57+00:00",
+  "place": "Strasbourg",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.584614,
+  "lon": 7.7507127,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/environnement/agriculture/jassume-mes-propos-a-son-proces-bertrand-venteau-de-la-coordination-rurale-dement-tout-appel-a-la-violence-20260903_L27Y4SXZQFH7TAHNEUHO2TSLEA/",
   "id": "b65f06266a6f",
   "title": "«J’assume mes propos» : à son procès, Bertrand Venteau de la Coordination rurale dément tout appel à la violence",
@@ -426,6 +556,19 @@
   "matched_in": "chapô",
   "lat": 43.6463558,
   "lon": 0.5850507,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/logement/malgre-lencadrement-des-loyers-le-nombre-dannonces-excedant-le-plafond-progresse-fortement-a-paris-alerte-la-fondation-pour-le-logement-20260903_Z2YSXGTHPBARFHYLP2FQQXCYRU/",
+  "id": "a4c90a6d5a41",
+  "title": "Malgré l’encadrement des loyers, le nombre d’annonces excédant le plafond progresse fortement à Paris, alerte la Fondation pour le logement",
+  "subtitle": "Selon le baromètre de la Fondation, 37% des annonces analysées en France excèdent le plafond légal, contre 31% en 2025. A Paris, la part de bailleurs hors des clous bondit de 31% à 46% en un an, une situation jugée inquiétante.",
+  "date": "2026-09-03T06:58:05+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
   "premium": true
  },
  {
@@ -455,6 +598,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/on-ma-conseille-de-me-taire-mais-je-le-refuse-en-bretagne-la-solitude-et-la-colere-dune-crepiere-victime-de-vagues-dinsultes-racistes-20260902_NWLA7FAXWBB6TF4AVKY4GGS42Y/",
+  "id": "886efac28f71",
+  "title": "«On m’a conseillé de me taire, mais je le refuse» : en Bretagne, la solitude et la colère d’une crêpière victime de vagues d’insultes racistes",
+  "subtitle": "Joëlle Dambo, crêpière primée des Côtes-d’Armor, subit depuis sa médiatisation récente un déferlement de commentaires haineux et racistes. Passablement esseulée en son village de Centre Bretagne, elle n’a de cesse de faire condamner les personnages qui l’ont agonie d’injures.",
+  "date": "2026-09-02T09:40:54+00:00",
+  "place": "Bretagne",
+  "place_cat": "region",
+  "matched_in": "titre",
+  "lat": 48.2640845,
+  "lon": -2.9202408,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/culture/arts/au-royaume-uni-le-retour-de-la-tapisserie-de-bayeux-suscite-un-interet-ahurissant-20260901_24P3JWO3JJCC7LT4KM4RREW56I/",
   "id": "865a6a263bab",
   "title": "Au Royaume-Uni, le «retour» de la tapisserie de Bayeux suscite un «intérêt ahurissant»",
@@ -465,6 +621,19 @@
   "matched_in": "titre",
   "lat": 49.2764624,
   "lon": -0.7024738,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/idees-et-debats/tribunes/ne-cedons-pas-la-rue-aux-robots-de-livraison-autonomes-20260901_MDRLL2YQHBDDRLSVNBEHIHFE4Y/",
+  "id": "40c570109c6f",
+  "title": "Ne cédons pas la rue aux robots de livraison autonomes",
+  "subtitle": "Depuis le 7 août, les robots livreurs sont entrés dans le droit français. Sans plaider l’interdiction, le maire-adjoint de Paris Centre, Boris Jamet-Fournier, préconise que chaque ville puisse poser ses propres conditions de leur circulation.",
+  "date": "2026-09-01T04:45:00+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
   "premium": true
  },
  {
@@ -624,6 +793,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/politique/elections/zizanie-dans-un-meeting-de-lfi-des-militants-dextreme-droite-repondent-de-leurs-actes-au-tribunal-20260826_GM5FBZBOAJD43HDJUWELUL6JTI/",
+  "id": "0a22cadf8ef2",
+  "title": "Zizanie dans un meeting de LFI : des militants d’extrême droite répondent de leurs actes au tribunal",
+  "subtitle": "Dix-huit mois de prison avec sursis probatoire ont été requis, ce mercredi 26 août, à Lille, contre huit membres du groupe identitaire Nouvelle droite qui avaient interrompu, en mars, une réunion sur les élections municipales des insoumis, avec faux sang, bousculades et enfarinag",
+  "date": "2026-08-26T19:39:18+00:00",
+  "place": "Lille",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 50.6365654,
+  "lon": 3.0635282,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/economie/social/a-cergy-pontoise-les-habitants-partages-sur-le-parc-dragon-ball-il-va-y-avoir-de-la-pollution-sonore-et-lumineuse-en-permanence-20260826_HHHGIYJDT5B6HHZTKAIH3RQFGY/",
   "id": "0a706e0ff84a",
   "title": "A Cergy-Pontoise, les habitants partagés sur le parc Dragon Ball : «Il va y avoir de la pollution sonore et lumineuse en permanence»",
@@ -754,6 +936,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/climat/orages-neuf-departements-du-sud-ouest-places-en-vigilance-orange-ce-lundi-20260823_D5C6E334YVBD5HNSGVSPYJX6S4/",
+  "id": "8222e0e4c02a",
+  "title": "Orages : neuf départements du Sud-Ouest placés en vigilance orange ce lundi",
+  "subtitle": "Le Gers, le Lot-et-Garonne, la Haute-Garonne, le Tarn-et-Garonne, le Lot, la Dordogne, la Corrèze, le Tarn et l’Aveyron seront concernés. L’épisode pourrait toucher le pourtour méditerranéen en fin d’après-midi.",
+  "date": "2026-08-23T16:02:15+00:00",
+  "place": "Tarn-et-Garonne",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 44.080656,
+  "lon": 1.2050633,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/sante/dans-le-mercantour-des-ados-diabetiques-sur-le-chemin-des-sommets-jamais-je-naurais-pense-etre-capable-de-faire-ca-20260823_XJJG4WWNWBG53LTDWUJTKKIAXE/",
   "id": "149d3cd7a4f3",
   "title": "Dans le Mercantour, des ados diabétiques sur le chemin des sommets : «Jamais je n’aurais pensé être capable de faire ça»",
@@ -793,6 +988,32 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/politique/a-mayotte-edouard-philippe-promet-de-mettre-fin-a-lappel-dair-de-limmigration-et-tacle-melenchon-20260822_E5LS3534OZBMTA22WOD7NKTNJE/",
+  "id": "67a3b2fd1604",
+  "title": "A Mayotte, Edouard Philippe promet de mettre fin à l’«appel d’air» de l’immigration et tacle Mélenchon",
+  "subtitle": "Le candidat Horizons a fait du thème le sujet central de sa visite dans le département-région pour sa rentrée politique. Pour sa part, le chef de file des insoumis a jugé ses propositions «ridicules».",
+  "date": "2026-08-22T09:41:03+00:00",
+  "place": "Mayotte",
+  "place_cat": "territoire",
+  "matched_in": "titre",
+  "lat": -12.823048,
+  "lon": 45.1520755,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/secheresse-en-ille-et-vilaine-la-police-de-leau-traque-les-pompages-illegaux-20260822_IYVAPFUCSJDVJMU5DT2AX43YFY/",
+  "id": "89ecd8afca1e",
+  "title": "Sécheresse : en Ille-et-Vilaine, la police de l’eau traque les pompages illégaux",
+  "subtitle": "Alors que le département vient de basculer en situation de «crise» sécheresse, les inspecteurs de l’Office français de la biodiversité (OFB) multiplient les relevés et les patrouilles.",
+  "date": "2026-08-22T08:44:00+00:00",
+  "place": "Ille-et-Vilaine",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 48.1727681,
+  "lon": -1.6498092,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/lifestyle/gastronomie/on-a-demande-a-des-touristes-ce-quils-pensaient-vraiment-de-la-cuisine-a-paris-je-ne-suis-pas-prete-pour-les-escargots-20260822_WHLWWJV7GNFGLIM65ZKYF32JCI/",
   "id": "045cf7df9ce2",
   "title": "On a demandé à des touristes ce qu’ils pensaient vraiment de la cuisine à Paris : «Je ne suis pas prête pour les escargots»",
@@ -803,6 +1024,19 @@
   "matched_in": "titre",
   "lat": 48.8534951,
   "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/disparitions-en-serie-de-chats-a-taule-en-bretagne-miaou-sont-ils-passes-20260822_RJQXWJTRWVF2ZJARQMVONWHNLI/",
+  "id": "a8c36abf4fbb",
+  "title": "Disparitions en série de chats à Taulé, en Bretagne : miaou sont-ils passés ?",
+  "subtitle": "«Libération» s’est rendu sur la trace d’une dizaine de félins mystérieusement disparus dans le village du Finistère de 3 000 habitants, où plusieurs plaintes ont été déposées. Il y a treize ans, plus de 20 chats s’étaient déjà évaporés dans les mêmes circonstances.",
+  "date": "2026-08-22T06:22:56+00:00",
+  "place": "Bretagne",
+  "place_cat": "region",
+  "matched_in": "titre",
+  "lat": 48.2640845,
+  "lon": -2.9202408,
   "premium": true
  },
  {
@@ -829,6 +1063,32 @@
   "matched_in": "chapô",
   "lat": 43.8374249,
   "lon": 4.3600687,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/animaux/un-boa-d150-metre-sous-un-capot-un-autre-en-liberte-sur-la-route-en-haute-garonne-les-pompiers-aux-prises-avec-les-nouveaux-animaux-de-compagnie-20260821_2PAQKPTYFRCWXKUFVB6PKOMQ7U/",
+  "id": "743bb2e27b71",
+  "title": "Un boa d’1,50 mètre sous un capot, un autre en liberté sur la route : en Haute-Garonne, les pompiers aux prises avec les nouveaux animaux de compagnie",
+  "subtitle": "Trois mois après la chasse au cobra venimeux dans la banlieue proche de Toulouse, les pompiers de Haute-Garonne ont été une nouvelle fois sollicités cette semaine. En l’espace de trois jours, deux boas ont dû être capturés.",
+  "date": "2026-08-21T12:43:09+00:00",
+  "place": "Haute-Garonne",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 43.3054546,
+  "lon": 0.9716792,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/le-sable-le-meilleur-rempart-contre-la-mer-face-a-lerosion-cotiere-des-habitants-du-morbihan-semparent-de-solutions-naturelles-20260821_4AEVQ5WO3VCBPBAY7MSC7BGH2I/",
+  "id": "7d74e1a7b7a6",
+  "title": "«Le sable, le meilleur rempart contre la mer» : face à l’érosion côtière, des habitants du Morbihan s’emparent de solutions naturelles",
+  "subtitle": "A l’entrée de la rade de Lorient, un village relié au continent par un fragile cordon dunaire est désormais protégé par des sédiments, pieux hydrauliques et autres ganivelles. Sous l’œil de riverains qui contribuent à un suivi participatif.",
+  "date": "2026-08-21T10:30:00+00:00",
+  "place": "Morbihan",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 47.8259812,
+  "lon": -2.7633493,
   "premium": true
  },
  {
@@ -907,6 +1167,19 @@
   "matched_in": "titre",
   "lat": 48.8534951,
   "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/orages-violents-et-risques-dinondations-plusieurs-departements-du-sud-est-en-vigilance-orange-ce-jeudi-20260820_NUAGREQW4VAUHHIEEORI6S2DPU/",
+  "id": "8b682545d7e1",
+  "title": "Orages violents et risques d’inondations : plusieurs départements du Sud-Est en vigilance orange ce jeudi",
+  "subtitle": "Les Hautes-Alpes, l’Ardèche, les Alpes-Maritimes, la Drôme l’Isère et le Var seront en alerte ce jeudi après-midi face aux fortes pluies et rafales de vent attendues. La Corse sera concernée vendredi.",
+  "date": "2026-08-20T11:21:29+00:00",
+  "place": "Alpes-Maritimes",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 43.9210587,
+  "lon": 7.1790785,
   "premium": true
  },
  {
@@ -1404,6 +1677,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/police-justice/mayotte-une-femme-enceinte-et-ses-deux-enfants-meurent-dans-un-incendie-la-piste-accidentelle-privilegiee-20260811_2DVOPASUS5BVRIMKAYYDAXCTRY/",
+  "id": "ac1b75cf0e47",
+  "title": "Mayotte : une femme enceinte et ses deux enfants meurent dans un incendie, la piste accidentelle privilégiée",
+  "subtitle": "Selon les autorités, «un branchement électrique, positionné sur une poutre, aurait pris feu, provoquant une propagation rapide des flammes et des fumées à l’intérieur du logement» qui se situait dans un bidonville.",
+  "date": "2026-08-11T16:01:39+00:00",
+  "place": "Mayotte",
+  "place_cat": "territoire",
+  "matched_in": "titre",
+  "lat": -12.823048,
+  "lon": 45.1520755,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/pas-de-calais-un-pere-et-sa-fille-de-neuf-ans-retrouves-pendus-au-domicile-familial-20260811_NITU5LC72VGANENG5J6YEWUYYI/",
   "id": "8dc2341ac8e1",
   "title": "Pas-de-Calais : un père et sa fille de neuf ans retrouvés pendus au domicile familial",
@@ -1625,6 +1911,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/eric-ciotti-et-christian-estrosi-des-coups-bas-dans-les-urnes-20260806_5VJR7GGY7BE3FA5ZCSODCVZXHY/",
+  "id": "3cea2d3f5ad2",
+  "title": "Eric Ciotti et Christian Estrosi, des coups bas dans les urnes",
+  "subtitle": "Entre le nouveau maire de Nice et son prédécesseur, la relation a d’abord été filiale, le premier construisant sa stature politique dans le sillage du second. Avant que leurs ambitions ne transforment ce duo en duel sans merci.",
+  "date": "2026-08-06T05:00:00+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/elections/affaire-de-la-tete-de-cochon-a-nice-eric-ciotti-veut-se-porter-partie-civile-20260805_QOGSNFHKMNB7NFAERQG3G23EII/",
   "id": "728b90008350",
   "title": "Affaire de la tête de cochon à Nice : Eric Ciotti veut se porter partie civile",
@@ -1633,6 +1932,19 @@
   "place": "Nice",
   "place_cat": "ville",
   "matched_in": "titre",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/affaire-jean-pormanove-les-streamers-naruto-et-safine-bientot-fixes-sur-leur-sort-20260805_BFU2YRSU2RB3ZLLVXROOZVBN4U/",
+  "id": "9b4eec1445b0",
+  "title": "Affaire «Jean Pormanove» : les streamers Naruto et Safine condamnés à des peines de prison avec sursis",
+  "subtitle": "Le tribunal correctionnel de Nice a rendu, ce mercredi 5 août, sa décision concernant Owen Cenazandotti et Safine Hamadi pour les violences volontaires commises dans leurs lives aux concepts ultraviolents, pendant lesquels Raphaël Graven est mort en direct en août 2025.",
+  "date": "2026-08-05T12:19:56+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "chapô",
   "lat": 43.7009358,
   "lon": 7.2683912,
   "premium": true
@@ -1674,6 +1986,19 @@
   "matched_in": "titre",
   "lat": 43.1437925,
   "lon": 0.1586552,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/climat/en-gironde-le-megafeu-revele-des-obus-de-la-seconde-guerre-mondiale-enterres-dans-la-commune-du-porge-en-cours-de-deminage-20260803_6JTOQYBF2NDY7BYQ2CFZ5A22RY/",
+  "id": "7cb17f0ccccc",
+  "title": "En Gironde, le mégafeu révèle des obus de la Seconde Guerre mondiale enterrés dans la commune du Porge, en cours de déminage",
+  "subtitle": "La plupart des habitants du village sont autorisés à regagner leurs habitations ce lundi 3 août, à l’exception de deux quartiers, Plein Soleil et Le Ferron, où des vestiges militaires français et allemands ont été retrouvés.",
+  "date": "2026-08-03T11:18:50+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
   "premium": true
  },
  {
@@ -1812,6 +2137,19 @@
   "title": "Blessures lors des incendies en Gironde : le lourd tribut payé par les pompiers",
   "subtitle": "Alors que deux pompiers sont morts depuis le début de cet été de braise, au moins 267 ont été blessés dans le département ces derniers jours. Les syndicats réclament des précisions sur les dégâts causés par les composés toxiques provenant des fumées.",
   "date": "2026-08-01T03:11:00+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-gironde-une-situation-stable-le-feu-contenu-dans-son-perimetre-20260731_HK7NMTUHYFAPRCM6PHKNOUAXKI/",
+  "id": "cb1554431b85",
+  "title": "Incendies : le feu dans le Var a parcouru 1 000 hectares et entraîné l’évacuation de 2 500 personnes, la situation s’améliore en Gironde",
+  "subtitle": "Des habitants de Correns et de son camping ont dû fuir ce vendredi après-midi en raison d’une reprise de l’important incendie dans le Var. En Gironde, la majorité des évacués sont autorisés à rentrer.",
+  "date": "2026-07-31T19:29:40+00:00",
   "place": "Gironde",
   "place_cat": "departement",
   "matched_in": "titre",
@@ -2067,6 +2405,32 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/agriculture/pour-garder-mon-honneur-je-vous-rends-ma-legion-la-romanciere-agnes-ledig-renonce-a-sa-medaille-pour-protester-contre-la-loi-durgence-agricole-20260727_34P4XNULMJDPNCBSPXCACL42IY/",
+  "id": "cc07329f0a0c",
+  "title": "«Pour garder mon honneur, je vous rends ma Légion» : la romancière Agnès Ledig renonce à sa médaille pour protester contre la loi d’urgence agricole",
+  "subtitle": "Dans une lettre au président de la République publiée sur Instagram, l’autrice de «Juste avant le bonheur», propriétaire d’une ferme biologique dans les Vosges, déplore la «goutte de pesticides» incluse dans la loi votée par le Parlement la semaine dernière.",
+  "date": "2026-07-27T19:37:14+00:00",
+  "place": "Vosges",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 48.1637861,
+  "lon": 6.3820712,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/on-a-tous-la-meme-colere-en-gironde-la-desolation-face-aux-ravages-du-feu-qui-menace-toujours-20260727_YYWXYGCYCBE7PDFT3E5FXQVMME/",
+  "id": "99bd4cc11ca8",
+  "title": "«On a tous la même colère» : en Gironde, la désolation face aux ravages du feu, qui menace toujours",
+  "subtitle": "Les habitants du Porge, commune la plus ravagée par le feu, naviguent entre rage et sentiment d’abandon. Epuisés, ils guettent une possible reprise des flammes alimentée par les vents changeants et le retour des fortes chaleurs.",
+  "date": "2026-07-27T19:14:36+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/culture/scenes/apres-lannulation-par-la-mairie-rn-dorange-dun-concert-en-hommage-a-queen-lorganisateur-propose-un-compromis-je-fais-ca-pour-les-650-choristes-20260727_YEEIBQGPHFCDVJGJOJS656LIVQ/",
   "id": "97b0724f5704",
   "title": "Après l’annulation par la mairie RN d’Orange d’un concert en hommage à Queen, l’organisateur propose un compromis : «Je fais ça pour les 650 choristes»",
@@ -2098,6 +2462,19 @@
   "title": "Le maire du Porge, commune dévastée par le mégafeu en Gironde : «Le paysage est détruit, notre village est à terre»",
   "subtitle": "La localité est l’une des plus meurtries par le brasier qui ravage le département. Martial Zaninetti revient sur ces journées de crise, la peur d’une reprise de feu avec la canicule qui s’annonce et demande un plan Marshall au gouvernement.",
   "date": "2026-07-27T12:08:24+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/idees-et-debats/editorial/incendies-en-gironde-et-dans-les-landes-un-evenement-dont-il-faudra-prendre-la-mesure-20260726_J43BQDUNMRFCHCWQV3ZPJBRU6U/",
+  "id": "3e94fbf550c7",
+  "title": "Incendies en Gironde et dans les Landes : un événement dont il faudra prendre la mesure",
+  "subtitle": "Si, ces jours-ci, la machine administrative s’active avec efficacité pour gérer l’urgence de la situation en Nouvelle-Aquitaine, les gouvernants devront être à la hauteur pour penser un changement plus que nécessaire.",
+  "date": "2026-07-26T19:04:46+00:00",
   "place": "Gironde",
   "place_cat": "departement",
   "matched_in": "titre",
@@ -2665,11 +3042,50 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/climat/la-foret-de-fontainebleau-premiere-zone-a-defendre-de-lhistoire-20260714_UTR42QYE6BGPVJGQTZGTJ4D6AE/",
+  "id": "b0f1fca01928",
+  "title": "La forêt de Fontainebleau, première zone à défendre de l’histoire",
+  "subtitle": "Dès le XIXe siècle, le massif a été le théâtre de luttes environnementales menées par des peintres ou des écrivains. Dans «Des arbres à défendre !», le co-créateur du mouvement de l’Ecologie culturelle Patrick Scheyder raconte cet épisode méconnu de l’histoire.",
+  "date": "2026-07-14T03:37:00+00:00",
+  "place": "Fontainebleau",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.4049375,
+  "lon": 2.7015872,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-37-departements-en-vigilance-rouge-la-foret-de-fontainebleau-touchee-par-les-flammes-20260713_Q3KHQJEFPRH7XKRRAQTLBXD6PE/",
   "id": "542727d80c7f",
   "title": "Incendies dans la forêt de Fontainebleau : au total près de 1 300 hectares parcourus et 2 interpellations, annonce Laurent Nuñez",
   "subtitle": "Malgré des températures amenées à baisser, les effets dramatiques de la sécheresse se font désormais sentir, avec un gigantesque incendie aux portes de Paris qui a vu 5 % de son massif décimé par les flammes.",
   "date": "2026-07-13T19:57:17+00:00",
+  "place": "Fontainebleau",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.4049375,
+  "lon": 2.7015872,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/incendie-en-seine-et-marne-on-sait-quil-faudra-des-decennies-pour-que-la-foret-de-fontainebleau-se-reconstruise-20260713_633OZ7EBP5FMRCDYHXSXXM5MZI/",
+  "id": "86cfb32badc5",
+  "title": "Incendie en Seine-et-Marne : «On sait qu’il faudra des décennies pour que la forêt de Fontainebleau se reconstruise»",
+  "subtitle": "Ce lundi 13 juillet, l’impressionnant feu de forêt qui a parcouru 1 300 hectares a plongé le village de Noisy-sur-Ecole dans la fumée et forcé l’évacuation d’habitants. Les pompiers, soutenus par les locaux, font tout pour contenir les flammes.",
+  "date": "2026-07-13T18:54:21+00:00",
+  "place": "Seine-et-Marne",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 48.6190207,
+  "lon": 3.0418158,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/climat/feu-dans-la-foret-de-fontainebleau-le-risque-dincendie-remonte-vers-le-nord-en-raison-du-changement-climatique-20260713_UY54DHXYAVH2PM3OH7RZOKXHTQ/",
+  "id": "6200cca81161",
+  "title": "Feu dans la forêt de Fontainebleau : «Le risque d’incendie remonte vers le nord en raison du changement climatique»",
+  "subtitle": "La propagation «dramatique» des flammes en Ile-de-France a été permise et aggravée par la canicule qui «a fortement desséché la végétation», détaille Guillaume Peghaire, de l’Office national des forêts, en insistant sur le besoin de prévention.",
+  "date": "2026-07-13T17:55:13+00:00",
   "place": "Fontainebleau",
   "place_cat": "ville",
   "matched_in": "titre",
@@ -2688,6 +3104,19 @@
   "matched_in": "titre",
   "lat": 43.7009358,
   "lon": 7.2683912,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/climat/historique-mais-pas-nouveau-lincendie-de-la-foret-de-fontainebleau-dernier-dune-longue-serie-20260713_JOCDRCFVXFFKXOAKGBJMTIH7IY/",
+  "id": "ced89c692bc0",
+  "title": "Forêt de Fontainebleau : historique mais pas inédit, l’incendie est le dernier d’une longue série",
+  "subtitle": "Frappé par un feu d’une ampleur inédite depuis le dimanche 12 juillet, le célèbre massif forestier de Seine-et-Marne a déjà connu des sinistres ravageurs, même si celui de ces dernières heures est déjà le plus important de son histoire.",
+  "date": "2026-07-13T10:19:39+00:00",
+  "place": "Fontainebleau",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.4049375,
+  "lon": 2.7015872,
   "premium": true
  },
  {
