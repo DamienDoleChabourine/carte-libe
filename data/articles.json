@@ -26,6 +26,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/a-angers-un-hommage-a-sarah-et-franck-decedes-un-jour-de-canicule-et-aux-autres-morts-de-la-rue-20260911_UM5V44WFVRENJNUO4DHBSF6L3M/",
+  "id": "54ddca5b3aad",
+  "title": "A Angers, un hommage à Sarah et Franck, décédés un jour de canicule, et aux autres morts de la rue",
+  "subtitle": "Le même jour torride de juin, la femme de 37 ans avait été retrouvée morte dans des toilettes publiques tandis que le corps de l’homme de 49 ans reposait sur un banc. Une cérémonie en leur honneur s’est tenue ce vendredi 11 septembre.",
+  "date": "2026-09-11T17:12:11+00:00",
+  "place": "Angers",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 47.4739884,
+  "lon": -0.5515588,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/education/quest-ce-que-vous-voulez-cest-dalembert-a-aubervilliers-la-rentree-au-lycee-se-fait-dans-le-noir-et-les-pieds-dans-leau-20260911_36NYEH4YJZCH7CXWLVQTEBWHD4/",
   "id": "90a304a9f8ae",
   "title": "«Qu’est-ce que vous voulez, c’est d’Alembert» : à Aubervilliers, la rentrée au lycée se fait dans le noir et les pieds dans l’eau",
@@ -91,6 +104,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/politique/accuse-davoir-mal-gere-une-plainte-pour-viol-contre-un-conseiller-jean-michel-aulas-fait-son-retour-a-la-metropole-de-lyon-20260910_WIOAFUAOBFEUVA5GLPW32LVMMY/",
+  "id": "13fac1651fcd",
+  "title": "Accusé d’avoir mal géré une plainte pour viol contre un conseiller, Jean-Michel Aulas fait son retour à la Métropole de Lyon",
+  "subtitle": "La présidente de collectivité territoriale Véronique Sarselli a décidé ce jeudi 10 septembre de restituer ses délégations de vice-président à l’ancien président de l’Olympique Lyonnais, suspendu depuis juin. L’opposition dénonce «le manque de considération pour la victime».",
+  "date": "2026-09-10T19:34:44+00:00",
+  "place": "Lyon",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.7578137,
+  "lon": 4.8320114,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/policier-municipal-raciste-a-carcassonne-son-avocat-assure-que-lagent-na-essuye-aucune-sanction-disciplinaire-20260910_T6J4ITJFIBCXHPN7YTCSLYBO4Y/",
   "id": "40b7c3d4cca7",
   "title": "Policier municipal raciste à Carcassonne : son avocat assure que l’agent n’a essuyé «aucune sanction disciplinaire»",
@@ -101,6 +127,32 @@
   "matched_in": "titre",
   "lat": 43.2130358,
   "lon": 2.3491069,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/haute-garonne-une-professeure-menacee-detre-decapitee-par-un-parent-deleve-20260910_AKFDBBR7HFHJJMEQN7HBWLWTCA/",
+  "id": "8c195026e53a",
+  "title": "En Haute-Garonne, un parent d’élève condamné à six mois de prison pour avoir menacé une enseignante de décapitation",
+  "subtitle": "Les faits ont eu lieu le 4 septembre dans la commune du Fauga, près de Toulouse. L’auteur des menaces a été jugé ce jeudi en comparution immédiate.",
+  "date": "2026-09-10T17:45:27+00:00",
+  "place": "Haute-Garonne",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 43.3054546,
+  "lon": 0.9716792,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/assassinat-de-federico-martin-aramburu-les-videos-de-lhomicide-saisissent-le-tribunal-20260910_GRRJW72NW5ANBDY4SVFKSIPVXQ/",
+  "id": "0a61601a149a",
+  "title": "Assassinat de Federico Martín Aramburú : les vidéos saisissent le tribunal, un policier évoque une «exécution»",
+  "subtitle": "Dans une certaine émotion, les bandes de 16 caméras différentes ont été diffusées, ce jeudi 10 septembre, devant la cour d’assises de Paris. Elles retracent la nuit fatale et mettent à mal la défense de Romain Bouvier et Loïk Le Priol.",
+  "date": "2026-09-10T17:19:30+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
   "premium": true
  },
  {
@@ -260,6 +312,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/climat/six-departements-en-vigilance-orange-canicule-dimanche-et-lundi-20260906_7GZQCXGHUVASBMLB42DFYZFLDM/",
+  "id": "9bbddc258559",
+  "title": "Six départements en vigilance orange canicule dimanche et lundi",
+  "subtitle": "Ardèche, Aude, Drôme, Gard, Hérault et Vaucluse sont concernés. Samedi 5 septembre, des températures inédites pour un mois de septembre ont été enregistrées.",
+  "date": "2026-09-06T06:16:29+00:00",
+  "place": "Ardèche",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 44.815194,
+  "lon": 4.3986525,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-jean-luc-melenchon-a-la-braderie-de-lille-a-fond-sur-le-pouvoir-dachat-20260905_GBAQNSSV55E2TESVNL3AOUNWLA/",
   "id": "d42795e4eafd",
   "title": "Présidentielle 2027 : Jean-Luc Mélenchon à la braderie de Lille, à fond sur le pouvoir d’achat",
@@ -403,6 +468,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/immigration/cest-trop-long-cinq-mois-apres-leur-mort-dans-la-manche-deux-corps-dexiles-pas-encore-restitues-a-leur-famille-20260831_64ZDGNSFAREC3BRQM4YVS5GO5U/",
+  "id": "39856f03064c",
+  "title": "«C’est trop long» : cinq mois après leur mort dans la Manche, deux corps d’exilés pas encore restitués à leur famille",
+  "subtitle": "Un rassemblement s’est tenu ce lundi 31 août devant le tribunal de Dunkerque à l’initiative des proches de Jasmeet Singh et Nagmeldin Adam, un Afghan et un Soudanais qui ont péri en tentant la traversée vers l’Angleterre. Ils demandent à pouvoir enfin organiser leurs funérailles.",
+  "date": "2026-08-31T16:32:44+00:00",
+  "place": "Dunkerque",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 51.0347708,
+  "lon": 2.3772525,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/education/violences-dans-le-periscolaire-parisien-une-rentree-sous-haute-surveillance-20260831_ZVCD5IHAFRGB7CK3YIELTDPKSM/",
   "id": "2e95deb7299e",
   "title": "Violences dans le périscolaire parisien : une rentrée sous haute surveillance",
@@ -439,6 +517,19 @@
   "matched_in": "titre",
   "lat": 48.2640845,
   "lon": -2.9202408,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/attentat-a-la-pudeur-et-viols-sur-mineurs-un-ancien-pretre-vise-par-une-enquete-a-lille-20260829_SF3ZB2N2URDF5G4AZGEUFP76VM/",
+  "id": "f3eda7a703e5",
+  "title": "Attentat à la pudeur et viols sur mineurs : un ancien prêtre visé par une enquête à Lille",
+  "subtitle": "Jacques Delfosse, aujourd’hui octogénaire et déjà condamné pour viol, fait l’objet d’une information judiciaire pour avoir violenté sept jeunes dans les années 1990, dans des camps de vacances.",
+  "date": "2026-08-29T08:45:32+00:00",
+  "place": "Lille",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 50.6365654,
+  "lon": 3.0635282,
   "premium": true
  },
  {
@@ -793,6 +884,32 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/sports/aveyron-ouverture-dune-enquete-apres-la-mort-dune-adolescente-lors-dune-promenade-a-cheval-20260820_VBKIW4CCNVBE3P6F5QEZXYOIQU/",
+  "id": "a1353665ac72",
+  "title": "Aveyron : une adolescente meurt d’une chute de cheval lors d’une promenade, une enquête ouverte",
+  "subtitle": "Le centre équestre de Najac, à l’origine de la balade au cours de laquelle la jeune fille de 12 ans a chuté le 7 août, a été fermé de façon temporaire pour une durée «illimitée». La préfecture pointe du doigt la «non-conformité» de certains équipements.",
+  "date": "2026-08-20T16:18:31+00:00",
+  "place": "Aveyron",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.3158574,
+  "lon": 2.5065697,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/logement/la-greve-sarrete-pas-notre-soutien-aux-personnes-a-la-rue-fin-de-deux-mois-de-conflit-au-samu-social-de-paris-20260820_WYJQ2IU6GVB23HARGQG2EVXMBI/",
+  "id": "468a3132b1f8",
+  "title": "«La grève s’arrête, pas notre soutien aux personnes à la rue» : fin de deux mois de conflit au Samu social de Paris",
+  "subtitle": "Les grévistes qui dénonçaient leurs conditions de travail et les remises à la rue sont parvenus à un accord avec leur employeur. La CGT appelle toutefois à une mobilisation large à la rentrée contre les coupes budgétaires dans le secteur de l’hébergement.",
+  "date": "2026-08-20T16:12:10+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/culture/photographie/almageste-lexploration-hors-frontieres-de-mouna-saboni-20260806_CQHLHOG5UBEZZLIUHBDKU5FMNU/",
   "id": "756f3007bf7d",
   "title": "«Almageste», l’exploration hors frontières de Mouna Saboni",
@@ -816,6 +933,19 @@
   "matched_in": "chapô",
   "lat": 43.6044638,
   "lon": 1.4442433,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/lifestyle/intimites/etudiants-en-galere-dappart-sans-garant-et-sans-apl-je-ne-sais-pas-ou-je-vais-vivre-a-la-rentree-20260820_TMLFFWEDWVB3BHRDUNWVH2H7XU/",
+  "id": "f7259a8ad022",
+  "title": "Etudiants en galère d’appart : «Sans garant et sans APL, je ne sais pas où je vais vivre à la rentrée»",
+  "subtitle": "Comment profiter de son été quand on ne sait pas où l’on vivra en septembre à la reprise des cours ? Dans notre quatrième épisode, Mona, étudiante mauricienne, ne sait pas où elle va pouvoir se loger à Paris à la rentrée.",
+  "date": "2026-08-20T06:03:00+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
   "premium": true
  },
  {
@@ -1339,6 +1469,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/police-justice/une-demarche-antimusulmane-inquietante-la-justice-suspend-comme-chaque-annee-linterdiction-du-burkini-a-mandelieu-la-napoule-20260807_7B6DWTOJIBC4HEEM4FALIRVGDM/",
+  "id": "1c8da25e6574",
+  "title": "«Une démarche antimusulmane inquiétante» : la justice suspend, comme chaque année, l’interdiction du burkini à Mandelieu-la-Napoule",
+  "subtitle": "Proche de David Lisnard, le maire de Mandelieu-la-Napoule, Sébastien Leroy, avait déjà publié des arrêtés municipaux pour interdire le burkini sur les plages lors des étés 2023, 2024 et 2025. Des décisions illégales, à chaque fois suspendues par le tribunal administratif de Nice.",
+  "date": "2026-08-07T17:04:15+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/un-educateur-de-gym-dans-les-yvelines-mis-en-examen-pour-agressions-et-harcelement-sexuels-sur-mineures-20260807_IDKE3VN55BAHVKLB5EK7O5I4FY/",
   "id": "412f77ecb703",
   "title": "Un éducateur de gym dans les Yvelines mis en examen pour agressions et harcèlement sexuels sur mineures",
@@ -1622,6 +1765,19 @@
   "matched_in": "chapô",
   "lat": 43.8911318,
   "lon": -0.500972,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/animaux/dauphins-de-marineland-le-directeur-du-zoo-de-beauval-menace-de-suspendre-le-projet-daccueil-et-demande-plus-de-soutien-de-letat-20260802_O6OMZDOWHZDWDEF2BTJ22PM2JI/",
+  "id": "b101026d8841",
+  "title": "Dauphins de Marineland : le directeur du zoo de Beauval menace de suspendre le projet d’accueil et demande plus de soutien de l’Etat",
+  "subtitle": "Auprès du «Parisien» et d’«ICI Touraine», Rodolphe Delord déplore le manque d’engagement de l’Etat dans le centre en construction censé accueillir 23 dauphins du célèbre zoo marin d’Antibes et du parc Planète Sauvage, sur fond de contestations des défenseurs des animaux.",
+  "date": "2026-08-02T10:10:07+00:00",
+  "place": "Antibes",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.5813878,
+  "lon": 7.1236966,
   "premium": true
  },
  {
@@ -2457,6 +2613,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/incendies-jusqua-1-000-hectares-touches-par-les-flammes-dans-la-foret-de-fontainebleau-qui-vit-le-plus-grand-incendie-de-son-histoire-moderne-20260713_HUYERBS7YZAI7II3QRSQBJTZUU/",
+  "id": "bd665f7009b3",
+  "title": "10 % du massif touché, 850 pompiers mobilisés, six gardes à vue dont deux aveux… Ce que l’on sait de l’incendie de la forêt de Fontainebleau",
+  "subtitle": "Le feu, soupçonné d’être «d’origine volontaire», a parcouru ce mardi 2 000 hectares dans l’un des espaces forestiers les plus célèbres de France, qui n’avait pas vécu pareil événement depuis a minima plus d’un siècle.",
+  "date": "2026-07-14T15:29:55+00:00",
+  "place": "Fontainebleau",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.4049375,
+  "lon": 2.7015872,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/environnement/a-fontainebleau-la-solidarite-et-la-sideration-face-a-lincendie-cest-tellement-triste-que-ca-donne-envie-de-pleurer-20260714_5UJJVF3TLNDB7GW3X3YYSJZAGM/",
   "id": "61d4ee54c26f",
   "title": "A Fontainebleau, la solidarité et la sidération face à l’incendie : «C’est tellement triste que ça donne envie de pleurer»",
@@ -2527,19 +2696,6 @@
   "title": "Dix ans de l’attentat du 14 Juillet à Nice : Thierry Vimal, père d’une jeune victime, met le procès en pièce",
   "subtitle": "L’écrivain niçois, dont la fille Amie, 12 ans, a été tuée par le terroriste sur la promenade des Anglais en 2016, adapte sur scène, de manière caustique et captivante, les chroniques qu’il a tirées des débats de la cour d’assises spéciale de Paris.",
   "date": "2026-07-13T05:00:00+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/marche-hommage-aux-victimes-de-lattentat-de-nice-integrer-le-mot-resilience-a-sa-vie-est-difficile-20260712_2GVHEPZN4RHPVMYG2SQUAMKB3E/",
-  "id": "3ec6f3a89b3f",
-  "title": "Marche hommage aux victimes de l’attentat de Nice : «Intégrer le mot résilience à sa vie est difficile»",
-  "subtitle": "Un cortège de victimes, familles et Niçois s’est élancé sur la promenade des Anglais, dans la matinée de ce dimanche 12 juillet. Avec roses et tenues blanches, la commémoration revenait, dix ans après, sur les pas de l’attaque au camion-bélier du 14 Juillet.",
-  "date": "2026-07-12T13:11:52+00:00",
   "place": "Nice",
   "place_cat": "ville",
   "matched_in": "titre",

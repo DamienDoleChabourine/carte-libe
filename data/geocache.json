@@ -290,5 +290,29 @@
  "Mulhouse, France": {
   "lat": 47.7467233,
   "lon": 7.3389937
+ },
+ "Angers, France": {
+  "lat": 47.4739884,
+  "lon": -0.5515588
+ },
+ "Haute-Garonne, France": {
+  "lat": 43.3054546,
+  "lon": 0.9716792
+ },
+ "Ardèche, France": {
+  "lat": 44.815194,
+  "lon": 4.3986525
+ },
+ "Aveyron, France": {
+  "lat": 44.3158574,
+  "lon": 2.5065697
+ },
+ "Dunkerque, France": {
+  "lat": 51.0347708,
+  "lon": 2.3772525
+ },
+ "Antibes, France": {
+  "lat": 43.5813878,
+  "lon": 7.1236966
  }
 }
