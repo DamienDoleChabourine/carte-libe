@@ -3105,31 +3105,5 @@
   "lat": 43.7009358,
   "lon": 7.2683912,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/historique-mais-pas-nouveau-lincendie-de-la-foret-de-fontainebleau-dernier-dune-longue-serie-20260713_JOCDRCFVXFFKXOAKGBJMTIH7IY/",
-  "id": "ced89c692bc0",
-  "title": "Forêt de Fontainebleau : historique mais pas inédit, l’incendie est le dernier d’une longue série",
-  "subtitle": "Frappé par un feu d’une ampleur inédite depuis le dimanche 12 juillet, le célèbre massif forestier de Seine-et-Marne a déjà connu des sinistres ravageurs, même si celui de ces dernières heures est déjà le plus important de son histoire.",
-  "date": "2026-07-13T10:19:39+00:00",
-  "place": "Fontainebleau",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.4049375,
-  "lon": 2.7015872,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/dix-ans-de-lattentat-du-14-juillet-a-nice-thierry-vimal-pere-dune-jeune-victime-met-le-proces-en-piece-20260713_VPSDZZLEJJFSFLU7WHX7VFVNCQ/",
-  "id": "fc0cec93d695",
-  "title": "Dix ans de l’attentat du 14 Juillet à Nice : Thierry Vimal, père d’une jeune victime, met le procès en pièce",
-  "subtitle": "L’écrivain niçois, dont la fille Amie, 12 ans, a été tuée par le terroriste sur la promenade des Anglais en 2016, adapte sur scène, de manière caustique et captivante, les chroniques qu’il a tirées des débats de la cour d’assises spéciale de Paris.",
-  "date": "2026-07-13T05:00:00+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
  }
 ]
