@@ -334,5 +334,29 @@
  "Seine-et-Marne, France": {
   "lat": 48.6190207,
   "lon": 3.0418158
+ },
+ "Hénin-Beaumont, France": {
+  "lat": 50.4191721,
+  "lon": 2.9469339
+ },
+ "Nogent-sur-Marne, France": {
+  "lat": 48.8387639,
+  "lon": 2.4916592
+ },
+ "Ivry-sur-Seine, France": {
+  "lat": 48.8122302,
+  "lon": 2.3872525
+ },
+ "Deauville, France": {
+  "lat": 49.3595018,
+  "lon": 0.0746638
+ },
+ "Chambéry, France": {
+  "lat": 45.5662672,
+  "lon": 5.9203636
+ },
+ "Bourgoin-Jallieu, France": {
+  "lat": 45.5860438,
+  "lon": 5.2772265
  }
 }
