@@ -3469,31 +3469,5 @@
   "lat": 43.2963986,
   "lon": 5.3777888,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/venue-controversee-de-le-pen-ceremonie-avec-macron-minute-de-silence-avant-france-espagne-10-ans-apres-nice-se-souvient-de-lattentat-du-14-juillet-2016-20260714_O364MPA5ERBFZC3VUYOBB6IHKM/",
-  "id": "07751104bb1d",
-  "title": "Venue controversée de Le Pen, cérémonie avec Macron, minute de silence avant France-Espagne : 10 ans après, Nice se souvient de l’attentat du 14 juillet 2016",
-  "subtitle": "La ville méditerranéenne a commencé à honorer les 86 morts et plus de 400 blessés touchés par l’attaque terroriste à la voiture-bélier, voilà dix ans.",
-  "date": "2026-07-14T12:35:48+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/marc-vermeulen-de-la-federation-nationale-des-sapeurs-pompiers-face-aux-incendies-il-faut-que-les-departements-situes-plus-au-nord-se-preparent-20260714_WAIARHKH6FEDFAOLWL3DQDU5RY/",
-  "id": "0ef70110732b",
-  "title": "Marc Vermeulen, de la Fédération nationale des sapeurs-pompiers : «Face aux incendies, il faut que les départements situés plus au nord se préparent»",
-  "subtitle": "Alors que plus de 1 900 hectares du massif de Fontainebleau sont partis en fumée depuis dimanche, obligeant les Canadair à survoler l’Ile-de-France pour la première fois, le sapeur-pompier revient sur la préparation d’une région longtemps épargnée par le risque incendie.",
-  "date": "2026-07-14T08:29:38+00:00",
-  "place": "Fontainebleau",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.4049375,
-  "lon": 2.7015872,
-  "premium": true
  }
 ]
