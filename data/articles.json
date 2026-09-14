@@ -3495,18 +3495,5 @@
   "lat": 48.4049375,
   "lon": 2.7015872,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/la-foret-de-fontainebleau-premiere-zone-a-defendre-de-lhistoire-20260714_UTR42QYE6BGPVJGQTZGTJ4D6AE/",
-  "id": "b0f1fca01928",
-  "title": "La forêt de Fontainebleau, première zone à défendre de l’histoire",
-  "subtitle": "Dès le XIXe siècle, le massif a été le théâtre de luttes environnementales menées par des peintres ou des écrivains. Dans «Des arbres à défendre !», le co-créateur du mouvement de l’Ecologie culturelle Patrick Scheyder raconte cet épisode méconnu de l’histoire.",
-  "date": "2026-07-14T03:37:00+00:00",
-  "place": "Fontainebleau",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.4049375,
-  "lon": 2.7015872,
-  "premium": true
  }
 ]
