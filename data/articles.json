@@ -3417,57 +3417,5 @@
   "lat": 44.841225,
   "lon": -0.5800364,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/dix-ans-de-lattentat-du-14-juillet-a-nice-lhorreur-a-bien-eu-lieu-chez-moi-sur-moi-sur-ma-prom-20260714_EXGEKI3HZRHMNNOO4NIGUX44TI/",
-  "id": "370e6392fa88",
-  "title": "Dix ans de l’attentat du 14 juillet à Nice : «L’horreur a bien eu lieu chez moi, sur moi, sur ma Prom»",
-  "subtitle": "Il y a exactement dix ans, 86 personnes étaient tuées dans une attaque terroriste au camion-bélier sur la promenade des Anglais. Le chef de l’Etat a fait le déplacement pour une commémoration.",
-  "date": "2026-07-14T18:57:33+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/incendies-jusqua-1-000-hectares-touches-par-les-flammes-dans-la-foret-de-fontainebleau-qui-vit-le-plus-grand-incendie-de-son-histoire-moderne-20260713_HUYERBS7YZAI7II3QRSQBJTZUU/",
-  "id": "bd665f7009b3",
-  "title": "10 % du massif touché, 850 pompiers mobilisés, six gardes à vue dont deux aveux… Ce que l’on sait de l’incendie de la forêt de Fontainebleau",
-  "subtitle": "Le feu, soupçonné d’être «d’origine volontaire», a parcouru ce mardi 2 000 hectares dans l’un des espaces forestiers les plus célèbres de France, qui n’avait pas vécu pareil événement depuis a minima plus d’un siècle.",
-  "date": "2026-07-14T15:29:55+00:00",
-  "place": "Fontainebleau",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.4049375,
-  "lon": 2.7015872,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/a-fontainebleau-la-solidarite-et-la-sideration-face-a-lincendie-cest-tellement-triste-que-ca-donne-envie-de-pleurer-20260714_5UJJVF3TLNDB7GW3X3YYSJZAGM/",
-  "id": "61d4ee54c26f",
-  "title": "A Fontainebleau, la solidarité et la sidération face à l’incendie : «C’est tellement triste que ça donne envie de pleurer»",
-  "subtitle": "Le feu qui a détruit plus de 2 000 hectares dans la forêt francilienne a été fixé, ce mardi en fin de journée. Les habitants, choqués par la violence du sinistre, se sont organisés pour fournir aux pompiers de la nourriture, du sérum physiologique ou des lingettes.",
-  "date": "2026-07-14T15:16:45+00:00",
-  "place": "Fontainebleau",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.4049375,
-  "lon": 2.7015872,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/culture/cinema/fid-marseille-apres-la-crise-les-films-reprennent-la-main-20260714_D2URCKUXRVEP7IKUDV2TDWECF4/",
-  "id": "2c8917bde589",
-  "title": "FID Marseille : après la crise, les films au premier plan",
-  "subtitle": "Après la polémique liée au retrait du cinéaste israélien Nadav Lapid, boycotté par plusieurs participants, la dernière édition du Festival international de cinéma a laissé place à sa sélection d’œuvres libres, traversées par la question politique.",
-  "date": "2026-07-14T14:52:37+00:00",
-  "place": "Marseille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2963986,
-  "lon": 5.3777888,
-  "premium": true
  }
 ]
