@@ -3391,18 +3391,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/a-bordeaux-deux-plaintes-pour-viols-contre-un-directeur-decole-une-information-judiciaire-ouverte-20260715_ESFUJWOOGBCPTMBUNNVROTRIPM/",
-  "id": "5b18a89939bf",
-  "title": "A Bordeaux, deux plaintes pour viols contre un directeur d’école, une information judiciaire ouverte",
-  "subtitle": "Le directeur de l’école élémentaire privée catholique Sainte-Marie Bastide est soupçonné de viols, d’agressions sexuelles et de menaces de mort à l’encontre de deux petits garçons.",
-  "date": "2026-07-15T20:19:37+00:00",
-  "place": "Bordeaux",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 44.841225,
-  "lon": -0.5800364,
-  "premium": true
  }
 ]
