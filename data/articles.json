@@ -3352,18 +3352,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/canicule-7-departements-du-sud-est-toujours-en-vigilance-orange-des-alertes-aux-orages-dans-le-centre-et-lest-20260718_TTCLCRYXWRGS3GKH36SRS3OFVA/",
-  "id": "1cd1b1dff87e",
-  "title": "Canicule : 7 départements du Sud-Est toujours en vigilance orange, des alertes aux orages dans le Centre et l’Est",
-  "subtitle": "«Les fortes chaleurs sont généralisées en Corse et du Roussillon à la basse vallée du Rhône et la Provence», souligne encore Météo France ce samedi. Les températures pourraient avoisiner 40 °C par endroits.",
-  "date": "2026-07-18T07:09:14+00:00",
-  "place": "Corse",
-  "place_cat": "region",
-  "matched_in": "chapô",
-  "lat": 42.188098,
-  "lon": 9.0683139,
-  "premium": true
  }
 ]
