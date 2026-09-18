@@ -3326,31 +3326,5 @@
   "lat": 45.1875602,
   "lon": 5.7357819,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/laurent-wauquiez-promet-des-climatiseurs-regionaux-les-emballages-indiquent-made-in-china-20260718_4T6Q66ZVGFG3JCPWA3BWSW64U4/",
-  "id": "1e0c2112cb61",
-  "title": "Laurent Wauquiez promet des climatiseurs régionaux, les emballages indiquent «made in China»",
-  "subtitle": "En lançant le «plan climatisation» de la région Auvergne-Rhône-Alpes, son ex-président LR jurait vouloir travailler avec des entreprises locales. Mais les premiers équipements distribués dans les hôpitaux viennent de loin.",
-  "date": "2026-07-18T10:37:11+00:00",
-  "place": "Auvergne-Rhône-Alpes",
-  "place_cat": "region",
-  "matched_in": "chapô",
-  "lat": 45.2968119,
-  "lon": 4.6604809,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/lifestyle/gastronomie/franceangleterre-la-petite-finale-se-regarde-en-mangeant-un-fish-and-chips-a-la-koliwada-20260718_ECZFMRT4PJDNNGLQ7K4EPUIPGI/",
-  "id": "da1fc0acba95",
-  "title": "France–Angleterre : la petite finale se regarde en mangeant un fish and chips à la koliwada",
-  "subtitle": "La petite finale des Bleus contre les Anglais a lieu ce samedi 18 juillet à 23 heures. Pour l’occasion, on vous propose une recette fusion du chef indien Manoj Sharma du pub The Indian Arms, à Paris.",
-  "date": "2026-07-18T09:47:00+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
  }
 ]
