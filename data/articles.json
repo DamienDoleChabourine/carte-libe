@@ -1,5 +1,18 @@
 [
  {
+  "url": "https://www.liberation.fr/societe/police-justice/a-marseille-un-ex-candidat-aux-municipales-condamne-pour-violences-conjugales-20260917_6AE7TIG5U5FBLDANWDKICZV5TM/",
+  "id": "0758dddbdd9b",
+  "title": "A Marseille, un ex-candidat aux municipales condamné pour violences conjugales",
+  "subtitle": "Mercredi 16 septembre, Erwan Davoux, par ailleurs ancien collaborateur de Martine Vassal, patronne de la droite marseillaise, a été condamné à quatre ans de prison avec sursis et cinq ans d’inéligibilité.",
+  "date": "2026-09-17T10:16:17+00:00",
+  "place": "Marseille",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.2963986,
+  "lon": 5.3777888,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/en-meeting-a-henin-beaumont-marine-le-pen-lance-une-campagne-mariniste-sous-les-yeux-de-jordan-bardella-20260913_H4B6FJPCHRFM7MESF2C5PMINYA/",
   "id": "a47e3f874b57",
   "title": "En meeting à Hénin-Beaumont, Marine Le Pen lance une campagne mariniste sous les yeux de Jordan Bardella",
@@ -3299,19 +3312,6 @@
   "matched_in": "titre",
   "lat": 48.8534951,
   "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/un-violent-incendie-menace-un-village-du-var-deux-feux-progressent-dans-des-zones-montagneuses-de-corse-20260719_V3DAYTREJZG7TPX2NNWIXT33Z4/",
-  "id": "d79172b8e803",
-  "title": "Un violent incendie en cours dans le Var perturbe le trafic SNCF, deux feux progressent en Corse",
-  "subtitle": "En dépit des nombreux pompiers mobilisés ce dimanche, les flammes ont déjà brûlé plusieurs centaines d’hectares. Des habitations ont aussi dû être évacuées.",
-  "date": "2026-07-19T19:01:23+00:00",
-  "place": "Corse",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 42.188098,
-  "lon": 9.0683139,
   "premium": true
  }
 ]
