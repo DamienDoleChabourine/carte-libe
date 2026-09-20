@@ -3300,18 +3300,5 @@
   "lat": 43.2963986,
   "lon": 5.3777888,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/culture/scenes/mahaut-drama-cirque-rappe-et-danse-anti-milei-a-paris-lete-crues-de-scenes-20260720_FMPTAFANTFE4DAP54HXNW36ZUA/",
-  "id": "7e2f864cc955",
-  "title": "Mahaut Drama, cirque rappé et danse anti-Milei… A Paris l’été, crues de scènes",
-  "subtitle": "Pour cette 36e édition, «Libé» a choisi trois spectacles à découvrir parmi le programme profus du festival parisien.",
-  "date": "2026-07-20T04:11:00+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
  }
 ]
