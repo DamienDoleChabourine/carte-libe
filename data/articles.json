@@ -3235,57 +3235,5 @@
   "lat": 43.6044638,
   "lon": 1.4442433,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/deux-retraites-retrouves-morts-plusieurs-mois-apres-leur-deces-en-haute-loire-20260721_QNQAIY54MNE27O6RETRLIEVAFI/",
-  "id": "3181cc4d78c8",
-  "title": "Deux retraités retrouvés morts «plusieurs mois» après leur décès, en Haute-Loire",
-  "subtitle": "Les corps d’un frère et une sœur, qui vivaient reclus du monde extérieur, se seraient décomposés pendant des semaines. Une enquête est en cours pour déterminer les causes de leur mort, constatée lundi 20 juillet.",
-  "date": "2026-07-21T10:11:33+00:00",
-  "place": "Haute-Loire",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 45.0857249,
-  "lon": 3.8338261,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/ces-methodes-naident-en-rien-les-palestiniens-la-france-insoumise-critiquee-apres-linterruption-du-concert-de-barbara-butch-20260720_7D4I3R5GU5GOHJCYEV26AHLDVM/",
-  "id": "125351494bbd",
-  "title": "«Ces méthodes n’aident en rien les Palestiniens» : La France insoumise critiquée après l’interruption du concert de Barbara Butch",
-  "subtitle": "Après la mobilisation, samedi 18 juillet à Grenoble, de militants propalestiniens à l’appel de la section locale de LFI, contre un concert de la DJ, Manuel Bompard a dit comprendre les «protestations pacifiques». De nombreux responsables politiques ont, eux, condamné ce boycott.",
-  "date": "2026-07-21T09:43:33+00:00",
-  "place": "Grenoble",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 45.1875602,
-  "lon": 5.7357819,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/marseille-un-policier-projete-sur-une-vingtaine-de-metres-lors-dun-refus-dobtemperer-quatre-personnes-interpellees-20260721_D6LIT6W5DBCHDJNMCMLKA5NQN4/",
-  "id": "5347e8d48dea",
-  "title": "Marseille : un policier «projeté sur une vingtaine de mètres» lors d’un refus d’obtempérer, quatre personnes interpellées",
-  "subtitle": "Le fonctionnaire a été percuté dans la nuit du mardi 20 au mercredi 21 juillet alors qu’il tentait d’arrêter un véhicule volé. Le conducteur et les trois passagers ont été placés en garde à vue.",
-  "date": "2026-07-21T08:14:12+00:00",
-  "place": "Marseille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2963986,
-  "lon": 5.3777888,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/biodiversite/trois-jours-plus-tard-il-ny-avait-plus-rien-a-sauver-en-charente-maritime-des-pecheurs-au-secours-des-poissons-asphyxies-par-la-secheresse-20260721_KUFZO3ABO5FRBGKJBZ43COPUQA/",
-  "id": "5332253b824a",
-  "title": "En Charente-Maritime, des pêcheurs au secours des poissons asphyxiés par la sécheresse",
-  "subtitle": "Epuisette à la main, des bénévoles multiplient les pêches de sauvetage pour réoxygéner les gardons, perches, ablettes ou brochets du département où plus de 40 % des cours d’eau sont asséchés, un taux inédit en juillet.",
-  "date": "2026-07-21T05:29:00+00:00",
-  "place": "Charente-Maritime",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 45.7302268,
-  "lon": -0.7212876,
-  "premium": true
  }
 ]
