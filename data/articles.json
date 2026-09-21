@@ -1,5 +1,83 @@
 [
  {
+  "url": "https://www.liberation.fr/international/europe/flambee-des-prix-des-carburants-cycliste-mort-a-paris-loi-integrale-contre-les-violences-sexuelles-lactu-de-ce-lundi-21-septembre-20260921_WC466DFCNJAZDEIVGBMORSMFT4/",
+  "id": "02c6784ef2e4",
+  "title": "Flambée des prix des carburants, cycliste mort à Paris, loi intégrale contre les violences sexuelles… L’actu de ce lundi 21 septembre",
+  "subtitle": "La rédaction de «Libération» récapitule les principales actualités de la journée du lundi 21 septembre.",
+  "date": "2026-09-21T16:37:06+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/forums/a-cergy-pontoise-trois-kilometres-dart-pour-passer-de-limaginaire-a-laction-20260921_GCTCOVXI7RGNXHLU2QTIHVF6QY/",
+  "id": "fce0efa0ad8e",
+  "title": "A Cergy-Pontoise, trois kilomètres d’art pour «passer de l’imaginaire à l’action»",
+  "subtitle": "Dans l’ex-ville nouvelle, «l’Axe majeur», surprenant ensemble d’œuvres assemblé sur des décennies, prouve que l’utopie peut avoir sa place dans l’urbanisme.",
+  "date": "2026-09-21T10:19:00+00:00",
+  "place": "Pontoise",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 49.0508845,
+  "lon": 2.1008067,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/un-ter-percute-une-voiture-pres-de-toulouse-la-conductrice-en-urgence-absolue-20260921_6U7K2VPFFJGRBGDWJOQJZMGUMI/",
+  "id": "03f4f5cdb262",
+  "title": "Un TER percute une voiture près de Toulouse, la conductrice en urgence absolue",
+  "subtitle": "La femme d’environ 40 ans a été transportée à l’hôpital. Le trafic est interrompu entre Toulouse et Narbonne jusqu’à au moins midi ce lundi.",
+  "date": "2026-09-21T06:27:03+00:00",
+  "place": "Toulouse",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.6044638,
+  "lon": 1.4442433,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/climat/le-monde-politique-est-un-peu-dephase-comment-jean-marc-jancovici-veut-peser-sur-la-presidentielle-par-le-biais-dune-initiative-citoyenne-20260919_GNJ67OUDNJF5VPFJPXJQTMGWNA/",
+  "id": "6b41c952d18c",
+  "title": "«Le monde politique est un peu déphasé» : comment Jean-Marc Jancovici veut peser sur la présidentielle par le biais d’une initiative citoyenne",
+  "subtitle": "L’ingénieur expert du climat lance, samedi 19 septembre à Paris, une sorte de convention constituée de représentants de la société civile, mais sans l’Etat. Jusqu’en février, 150 Français vont plancher sur la transition écologique dans l’espoir d’infléchir les débats électoraux.",
+  "date": "2026-09-19T03:01:00+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/le-maire-de-concarneau-place-en-garde-a-vue-dans-le-cadre-dune-enquete-pour-viol-20260917_3QP3AK6CDZCQ7L65RP4PQRA6W4/",
+  "id": "863db4387962",
+  "title": "Le maire de Concarneau mis en examen pour «viol et agression sexuelle»",
+  "subtitle": "Quentin Le Gaillard, édile divers droite de 28 ans, était entendu par la justice depuis jeudi matin. Il a été placé «sous contrôle judiciaire strict», a annoncé ce vendredi 18 septembre le procureur de Quimper.",
+  "date": "2026-09-18T12:38:52+00:00",
+  "place": "Concarneau",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 47.8757017,
+  "lon": -3.9223889,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/sante/a-la-rochelle-face-au-moustique-tigre-il-faut-saffranchir-des-insecticides-20260918_NNZP6DJDYNCIXHPDEXYDLYT4MQ/",
+  "id": "c5fe538fe5c4",
+  "title": "A La Rochelle, face au moustique tigre, «il faut s’affranchir des insecticides»",
+  "subtitle": "Un cas de chikungunya a entraîné la pulvérisation de deltaméthrine pendant la nuit de mercredi 16 à jeudi 17 septembre, dans la ville de Charente-Maritime. Son utilisation, qui suscite des inquiétudes pour la santé humaine, ne pourra être répétée à long terme, alerte un expert.",
+  "date": "2026-09-18T06:26:00+00:00",
+  "place": "Charente-Maritime",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 45.7302268,
+  "lon": -0.7212876,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/a-marseille-un-ex-candidat-aux-municipales-condamne-pour-violences-conjugales-20260917_6AE7TIG5U5FBLDANWDKICZV5TM/",
   "id": "0758dddbdd9b",
   "title": "A Marseille, un ex-candidat aux municipales condamné pour violences conjugales",
@@ -10,6 +88,19 @@
   "matched_in": "titre",
   "lat": 43.2963986,
   "lon": 5.3777888,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/economie/conso/hausse-du-prix-du-carburant-les-mobilisations-de-pecheurs-se-poursuivent-dans-lherault-et-a-nice-20260917_DCYEBJVY2JDBXJ26YL6K74I3F4/",
+  "id": "0b396d90f848",
+  "title": "Hausse du prix du carburant : les mobilisations de pêcheurs se poursuivent dans l’Hérault et à Nice",
+  "subtitle": "Pour le deuxième jour consécutif, des manifestants bloquent ce jeudi l’accès aux dépôts pétroliers. La ministre de la Pêche doit les recevoir en fin de matinée.",
+  "date": "2026-09-17T08:13:16+00:00",
+  "place": "Nice",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.7009358,
+  "lon": 7.2683912,
   "premium": true
  },
  {
@@ -3094,6 +3185,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/lifestyle/gastronomie/visiter-ajaccio-sans-etre-pris-pour-un-pigeon-nos-adresses-preferees-dans-les-alentours-pour-manger-un-morceau-20260724_XBZHSQQLGVGTVJ3XVF3DCLC3XE/",
+  "id": "18c2f8974018",
+  "title": "Visiter Ajaccio sans être pris pour un pigeon : nos adresses préférées dans les alentours pour manger un morceau",
+  "subtitle": "Cette semaine, «Libé» vous partage ses bons plans dans des sites touristiques très visités. Aujourd’hui, un petit coin de Corse garni de victuailles et de souvenirs culinaires.",
+  "date": "2026-07-24T04:51:00+00:00",
+  "place": "Ajaccio",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 41.9263991,
+  "lon": 8.7376029,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/economie/social/suspecte-de-cessation-de-paiements-le-bhv-marais-va-devoir-rendre-des-comptes-devant-le-tribunal-de-commerce-20260723_OHI2VGTHIVC3ZCX6BGAH42T23Y/",
   "id": "8e5009b33ec0",
   "title": "Suspecté de cessation de paiements, le BHV Marais va devoir rendre des comptes devant le tribunal de commerce",
@@ -3182,58 +3286,6 @@
   "matched_in": "titre",
   "lat": 44.8839021,
   "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-deux-pompiers-morts-dans-un-feu-pres-de-bordeaux-un-nouveau-brasier-dans-le-var-20260721_BZBZU5WPIBBD3JKT25ZAQZJZ3U/",
-  "id": "970fd60948a7",
-  "title": "Incendies : deux pompiers morts dans un feu  près de Bordeaux, un nouveau brasier a déjà consumé 700 hectares dans le Var",
-  "subtitle": "Deux importants foyers se sont déclarés ce mardi. Celui de Bordeaux est désormais «fixé». C’est loin d’être le cas dans le Var, où plusieurs centaines de pompiers et d’importants moyens aériens sont déployés.",
-  "date": "2026-07-21T18:58:13+00:00",
-  "place": "Bordeaux",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 44.841225,
-  "lon": -0.5800364,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/les-gens-ici-subissent-plus-violemment-lepisode-de-chaleur-en-banlieue-de-toulouse-la-caravane-insoumise-discute-canicule-20260721_J6BWOMWMUVE2HM4FMGXYMT5IYU/",
-  "id": "7043b0b20307",
-  "title": "«Les gens ici subissent plus violemment l’épisode de chaleur» : en banlieue de Toulouse, la caravane insoumise discute canicule",
-  "subtitle": "Pour la dixième année d’affilée, LFI profite de l’été pour aller à la rencontre des habitants des quartiers populaires pour les convaincre de voter. Le parti était lundi 20 juillet dans la capitale occitane, très touchée par les récentes vagues de chaleur.",
-  "date": "2026-07-21T13:56:32+00:00",
-  "place": "Toulouse",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.6044638,
-  "lon": 1.4442433,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/biarritz-deux-animateurs-dun-centre-de-loisirs-en-garde-a-vue-pour-des-soupcons-de-viol-et-agressions-sexuelles-20260721_J2NHLUZR7VGKZDAV7WFYUPHZBI/",
-  "id": "66feb1709c2a",
-  "title": "Biarritz : deux animateurs d’un centre de loisirs en garde à vue pour des soupçons de viol et agressions sexuelles",
-  "subtitle": "Treize enfants de 3 à 4 ans seraient concernés par des faits survenus début juillet, révèlent «Sud Ouest» et Ici Pays basque. Plusieurs plaintes ont été déposées et la municipalité a suspendu les agents.",
-  "date": "2026-07-21T13:44:59+00:00",
-  "place": "Biarritz",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.4711437,
-  "lon": -1.5527275,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/le-proces-en-appel-de-cedric-jubillar-reporte-de-plusieurs-mois-apres-la-decouverte-des-ossements-de-delphine-aussaguel-20260721_MS62Z7RU6JHBTCV5ECSJCLUJIY/",
-  "id": "286ca453ca30",
-  "title": "Le procès en appel de Cédric Jubillar reporté de plusieurs mois, après la découverte des ossements de Delphine Aussaguel",
-  "subtitle": "Le parquet de Toulouse a annoncé ce mardi sa décision de renvoyer le procès en deuxième instance, initialement prévue à partir du 21 septembre 2026. Il devrait finalement se tenir début 2027.",
-  "date": "2026-07-21T13:25:29+00:00",
-  "place": "Toulouse",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.6044638,
-  "lon": 1.4442433,
   "premium": true
  }
 ]
