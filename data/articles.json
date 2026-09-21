@@ -3274,18 +3274,5 @@
   "lat": 42.188098,
   "lon": 9.0683139,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/le-ciel-est-devenu-rouge-deux-pompiers-tues-par-un-incendie-en-gironde-700-hectares-deja-engloutis-dans-le-var-20260721_S7HFOQKUOBFFZCZKDON74GPDCI/",
-  "id": "9ad73b2b47b4",
-  "title": "«Le ciel est devenu rouge» : deux pompiers tués par un incendie en Gironde, 1 700 hectares déjà engloutis dans le Var",
-  "subtitle": "Deux nouveaux brasiers se sont déclarés en France ce mardi. Le premier, près de l’aéroport bordelais, est maîtrisé. Le second progresse à «une vitesse très importante», a alerté le préfet dans la soirée, malgré d’importants moyens déployés.",
-  "date": "2026-07-21T19:42:24+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
  }
 ]
