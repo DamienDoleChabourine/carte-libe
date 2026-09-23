@@ -3222,18 +3222,5 @@
   "lat": 43.2963986,
   "lon": 5.3777888,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/maintenant-cest-le-terrain-qui-va-parler-en-gironde-un-nouveau-brasier-pendant-que-nunez-rend-hommage-a-deux-pompiers-tues-20260722_U2ZRDKFK3VDFNAN6OTBWIKOTHQ/",
-  "id": "1586c515fcef",
-  "title": "L’incendie progresse en Gironde, près de 10 000 personnes doivent être évacuées",
-  "subtitle": "Dans le département, un nouveau feu s’est déclaré ce mercredi 22 juillet entre Le Porge et Saumos. Il s’est intensifié pendant la nuit et a déjà ravagé 2 000 hectares.",
-  "date": "2026-07-23T06:12:16+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
  }
 ]
