@@ -3092,31 +3092,5 @@
   "lat": 44.8839021,
   "lon": -0.6046439,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/cetait-effrayant-en-gironde-et-dans-les-landes-deux-ogres-de-feu-devorent-tout-sur-leur-passage-20260724_427JRR2BGZAXJI3DXEDMVOSWWI/",
-  "id": "7b13c14231fe",
-  "title": "«C’était effrayant» : en Gironde et dans les Landes, deux «ogres» de feu dévorent tout sur leur passage",
-  "subtitle": "Déclenchés mercredi et jeudi, les incendies ravagent toujours, vendredi soir, cette partie du Sud-Ouest et ont déjà forcé l’évacuation de 110 000 personnes, en pleine saison touristique.",
-  "date": "2026-07-24T19:10:22+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/cest-le-saint-tropez-de-la-cote-atlantique-la-pointe-du-cap-ferret-petit-paradis-des-ultrariches-menace-par-les-flammes-20260724_BLI6Q5KFOJA65CIZHVUNVNAXGY/",
-  "id": "9219a93e439f",
-  "title": "«C’est le Saint-Tropez de la côte Atlantique» : la pointe du Cap Ferret, petit paradis des ultrariches menacé par les flammes",
-  "subtitle": "Aimant à résidences secondaires de gens fortunés et de célébrités, la pointe des «44 hectares», discret paradis sur le bassin d’Arcachon, a dû être évacuée en raison de la progression du feu dans la nuit de jeudi à vendredi, comme l’ensemble de la presqu’île du Cap Ferret.",
-  "date": "2026-07-24T18:21:58+00:00",
-  "place": "Arcachon",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 44.6616428,
-  "lon": -1.1700018,
-  "premium": true
  }
 ]
