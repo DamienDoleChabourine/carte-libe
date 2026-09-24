@@ -3118,44 +3118,5 @@
   "lat": 44.6616428,
   "lon": -1.1700018,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/de-nice-au-kilimandjaro-quest-devenu-lancien-maire-christian-estrosi-20260724_5OLUQRPUTNBGDOVOPEBO6IXDWU/",
-  "id": "1c2c8b1bb87d",
-  "title": "De Nice au Kilimandjaro, qu’est devenu l’ancien maire Christian Estrosi ?",
-  "subtitle": "Battu à plate couture aux municipales par son meilleur ennemi Eric Ciotti, le Niçois se fait discret dans la ville qu’il a tenue pendant dix-huit ans. Mais il n’a pas tout abandonné.",
-  "date": "2026-07-24T14:51:39+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/action-contre-le-concert-de-barbara-butch-la-mairie-de-grenoble-annonce-une-plainte-contre-x-pour-violences-volontaires-20260724_F53PHZCV6JC2HHPAU5YGYAXQKQ/",
-  "id": "913139d39d55",
-  "title": "Action contre le concert de Barbara Butch : la mairie de Grenoble annonce une plainte contre X pour «violences volontaires»",
-  "subtitle": "La préfecture iséroise a notamment fait état de jets de projectiles en direction de la DJ, à l’occasion de la mobilisation de militants propalestiniens et LFI, qui lui reprochaient son soutien à la loi Yadan et un concert en Israël.",
-  "date": "2026-07-24T13:37:46+00:00",
-  "place": "Grenoble",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 45.1875602,
-  "lon": 5.7357819,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/culture/arts/festival-normandie-impressionniste-fleurs-sur-la-ville-20260724_54UKRP7365HMHGCXB7NDXMZO7M/",
-  "id": "2f757fa43935",
-  "title": "Festival Normandie impressionniste : fleurs sur la ville",
-  "subtitle": "Nénuphars en Légo, peintures fauvistes, sculptures sonores… Les œuvres bucoliques du festival d’art contemporain essaiment jusqu’à fin septembre dans toute la région. «Libé» en a sélectionné cinq.",
-  "date": "2026-07-24T12:42:00+00:00",
-  "place": "Normandie",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 49.0677708,
-  "lon": 0.3138532,
-  "premium": true
  }
 ]
