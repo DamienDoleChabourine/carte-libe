@@ -3066,31 +3066,5 @@
   "lat": 44.841225,
   "lon": -0.5800364,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/barbes-lechappee-bled-des-algeriens-a-paris-si-quelquun-a-le-mal-du-pays-il-vient-ici-20260725_ROBISSBS5RCLPL6NAFFPOCCV4A/",
-  "id": "bca5a38ba6fc",
-  "title": "Barbès, l’échappée bled des Algériens à Paris : «Si quelqu’un a le mal du pays, il vient ici»",
-  "subtitle": "(1/6) En suivant la ligne 2 du métro, rencontre avec les diasporas qui font vivre associations, restaurants et souvenirs du pays. Aujourd’hui, les Algériens de Barbès.",
-  "date": "2026-07-25T07:15:00+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/on-se-retrouve-coinces-dans-les-bouchons-la-nuit-denfer-pour-les-evacues-qui-fuient-lincendie-en-gironde-20260725_72F3AMAVUVC3NNXLQNSYI26FRY/",
-  "id": "9009625ad22e",
-  "title": "«On se retrouve coincés dans les bouchons» : la nuit d’enfer pour les évacués qui fuient l’incendie en Gironde",
-  "subtitle": "Poussés ce vendredi 24 juillet à fuir les flammes, des milliers d’habitants d’Andernos-les-Bains ont été coincés sur les routes pendant plusieurs heures à la nuit tombée.",
-  "date": "2026-07-25T05:56:35+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
  }
 ]
