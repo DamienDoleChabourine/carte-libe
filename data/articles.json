@@ -3040,31 +3040,5 @@
   "lat": 44.8839021,
   "lon": -0.6046439,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/une-bombe-a-retardement-la-foret-des-landes-de-gascogne-un-modele-productiviste-a-haut-risque-face-aux-flammes-20260725_YLCSYVYUGFDAXB7R26CL4C3QKM/",
-  "id": "613e1a38d976",
-  "title": "«Une bombe à retardement» : la forêt des Landes de Gascogne, un modèle productiviste à haut risque face aux flammes",
-  "subtitle": "L’incendie hors norme qui ravage la Gironde souligne la vulnérabilité d’un massif de résineux aux aiguilles inflammables. Les épisodes climatiques extrêmes révèlent des fragilités liées à la monoculture du pin et au défaut de prévention.",
-  "date": "2026-07-25T12:13:17+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/cetait-mon-angoisse-depuis-des-annees-pres-de-bordeaux-un-maire-raconte-levacuation-de-sa-commune-a-cause-des-incendies-20260725_ODPPCUI2OJBDLI3L2CCJ72W4BE/",
-  "id": "7f66cb75c8aa",
-  "title": "«C’était mon angoisse depuis des années» : près de Bordeaux, un maire raconte l’évacuation de sa commune à cause des incendies",
-  "subtitle": "Le feu s’est dangereusement rapproché de la métropole bordelaise dans la nuit de vendredi à samedi, entraînant l’évacuation préventive de sept communes, dont Saint-Médard-en-Jalles et ses 33 000 habitants. Stéphane Delpeyrat-Vincent, le maire socialiste, témoigne auprès de «Libér",
-  "date": "2026-07-25T11:07:43+00:00",
-  "place": "Bordeaux",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 44.841225,
-  "lon": -0.5800364,
-  "premium": true
  }
 ]
