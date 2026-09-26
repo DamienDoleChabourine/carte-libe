@@ -3014,31 +3014,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/orage-de-feu-quest-ce-que-le-pyrocumulonimbus-observe-en-marge-de-lincendie-en-gironde-20260726_Y7WASCERNJB5FMNSGF5YPC2E3Q/",
-  "id": "11e1be4597f6",
-  "title": "«Orage de feu» : qu’est-ce que le pyrocumulonimbus, observé en marge de l’incendie en Gironde ?",
-  "subtitle": "Depuis samedi 25 juillet, les pompiers de Gironde font face à ce phénomène météo extrême et imprévisible au sein même de l’incendie, qui crée son propre vent et des éclairs. C’est la première fois qu’ils l’observent en France.",
-  "date": "2026-07-26T09:40:53+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/cest-la-premiere-fois-que-je-vois-la-ville-morte-comme-ca-eysines-largement-evacuee-a-cause-du-megafeu-en-gironde-est-desertee-de-ses-habitants-20260726_OEJ5EFA4QZBHBHZRQOCAMHNKEU/",
-  "id": "fcf327dff70a",
-  "title": "«C’est la première fois que je vois la ville morte comme ça» : Eysines, largement évacuée à cause du mégafeu en Gironde, est désertée de ses habitants",
-  "subtitle": "Cette commune de 25 000 habitants de l’agglomération de Bordeaux a été partiellement évacuée dans la nuit de vendredi à samedi. Les résidents n’ont pas encore le droit de rentrer chez eux, même si certains ont bravé les interdictions de la préfecture. Reportage dans une ville fan",
-  "date": "2026-07-26T07:07:23+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
  }
 ]
