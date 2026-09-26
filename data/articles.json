@@ -2962,44 +2962,5 @@
   "lat": 44.8839021,
   "lon": -0.6046439,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/idees-et-debats/editorial/incendies-en-gironde-et-dans-les-landes-un-evenement-dont-il-faudra-prendre-la-mesure-20260726_J43BQDUNMRFCHCWQV3ZPJBRU6U/",
-  "id": "3e94fbf550c7",
-  "title": "Incendies en Gironde et dans les Landes : un événement dont il faudra prendre la mesure",
-  "subtitle": "Si, ces jours-ci, la machine administrative s’active avec efficacité pour gérer l’urgence de la situation en Nouvelle-Aquitaine, les gouvernants devront être à la hauteur pour penser un changement plus que nécessaire.",
-  "date": "2026-07-26T19:04:46+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/en-direct-incendie-en-gironde-42-000-hectares-de-surface-brulee-220-000-personnes-evacuees-20260726_JCWZLWYIPFD2FJPSSGIJ3SS3SA/",
-  "id": "c5597f8e5808",
-  "title": "Incendies en Gironde, dans les Landes et le Var : la situation reste «très défavorable», selon Laurent Nuñez",
-  "subtitle": "Près de «115 000 hectares ont été parcourus» à ce stade par des incendies depuis le début de l’année en France, ce qui est «tout à fait exceptionnel», «bien plus que ce qu’on a pu connaître par le passé», a annoncé ce dimanche soir le ministre de l’Intérieur.",
-  "date": "2026-07-26T18:59:00+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/ce-matin-je-me-suis-leve-avec-lidee-daider-au-parc-des-expositions-de-bordeaux-la-vie-sorganise-aupres-des-sinistres-des-flammes-20260726_7WNVVYGGIJGSTJRL32B3FGPZJQ/",
-  "id": "1a6058b1aa75",
-  "title": "«Ce matin, je me suis levé avec l’idée d’aider» : au parc des expositions de Bordeaux, la vie s’organise auprès des sinistrés des flammes",
-  "subtitle": "Ateliers de maquillage pour enfants, épicerie de fortune, salles pour animaux… Au sein de l’immense espace, où sont accueillis des milliers d’évacués de l’incendie depuis quelques jours, citoyens comme pouvoirs publics régissent la vie quotidienne. Du temporaire qui pourrait dure",
-  "date": "2026-07-26T18:43:19+00:00",
-  "place": "Bordeaux",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 44.841225,
-  "lon": -0.5800364,
-  "premium": true
  }
 ]
