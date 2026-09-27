@@ -2949,31 +2949,5 @@
   "lat": 43.8374249,
   "lon": 4.3600687,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/incendies-une-probable-nouvelle-vague-de-chaleur-a-partir-de-mardi-selon-meteo-france-20260726_MDIQFJN7B5FJREAXPXOWBO4KVI/",
-  "id": "d749f46167b1",
-  "title": "Météo France confirme la vague de chaleur à partir de mardi, le Sud-Ouest touché",
-  "subtitle": "Avec des maximales pouvant atteindre les 40°C, le pays s’apprête à affronter une nouvelle hausse des températures à partir de mardi, à commencer par le Sud-Ouest en proie aux incendies, mais également les grandes villes comme Paris et Lyon.",
-  "date": "2026-07-27T12:25:14+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/le-maire-du-porge-commune-devastee-par-le-megafeu-en-gironde-le-paysage-est-detruit-notre-village-est-a-terre-20260727_VD5WHTBXZ5BM3GOUD3WONHRC5Q/",
-  "id": "ff4136d5f623",
-  "title": "Le maire du Porge, commune dévastée par le mégafeu en Gironde : «Le paysage est détruit, notre village est à terre»",
-  "subtitle": "La localité est l’une des plus meurtries par le brasier qui ravage le département. Martial Zaninetti revient sur ces journées de crise, la peur d’une reprise de feu avec la canicule qui s’annonce et demande un plan Marshall au gouvernement.",
-  "date": "2026-07-27T12:08:24+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
  }
 ]
