@@ -2910,31 +2910,5 @@
   "lat": 44.8839021,
   "lon": -0.6046439,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/agriculture/pour-garder-mon-honneur-je-vous-rends-ma-legion-la-romanciere-agnes-ledig-renonce-a-sa-medaille-pour-protester-contre-la-loi-durgence-agricole-20260727_34P4XNULMJDPNCBSPXCACL42IY/",
-  "id": "cc07329f0a0c",
-  "title": "«Pour garder mon honneur, je vous rends ma Légion» : la romancière Agnès Ledig renonce à sa médaille pour protester contre la loi d’urgence agricole",
-  "subtitle": "Dans une lettre au président de la République publiée sur Instagram, l’autrice de «Juste avant le bonheur», propriétaire d’une ferme biologique dans les Vosges, déplore la «goutte de pesticides» incluse dans la loi votée par le Parlement la semaine dernière.",
-  "date": "2026-07-27T19:37:14+00:00",
-  "place": "Vosges",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 48.1637861,
-  "lon": 6.3820712,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/on-a-tous-la-meme-colere-en-gironde-la-desolation-face-aux-ravages-du-feu-qui-menace-toujours-20260727_YYWXYGCYCBE7PDFT3E5FXQVMME/",
-  "id": "99bd4cc11ca8",
-  "title": "«On a tous la même colère» : en Gironde, la désolation face aux ravages du feu, qui menace toujours",
-  "subtitle": "Les habitants du Porge, commune la plus ravagée par le feu, naviguent entre rage et sentiment d’abandon. Epuisés, ils guettent une possible reprise des flammes alimentée par les vents changeants et le retour des fortes chaleurs.",
-  "date": "2026-07-27T19:14:36+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
  }
 ]
