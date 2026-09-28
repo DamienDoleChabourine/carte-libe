@@ -1,5 +1,18 @@
 [
  {
+  "url": "https://www.liberation.fr/societe/police-justice/crash-dair-algerie-en-2014-swiftair-condamnee-a-une-amende-de-225-000-euros-pour-homicides-involontaires-20260928_NV35RIC4TJCZVCLANTAU5XUJMA/",
+  "id": "7bbaad263df0",
+  "title": "Crash d’Air Algérie en 2014 : Swiftair condamnée à une amende de 225 000 euros pour homicides involontaires",
+  "subtitle": "Le tribunal correctionnel de Paris a estimé ce lundi 28 septembre que des «négligences» dans la formation et l’entraînement de l’équipage ont «contribué de façon certaine à l’accident», qui avait causé la mort de 116 personnes dans le nord du Mali.",
+  "date": "2026-09-28T14:05:44+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/culture/livres/limage-de-paris-qui-domine-cest-son-rapport-ambigu-vis-a-vis-de-letat-20260923_HFRI4NAIINDQFCIMNNO7PUKGLY/",
   "id": "912f49f18fca",
   "title": "«L’image de Paris qui domine, c’est son rapport ambigu vis-à-vis de l’Etat»",
@@ -2805,84 +2818,6 @@
   "matched_in": "titre",
   "lat": 44.8839021,
   "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-france-en-gironde-lincendie-toujours-stabilises-apres-une-nuit-calme-20260728_43JT4ACCERGYRDWHIIVAOXZBAA/",
-  "id": "b2a0bdad82f0",
-  "title": "L’incendie dans le Var désormais «fixé», celui de Gironde toujours actif ce mardi",
-  "subtitle": "Le retour d’une vague de chaleur dans la région bordelaise ravive certains foyers à l’est de la capitale régionale. Dans la matinée, les campings de Lacanau ont été évacués par précaution face à la dégradation attendue des conditions météo.",
-  "date": "2026-07-28T20:12:43+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/leurodeputee-chloe-ridel-menacee-de-mort-sur-les-reseaux-sociaux-le-pole-specialise-dans-la-haine-en-ligne-saisi-20260728_PKM3KRM4IRHTXKOLPGF6QEB4OA/",
-  "id": "2ee99f72446f",
-  "title": "L’eurodéputée Chloé Ridel menacée de mort sur les réseaux sociaux, le pôle spécialisé dans la haine en ligne saisi",
-  "subtitle": "L’élue socialiste de Nîmes avait publié une tribune dans la presse locale pour demander la fermeture, en cas de risque élevé d’incendie, d’un circuit automobile situé dans un massif forestier du Gard. Elle est depuis la cible de nombreuses tentatives d’intimidation.",
-  "date": "2026-07-28T19:21:49+00:00",
-  "place": "Nîmes",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.8374249,
-  "lon": 4.3600687,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/incendies-en-gironde-le-feu-agit-aux-portes-du-camp-militaire-de-souge-selon-le-maire-de-martignas-sur-jalle-20260728_GABSW2XKFRGYPLXZJ5IATBBBSQ/",
-  "id": "9cf575d9a31b",
-  "title": "Incendies en Gironde : le «feu agit aux portes du camp» militaire de Souge, selon le maire de Martignas-sur-Jalle",
-  "subtitle": "Face au brasier, certains points stratégiques sont au centre de toutes les inquiétudes, notamment le camp militaire de l’ouest de la métropole bordelaise. Des «experts et des moyens» ont été «déployés pour la sécurité des sites industriels», a fait savoir le ministère des Armées.",
-  "date": "2026-07-28T18:57:13+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/en-gironde-le-combat-des-pompiers-contre-les-reprises-de-feu-cest-un-peu-le-jeu-du-chat-et-de-la-souris-20260728_G2RRB2YBHBC7RJHBCJ5WQ4YFFQ/",
-  "id": "a193e1d03bd5",
-  "title": "En Gironde, le combat des pompiers contre les reprises de feu : «C’est un peu le jeu du chat et de la souris»",
-  "subtitle": "Ce mardi 28 juillet, plusieurs milliers de touristes ont été évacués de Lacanau alors que les flammes étaient aux portes du camp militaire de Souge. Malgré un sinistre «stabilisé», l’inquiétude était de mise avant l’arrivée d’un nouveau «pic de chaleur».",
-  "date": "2026-07-28T18:38:27+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/ville/au-pied-de-la-tour-montparnasse-ou-sont-tombes-des-morceaux-de-vitre-linquietude-des-riverains-et-habitants-cest-vetuste-et-dangereux-20260728_ZUU4Q4K2UVDIFFKBHDNWHCOI6A/",
-  "id": "218e9339d327",
-  "title": "Au pied de la tour Montparnasse où sont tombés des morceaux de vitre, l’inquiétude des riverains et habitants : «C’est vétuste et dangereux»",
-  "subtitle": "Des éclats de verre ont chuté de l’édifice dans le XVe arrondissement de Paris, dimanche 26 juillet. Le périmètre a bloqué l’activité des commerçants pendant quelques heures. L’incident relance les débats sur les travaux de rénovation de l’édifice, qui patinent.",
-  "date": "2026-07-28T18:18:45+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/social/les-vetements-pour-enfants-okaidi-sortent-du-redressement-judiciaire-20260728_JNWQ36JHAJHQZHCRANQ5OJXQBI/",
-  "id": "8545586780ae",
-  "title": "Les vêtements pour enfants Okaïdi sortent du redressement judiciaire",
-  "subtitle": "Bien connue des familles, l’enseigne spécialiste des enfants a réussi à améliorer sa situation financière. Le tribunal de commerce de Lille a validé ce mardi 28 juillet le plan de transformation présenté par le groupe nordiste.",
-  "date": "2026-07-28T17:59:54+00:00",
-  "place": "Lille",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 50.6365654,
-  "lon": 3.0635282,
   "premium": true
  }
 ]
