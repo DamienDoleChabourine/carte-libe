@@ -2884,31 +2884,5 @@
   "lat": 50.6365654,
   "lon": 3.0635282,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/social/en-gironde-les-entreprises-locales-anticipent-deja-une-saison-foutue-a-cause-des-feux-20260728_4BUEXLDUORCANLDHJYXYFKPKLY/",
-  "id": "aaf147f93fc2",
-  "title": "En Gironde, les entreprises locales anticipent déjà «une saison foutue» à cause des feux",
-  "subtitle": "Le mois d’août pourrait ne pas suffire à sauver l’activité de nombreuses sociétés, plombées par les incendies et les évacuations qui ont suivi.",
-  "date": "2026-07-28T12:43:02+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/incendie-en-gironde-si-on-ne-coupe-pas-des-arbres-cest-toute-la-foret-qui-va-disparaitre-sous-les-flammes-20260728_IXYVU33VPVA2HAQ46TLQKBO7ZE/",
-  "id": "3ce28dfcfbd2",
-  "title": "Incendie en Gironde : «Si on ne coupe pas des arbres, c’est toute la forêt qui va disparaître sous les flammes»",
-  "subtitle": "Surveillance, ouverture de pistes, création de pare-feu ou appui logistique… Bruno Lafon, président de la Défense des forêts contre les incendies Nouvelle-Aquitaine, qui épaule les pompiers depuis le début du feu extrême en Gironde, appelle à repenser l’aménagement des massifs bo",
-  "date": "2026-07-28T10:34:20+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
  }
 ]
