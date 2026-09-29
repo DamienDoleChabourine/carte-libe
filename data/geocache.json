@@ -366,5 +366,9 @@
  "Clermont-Ferrand, France": {
   "lat": 45.7774551,
   "lon": 3.0819427
+ },
+ "Montrouge, France": {
+  "lat": 48.8188544,
+  "lon": 2.3194375
  }
 }

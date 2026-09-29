@@ -1,5 +1,31 @@
 [
  {
+  "url": "https://www.liberation.fr/environnement/mission-parlementaire-sur-les-feux-de-forets-la-prevention-est-la-premiere-ligne-de-defense-20260929_FRA47X5ZFRGUREOECOU3AFI7RY/",
+  "id": "e063fe74d89e",
+  "title": "Mission parlementaire sur les feux de forêts : «La prévention est la première ligne de défense»",
+  "subtitle": "Sept parlementaires ont remis au Premier ministre, lundi 28 septembre, leur rapport sur la prévention, la lutte et la reconstruction après le passage des flammes. Coautrice, la députée de Gironde Sophie Panonacle appelle à un sursaut immédiat face à une menace désormais nationale",
+  "date": "2026-09-29T11:13:27+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/checknews/on-continue-de-morfler-a-lecole-jeanne-darc-de-montrouge-les-profs-toujours-confrontes-a-des-methodes-generatrices-de-peur-20260929_LNZVD5RNRBGBVMVGGVRXOZDO3Y/",
+  "id": "39c9e2ccf913",
+  "title": "«On continue de morfler» : à l’école Jeanne-d’Arc de Montrouge, les profs toujours confrontés à «des méthodes génératrices de peur»",
+  "subtitle": "Malgré de multiples alertes et opérations de contrôle, les personnels de cet établissement d’enseignement privé, situé près de Paris, endurent depuis huit ans des «agissements hostiles répétés». Un sénateur s’apprête à saisir la justice.",
+  "date": "2026-09-29T05:12:00+00:00",
+  "place": "Montrouge",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8188544,
+  "lon": 2.3194375,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/marche-pour-le-climat-de-clermont-ferrand-lautomobiliste-qui-a-fonce-dans-la-foule-place-en-detention-20260928_HTWT23I34JHOBAUFVELDR23KMI/",
   "id": "44344b2105aa",
   "title": "Marche pour le climat de Clermont-Ferrand : l’automobiliste qui a foncé dans la foule placé en détention",
@@ -2792,45 +2818,6 @@
   "matched_in": "titre",
   "lat": 43.6044638,
   "lon": 1.4442433,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/flammes-geantes-orage-sec-pyrocumulonimbus-comment-les-incendies-de-gironde-sont-devenus-un-ogre-de-feu-20260729_BQPSTAYIEFH7TASMCYPOEQ2YU4/",
-  "id": "b477a2e447a4",
-  "title": "Flammes géantes, orage sec, pyrocumulonimbus… Comment les incendies de Gironde sont devenus un «ogre de feu»",
-  "subtitle": "Le brasier qui a parcouru près de 42 000 hectares depuis le 22 juillet, alimenté par les conséquences du dérèglement climatique, se démarque par son imprévisibilité et sa puissance, créant des phénomènes météorologiques jusqu’ici jamais observés en France.",
-  "date": "2026-07-29T14:33:48+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/je-voulais-juste-boire-une-biere-sept-supporteurs-juges-pour-une-rixe-a-paris-en-marge-de-la-finale-de-la-coupe-de-france-20260729_CALAVCVWNBED3M6UV4URRXYXLI/",
-  "id": "988ce0f5822b",
-  "title": "«Je voulais juste boire une bière» : sept supporteurs jugés pour une rixe à Paris en marge de la finale de la Coupe de France",
-  "subtitle": "Dans la nuit du 22 au 23 mai, une violente bagarre avait éclaté dans la capitale entre des fans de l’OGC Nice et du PSG. Mardi, trois supporteurs ont été relaxés et quatre ont écopé d’amendes pour leur participation à un «groupement» dont l’objectif était la violence et la dégrad",
-  "date": "2026-07-29T11:08:02+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/lifestyle/voyages/il-y-a-une-impression-de-depossession-de-nos-espaces-de-fete-a-paris-la-nuit-queer-broie-du-noir-20260729_HIRQGDV4NNGATHMWR64QBVWATI/",
-  "id": "f3a0883c88d5",
-  "title": "A Paris, la nuit queer broie du noir : «Il y a une impression de dépossession de nos espaces de fête»",
-  "subtitle": "Hausse des coûts, fréquentation en baisse, agressions… Alors que de nombreux lieux festifs fédérateurs pour la communauté LGBT+ ferment, les adeptes et les organisateurs s’inquiètent pour l’avenir d’un secteur pourtant bouillonnant.",
-  "date": "2026-07-29T09:38:32+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
   "premium": true
  }
 ]
