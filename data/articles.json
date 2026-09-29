@@ -2832,18 +2832,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/canicule-16-departements-dont-les-landes-et-la-gironde-passent-en-vigilance-orange-mercredi-20260728_BWB43LR7LJDVTKSMTDB5342T74/",
-  "id": "fbcd9bbd57c2",
-  "title": "Canicule : des pointes à 42 degrés et 16 départements, dont les Landes et la Gironde, en vigilance orange mercredi",
-  "subtitle": "La vague de chaleur va «se généraliser à une grande partie de la France» et la hausse des températures sera «durable sur le Centre-Est» à partir de ce mercredi 29 juillet, rapporte Météo France.",
-  "date": "2026-07-29T06:38:36+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
  }
 ]
