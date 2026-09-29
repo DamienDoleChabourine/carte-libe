@@ -1,5 +1,18 @@
 [
  {
+  "url": "https://www.liberation.fr/societe/police-justice/marche-pour-le-climat-de-clermont-ferrand-lautomobiliste-qui-a-fonce-dans-la-foule-place-en-detention-20260928_HTWT23I34JHOBAUFVELDR23KMI/",
+  "id": "44344b2105aa",
+  "title": "Marche pour le climat de Clermont-Ferrand : l’automobiliste qui a foncé dans la foule placé en détention",
+  "subtitle": "Agé de 37 ans, l’homme sera jugé pour violence avec arme par destination et sous l’emprise manifeste de produits stupéfiants, a annoncé le parquet lundi 28 septembre. Il est attendu le 25 novembre au tribunal correctionnel.",
+  "date": "2026-09-28T20:09:39+00:00",
+  "place": "Clermont-Ferrand",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.7774551,
+  "lon": 3.0819427,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/crash-dair-algerie-en-2014-swiftair-condamnee-a-une-amende-de-225-000-euros-pour-homicides-involontaires-20260928_NV35RIC4TJCZVCLANTAU5XUJMA/",
   "id": "7bbaad263df0",
   "title": "Crash d’Air Algérie en 2014 : Swiftair condamnée à une amende de 225 000 euros pour homicides involontaires",
@@ -101,6 +114,19 @@
   "matched_in": "chapô",
   "lat": 45.7302268,
   "lon": -0.7212876,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/menaces-de-mort-au-college-un-pere-juge-en-comparution-immediate-a-bordeaux-20260917_ZA2DC7GLRVCXRAIZGWF7MSK2HQ/",
+  "id": "3f96fbcf9ec3",
+  "title": "Menaces de mort au collège : un père jugé en comparution immédiate à Bordeaux",
+  "subtitle": "L’homme âgé de 37 ans a reconnu en garde à vue «avoir bousculé un assistant d’éducation avant de proférer à plusieurs reprises des insultes puis des menaces de mort à son encontre, ainsi qu’à l’encontre de la directrice du collège», précise le parquet.",
+  "date": "2026-09-17T10:40:29+00:00",
+  "place": "Bordeaux",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 44.841225,
+  "lon": -0.5800364,
   "premium": true
  },
  {

@@ -362,5 +362,9 @@
  "Ajaccio, France": {
   "lat": 41.9263991,
   "lon": 8.7376029
+ },
+ "Clermont-Ferrand, France": {
+  "lat": 45.7774551,
+  "lon": 3.0819427
  }
 }
