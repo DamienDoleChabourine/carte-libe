@@ -2793,31 +2793,5 @@
   "lat": 43.7009358,
   "lon": 7.2683912,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/a-eysines-en-gironde-avec-les-evacues-de-retour-chez-eux-il-y-aura-forcement-un-avant-et-un-apres-lincendie-20260729_BFBXUIQUXBAMLKM2TMYUMZC5MA/",
-  "id": "98f360f9f920",
-  "title": "A Eysines, en Gironde, avec les évacués  de retour chez eux : «Il y aura forcément un avant et un après l’incendie»",
-  "subtitle": "Entre soulagement, incompréhension et crainte d’une reprise du feu, les habitants de cette banlieue résidentielle au nord-ouest de Bordeaux disent avoir été durablement marqués par ces quatre jours d’exil forcé.",
-  "date": "2026-07-29T18:03:37+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/transports/incendie-en-gironde-pas-de-tgv-vers-le-sud-de-bordeaux-hormis-toulouse-jusquau-dimanche-2-aout-inclus-20260729_YXFKJJRUOZC3NAUNWIUJACTL3Q/",
-  "id": "8cceaa3db22b",
-  "title": "Incendie en Gironde : pas de TGV vers le sud de Bordeaux, hormis Toulouse, jusqu’au dimanche 2 août inclus",
-  "subtitle": "Arrêtées depuis dimanche 26 juillet, les circulations entre Bordeaux et Arcachon ou Hendaye via Dax seront de nouveau au point mort lors du premier week-end d’août. Même si l’arrêté préfectoral devait être rapidement levé, les équipes de la SNCF ont besoin de constater les dégâts",
-  "date": "2026-07-29T17:49:56+00:00",
-  "place": "Toulouse",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.6044638,
-  "lon": 1.4442433,
-  "premium": true
  }
 ]
