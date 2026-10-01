@@ -2689,31 +2689,5 @@
   "lat": 44.8839021,
   "lon": -0.6046439,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-en-gironde-une-situation-stable-le-feu-contenu-dans-son-perimetre-20260731_HK7NMTUHYFAPRCM6PHKNOUAXKI/",
-  "id": "cb1554431b85",
-  "title": "Incendies : le feu dans le Var a parcouru 1 000 hectares et entraîné l’évacuation de 2 500 personnes, la situation s’améliore en Gironde",
-  "subtitle": "Des habitants de Correns et de son camping ont dû fuir ce vendredi après-midi en raison d’une reprise de l’important incendie dans le Var. En Gironde, la majorité des évacués sont autorisés à rentrer.",
-  "date": "2026-07-31T19:29:40+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/sports/football/chute-des-girondins-de-bordeaux-le-club-vendu-a-un-fonds-dinvestissement-britannique-la-liquidation-seloigne-20260731_OKEFBPX3JBFODDAIF3BJU7UDEE/",
-  "id": "313632d4ea9f",
-  "title": "Chute des Girondins de Bordeaux : le club vendu à un fonds d’investissement britannique, la liquidation s’éloigne",
-  "subtitle": "Alors qu’il était condamné à évoluer en Régional 1, faute d’avoir obtenu les financements nécessaires en juillet, le club six fois vainqueur de la Ligue 1 voit son problème en partie résolu avec son rachat ce vendredi 31 juillet par Sparta Capital.",
-  "date": "2026-07-31T18:50:04+00:00",
-  "place": "Bordeaux",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 44.841225,
-  "lon": -0.5800364,
-  "premium": true
  }
 ]
