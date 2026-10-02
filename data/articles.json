@@ -2676,18 +2676,5 @@
   "lat": 44.8839021,
   "lon": -0.6046439,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/blessures-lors-des-incendies-en-gironde-le-lourd-tribut-paye-par-les-pompiers-20260801_MTLRTUCYCNB6FCBMENB4DPC3BI/",
-  "id": "338de2007a5b",
-  "title": "Blessures lors des incendies en Gironde : le lourd tribut payé par les pompiers",
-  "subtitle": "Alors que deux pompiers sont morts depuis le début de cet été de braise, au moins 267 ont été blessés dans le département ces derniers jours. Les syndicats réclament des précisions sur les dégâts causés par les composés toxiques provenant des fumées.",
-  "date": "2026-08-01T03:11:00+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
  }
 ]
