@@ -1,5 +1,70 @@
 [
  {
+  "url": "https://www.liberation.fr/societe/sexualite-et-genres/pride-a-paris-la-marche-des-fiertes-va-selancer-sans-les-chaleurs-de-lete-20261003_OEC6UUI77BBTZJLEPXRDLWHTDM/",
+  "id": "74f9acb1baf8",
+  "title": "Pride à Paris : la Marche des fiertés va s’élancer sans les chaleurs de l’été",
+  "subtitle": "Déplacée en raison des températures extrêmes de juin, la mobilisation pour les droits LGBT + doit se tenir dans la capitale ce samedi 3 octobre à partir de 12h30.",
+  "date": "2026-10-03T04:00:00+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/sante/il-ny-a-pas-de-regle-qui-viendrait-a-proscrire-le-port-du-calot-une-infirmiere-de-lap-hp-conteste-sa-suspension-devant-la-justice-20261002_HKXIUQHWRVBLHIHFPRQAHIK5AI/",
+  "id": "e1a2b6e68290",
+  "title": "«Il n’y a pas de règle qui viendrait à proscrire le port du calot» : une infirmière de l’AP-HP conteste sa suspension devant la justice",
+  "subtitle": "De nouveau suspendue en janvier, Majdouline B. était de retour vendredi 2 octobre devant le tribunal administratif de Paris. L’hôpital parisien lui reproche son refus de retirer son couvre-chef, son avocat dénonce une «discrimination».",
+  "date": "2026-10-02T15:34:12+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/immigration/nous-manquons-de-moyens-pour-accompagner-ces-enfants-du-bout-du-monde-une-enquete-ouverte-apres-la-mort-dabdouramane-14-ans-dans-un-foyer-a-clermont-ferrand-20261001_BZJVRSWTPJC4LIXG763EPKASSY/",
+  "id": "c889a0fa9dd7",
+  "title": "«Nous manquons de moyens pour accompagner ces enfants du bout du monde» : une enquête ouverte après la mort d’Abdouramane, 14 ans, dans un foyer à Clermont-Ferrand",
+  "subtitle": "Mineur non accompagné arrivé de Guinée-Conakry il y a plusieurs mois, il a été retrouvé pendu vendredi 18 septembre dans la chambre qu’il occupait. Il était suivi par l’Aide sociale à l’enfance.",
+  "date": "2026-10-01T16:26:39+00:00",
+  "place": "Clermont-Ferrand",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.7774551,
+  "lon": 3.0819427,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/education/on-sattendait-a-de-la-casse-mais-pas-a-ca-a-nantes-la-stupeur-apres-lincendie-volontaire-du-lycee-nelson-mandela-20261001_DZRQTBAPVZDQ5PO5SXOYCNQF64/",
+  "id": "2492347e9d9b",
+  "title": "«On s’attendait à de la casse, mais pas à ça» : à Nantes, la stupeur après l’incendie volontaire du lycée Nelson-Mandela",
+  "subtitle": "Le hall de l’établissement est parti en flammes ce jeudi 1er octobre, alors qu’un blocus était organisé sur place dans le cadre du mouvement lycéen. La maire, Johanna Rolland, a appelé à l’apaisement.",
+  "date": "2026-10-01T13:22:02+00:00",
+  "place": "Nantes",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 47.2186371,
+  "lon": -1.5541362,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/elections/en-gironde-les-six-premiers-mois-du-rn-a-la-tete-de-saint-savin-divisent-les-habitants-on-enfonce-leurs-idees-dans-la-tete-des-gens-20261001_37DG73SVM5CUVDVU6VYA7RLXEQ/",
+  "id": "1cb7596e182a",
+  "title": "En Gironde, les six premiers mois du RN à la tête de Saint-Savin divisent les habitants : «On enfonce leurs idées dans la tête des gens»",
+  "subtitle": "«Libé» ausculte les premiers pas de nouveaux maires six mois après leurs débuts. Fin de la gratuité de la cantine, hausse des indemnités des élus, retrait des drapeaux européens… Les décisions de la nouvelle équipe municipale d’extrême droite suscitent colère et inquiétude chez c",
+  "date": "2026-10-01T13:11:54+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/environnement/mission-parlementaire-sur-les-feux-de-forets-la-prevention-est-la-premiere-ligne-de-defense-20260929_FRA47X5ZFRGUREOECOU3AFI7RY/",
   "id": "e063fe74d89e",
   "title": "Mission parlementaire sur les feux de forêts : «La prévention est la première ligne de défense»",
@@ -179,6 +244,19 @@
   "matched_in": "titre",
   "lat": 43.7009358,
   "lon": 7.2683912,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/sports/il-imaginait-un-grand-rassemblement-tourne-vers-la-mer-un-hommage-maritime-a-charlie-dalin-prevu-le-15-septembre-a-concarneau-20260913_F65X2KEINVDAZBHB5IWTUF7BZU/",
+  "id": "d33469134984",
+  "title": "«Il imaginait un grand rassemblement tourné vers la mer» : un hommage maritime à Charlie Dalin prévu ce mardi à Concarneau",
+  "subtitle": "Des dizaines de bateaux de course vont célébrer ce mardi 15 septembre après-midi dans le Finistère la mémoire du skipper mort en juin à 42 ans d’un cancer, qui ne l’avait pas empêché de remporter le Vendée Globe. Ses cendres ont été dispersées dans la mer, a révélé sa femme dans ",
+  "date": "2026-09-15T06:22:22+00:00",
+  "place": "Concarneau",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 47.8757017,
+  "lon": -3.9223889,
   "premium": true
  },
  {
@@ -621,6 +699,19 @@
   "matched_in": "titre",
   "lat": 48.8534951,
   "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/economie/bollore-va-fermer-son-usine-de-bus-electriques-en-bretagne-et-supprimer-115-emplois-20260909_4YJIIQKATNA5ZE74HKCEPQLIWE/",
+  "id": "66088b722f6f",
+  "title": "Bolloré va fermer son usine de bus électriques en Bretagne et supprimer 115 emplois",
+  "subtitle": "Le groupe du milliardaire d’extrême droite justifie cette décision en évoquant notamment «un marché français moins dynamique qu’attendu». Un «acteur insutriel européen» pourrait reprendre une partie des actifs.",
+  "date": "2026-09-09T19:57:24+00:00",
+  "place": "Bretagne",
+  "place_cat": "region",
+  "matched_in": "titre",
+  "lat": 48.2640845,
+  "lon": -2.9202408,
   "premium": true
  },
  {
@@ -1570,6 +1661,19 @@
   "matched_in": "chapô",
   "lat": 43.8374249,
   "lon": 4.3600687,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/biodiversite/la-foret-de-fontainebleau-rouvre-au-public-ce-samedi-apres-le-violent-incendie-de-juillet-20260821_VXHJPLREBNF7HPK2QVUQW5VFMA/",
+  "id": "d010ce18e108",
+  "title": "La forêt de Fontainebleau rouvre au public ce samedi après le violent incendie de juillet",
+  "subtitle": "80 % du massif va être de nouveau accessible le 22 août après que près de 2 000 hectares ont été ravagés par les feux.",
+  "date": "2026-08-21T15:55:25+00:00",
+  "place": "Fontainebleau",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 48.4049375,
+  "lon": 2.7015872,
   "premium": true
  },
  {
