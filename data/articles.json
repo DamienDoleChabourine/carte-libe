@@ -2702,31 +2702,5 @@
   "lat": 44.8839021,
   "lon": -0.6046439,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/culture/cinema/les-seances-sont-prises-dassaut-a-montpellier-lengouement-exceptionnel-autour-de-lodyssee-de-christopher-nolan-20260802_YOPY3TKGMZAOJKBBO7I6QTCOCQ/",
-  "id": "201318cad52d",
-  "title": "«Les séances sont prises d’assaut» : à Montpellier, l’engouement exceptionnel autour de «l’Odyssée» de Christopher Nolan",
-  "subtitle": "Dans la ville héraultaise, la seule en France pouvant projeter l’adaptation de l’œuvre d’Homère en Imax 70 mm, les spectateurs, pour certains venus de loin, ressortent de la séance émerveillés. Un emballement qui se traduit aussi par l’explosion de fréquentation que connaît le Pa",
-  "date": "2026-08-02T15:43:46+00:00",
-  "place": "Montpellier",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.6112422,
-  "lon": 3.8767337,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/idees-et-debats/tribunes/zero-familles-a-la-rue-emmanuel-macron-tenez-enfin-vos-engagements-20260802_FFKGRTVBXVHVTMVMBDY5RJCFDU/",
-  "id": "267b4a382569",
-  "title": "Zéro familles à la rue : Emmanuel Macron, tenez enfin vos engagements !",
-  "subtitle": "Depuis plusieurs jours, 300 personnes campent sur un parvis à Paris sans que l’Etat ne leur propose d’hébergement adapté. Le symptôme d’un pouvoir tétanisé par le RN qui affiche une politique migratoire toujours plus restrictive, se défausse sur les collectivités et ne se donne p",
-  "date": "2026-08-02T14:52:00+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
  }
 ]
