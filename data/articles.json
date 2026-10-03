@@ -2728,31 +2728,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/face-aux-incendiaires-les-juridictions-durcissent-le-ton-20260802_F64Q7JHHZRA3XKDWCZGBWXGY6E/",
-  "id": "e4be1692f8c5",
-  "title": "Face aux incendiaires, les juridictions durcissent le ton",
-  "subtitle": "Les parquets de Bordeaux, Toulon et Mont-de-Marsan ont renforcé les poursuites pénales à l’encontre des auteurs de feu, volontaires ou non, alors que 308 personnes ont été interpellées pour ces motifs depuis le début de la saison, selon l’Intérieur.",
-  "date": "2026-08-02T11:12:00+00:00",
-  "place": "Mont-de-Marsan",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.8911318,
-  "lon": -0.500972,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/animaux/dauphins-de-marineland-le-directeur-du-zoo-de-beauval-menace-de-suspendre-le-projet-daccueil-et-demande-plus-de-soutien-de-letat-20260802_O6OMZDOWHZDWDEF2BTJ22PM2JI/",
-  "id": "b101026d8841",
-  "title": "Dauphins de Marineland : le directeur du zoo de Beauval menace de suspendre le projet d’accueil et demande plus de soutien de l’Etat",
-  "subtitle": "Auprès du «Parisien» et d’«ICI Touraine», Rodolphe Delord déplore le manque d’engagement de l’Etat dans le centre en construction censé accueillir 23 dauphins du célèbre zoo marin d’Antibes et du parc Planète Sauvage, sur fond de contestations des défenseurs des animaux.",
-  "date": "2026-08-02T10:10:07+00:00",
-  "place": "Antibes",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.5813878,
-  "lon": 7.1236966,
-  "premium": true
  }
 ]
