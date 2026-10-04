@@ -2676,18 +2676,5 @@
   "lat": 47.2232046,
   "lon": 0.6866703,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/logement/pres-de-rennes-la-seconde-jeunesse-des-constructions-en-terre-crue-rempart-face-aux-temperatures-caniculaires-20260803_OKEFXZBBFRAS3N7X2MCCRJTNHI/",
-  "id": "c8be5bd77d2c",
-  "title": "Près de Rennes, la seconde jeunesse des constructions en terre crue, rempart face aux températures caniculaires",
-  "subtitle": "Traditionnellement utilisée dans la région, cette méthode de construction mêlant terre et paille connaît un regain d’intérêt, portée par des préoccupations écologiques et la volonté de valoriser un patrimoine ancien.",
-  "date": "2026-08-03T05:30:00+00:00",
-  "place": "Rennes",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.1113387,
-  "lon": -1.6800198,
-  "premium": true
  }
 ]
