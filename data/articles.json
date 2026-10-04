@@ -2637,44 +2637,5 @@
   "lat": 48.4049375,
   "lon": 2.7015872,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/en-gironde-le-megafeu-revele-des-obus-de-la-seconde-guerre-mondiale-enterres-dans-la-commune-du-porge-en-cours-de-deminage-20260803_6JTOQYBF2NDY7BYQ2CFZ5A22RY/",
-  "id": "7cb17f0ccccc",
-  "title": "En Gironde, le mégafeu révèle des obus de la Seconde Guerre mondiale enterrés dans la commune du Porge, en cours de déminage",
-  "subtitle": "La plupart des habitants du village sont autorisés à regagner leurs habitations ce lundi 3 août, à l’exception de deux quartiers, Plein Soleil et Le Ferron, où des vestiges militaires français et allemands ont été retrouvés.",
-  "date": "2026-08-03T11:18:50+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/mort-de-cheikh-f-tue-par-un-policier-municipal-du-vaucluse-la-legitime-defense-difficilement-compatible-avec-les-premiers-elements-de-lenquete-20260803_XJ5ICIOBLVDD3D3FDGKHQI67PI/",
-  "id": "76dab629dc0d",
-  "title": "Mort de Cheikh F., tué par un policier municipal du Vaucluse : la légitime défense difficilement compatible avec les premiers éléments de l’enquête",
-  "subtitle": "Dans la nuit du 14 au 15 juillet, l’homme de 29 ans d’origine maghrébine a été tué par les tirs d’un agent du Pontet, ville RN près d’Avignon. L’enquête, en cours, montre pourtant que son véhicule était entravé et qu’il a été touché dans le dos, révèlent «Libération» et «Mediapar",
-  "date": "2026-08-03T10:00:00+00:00",
-  "place": "Avignon",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.9492493,
-  "lon": 4.8059012,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/merci-aux-voyageurs-davoir-signale-ces-horreurs-un-homme-surpris-en-train-de-realiser-des-montages-pedopornographiques-dans-un-tgv-20260803_XWVCBLKKA5GGDH6CLLQHP6QZHY/",
-  "id": "381950aacf72",
-  "title": "«Merci aux voyageurs d’avoir signalé ces horreurs» : un homme surpris en train de réaliser des montages pédopornographiques dans un TGV",
-  "subtitle": "Le septuagénaire a été interpellé dimanche 26 juillet en gare de Saint-Pierre-des-Corps (Indre-et-Loire). Une enquête a été ouverte.",
-  "date": "2026-08-03T08:39:18+00:00",
-  "place": "Indre-et-Loire",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 47.2232046,
-  "lon": 0.6866703,
-  "premium": true
  }
 ]
