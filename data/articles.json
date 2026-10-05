@@ -2598,18 +2598,5 @@
   "lat": 43.2963986,
   "lon": 5.3777888,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/feu-vert-pour-linstallation-dune-megaferme-a-saumons-par-pure-salmon-en-gironde-20260804_LHVZJCHP3BCLBIBZCQTBALC4AI/",
-  "id": "008c47225235",
-  "title": "Feu vert pour l’installation d’une mégaferme à saumons par Pure Salmon en Gironde",
-  "subtitle": "L’implantation de cette usine à Verdon-sur-Mer, portée par un fonds d’investissement singapourien, doit permettre la production de 10 000 tonnes de poisson par an. Des associations locales de lutte pour la protection de l’environnement s’opposent vivement au projet.",
-  "date": "2026-08-04T18:30:10+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
  }
 ]
