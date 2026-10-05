@@ -2611,31 +2611,5 @@
   "lat": 44.8839021,
   "lon": -0.6046439,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/hautes-pyrenees-deux-jeunes-randonneurs-frappes-par-la-foudre-en-montagne-leur-pronostic-vital-engage-20260804_VHEL62WDUFFA5H3A2ZWXCLJL54/",
-  "id": "ba248bb75e11",
-  "title": "Hautes-Pyrénées : les deux jeunes randonneurs frappés par la foudre en montagne sont dans un «état stable»",
-  "subtitle": "Un groupe d’une quinzaine de personnes, constitué de deux familles qui randonnaient ensemble à 2 700 mètres d’altitude, s’est retrouvé pris dans les intempéries lundi vers 15 h 30 sur la commune de Cauterets, sans avoir commis d’«imprudence particulière» d’après le parquet. Le dé",
-  "date": "2026-08-04T10:38:08+00:00",
-  "place": "Hautes-Pyrénées",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 43.1437925,
-  "lon": 0.1586552,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/enquete-sur-lincendie-de-fontainebleau-la-region-ile-de-france-directement-lesee-se-constitue-partie-civile-20260804_2OI4HYFQNBD25F47YEBOUSVNOQ/",
-  "id": "823821f6d16a",
-  "title": "Enquête sur l’incendie de Fontainebleau : la région Ile-de-France, «directement lésée», se constitue partie civile",
-  "subtitle": "Le conseil régional dirigé par Valérie Pécresse s’estime directement touché par les incendies qui ont ravagé environ 2 000 hectares du massif forestier, soit 10 % de sa surface totale.",
-  "date": "2026-08-04T07:05:30+00:00",
-  "place": "Fontainebleau",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.4049375,
-  "lon": 2.7015872,
-  "premium": true
  }
 ]
