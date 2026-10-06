@@ -2559,44 +2559,5 @@
   "lat": 43.7009358,
   "lon": 7.2683912,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/elections/affaire-de-la-tete-de-cochon-a-nice-eric-ciotti-veut-se-porter-partie-civile-20260805_QOGSNFHKMNB7NFAERQG3G23EII/",
-  "id": "728b90008350",
-  "title": "Affaire de la tête de cochon à Nice : Eric Ciotti veut se porter partie civile",
-  "subtitle": "Après de nouvelles révélations dans «Nice-Matin» sur les méthodes «border» de l’équipe de son rival Christian Estrosi, le nouveau maire de la ville des Alpes-Maritimes s’offusque de ce qui pourrait être, selon lui, «l’un de plus graves scandales politiques de la Ve République».",
-  "date": "2026-08-05T14:40:34+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/affaire-jean-pormanove-les-streamers-naruto-et-safine-bientot-fixes-sur-leur-sort-20260805_BFU2YRSU2RB3ZLLVXROOZVBN4U/",
-  "id": "9b4eec1445b0",
-  "title": "Affaire «Jean Pormanove» : les streamers Naruto et Safine condamnés à des peines de prison avec sursis",
-  "subtitle": "Le tribunal correctionnel de Nice a rendu, ce mercredi 5 août, sa décision concernant Owen Cenazandotti et Safine Hamadi pour les violences volontaires commises dans leurs lives aux concepts ultraviolents, pendant lesquels Raphaël Graven est mort en direct en août 2025.",
-  "date": "2026-08-05T12:19:56+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/marseille-un-jeune-garcon-de-deux-ans-retrouve-mort-dans-un-appartement-ses-proches-en-garde-a-vue-20260804_XCD4BPSNUBFJRE4IAHJWI6IYQA/",
-  "id": "e0f4f45663b3",
-  "title": "Autopsie, proches en garde à vue… Ce que l’on sait de la mort d’un enfant de deux ans dans un appartement à Marseille",
-  "subtitle": "La mère de 27 ans et son conjoint ont été placés en garde à vue, après la macabre découverte, dimanche 2 août, dans le XIVe arrondissement de la ville. Une information judiciaire a été ouverte pour «homicide volontaire sur mineur de 15 ans» contre X.",
-  "date": "2026-08-05T07:08:04+00:00",
-  "place": "Marseille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2963986,
-  "lon": 5.3777888,
-  "premium": true
  }
 ]
