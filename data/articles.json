@@ -2468,57 +2468,5 @@
   "lat": 45.1429199,
   "lon": 0.6321258,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/droits-des-femmes/male-tears-et-vinyle-de-bruel-explose-vers-lyon-un-collectif-feministe-prend-fetes-et-causes-20260806_TXRQ3T5IKVA4DL5FVDNVJJOFQM/",
-  "id": "08c767df7ee2",
-  "title": "«Male tears» et vinyle de Bruel explosé : vers Lyon, un collectif féministe prend fêtes et causes",
-  "subtitle": "En Auvergne-Rhône-Alpes, Dynastits organise des ventes aux enchères joyeuses de vieux disques, afin de dénoncer les artistes «problémachistes» et récolter de l’argent pour les associations de défense des droits des femmes.",
-  "date": "2026-08-06T17:04:00+00:00",
-  "place": "Lyon",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 45.7578137,
-  "lon": 4.8320114,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/comme-sil-navait-pas-fait-de-geste-illegal-a-linstitut-pratique-du-journalisme-tensions-apres-les-saluts-nazis-dun-etudiant-20260806_VY5H3SCTYNEHXDWSRUQRL5A2OA/",
-  "id": "d538ef45e1e8",
-  "title": "A l’Institut pratique du journalisme, tensions après les saluts nazis d’un étudiant : «Comme s’il n’avait pas fait de geste illégal»",
-  "subtitle": "Après des gestes dénoncés par ses camarades, l’élève n’a reçu pour sanction disciplinaire de l’université Paris-Dauphine qu’une suspension temporaire estivale et pourra faire sa rentrée en septembre. Une décision qui choque les étudiants.",
-  "date": "2026-08-06T15:45:55+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/social/la-poste-envisage-de-faire-rattraper-a-ses-salaries-de-gironde-les-heures-perdues-a-cause-des-incendies-20260806_5TGXVNIG4ZACTBOR4WIMRJCFBQ/",
-  "id": "829a6fde1d5d",
-  "title": "La Poste envisage de faire rattraper à ses salariés de Gironde les heures perdues à cause des incendies",
-  "subtitle": "Les feux de fin juillet avaient entraîné la fermeture d’une plateforme de distribution et de bureaux girondins. Cette solution étudiée par le groupe permettrait de «garantir» le maintien de la rémunération des salariés concernés, selon France Inter qui révèle l’information ce 6 a",
-  "date": "2026-08-06T10:11:54+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/une-mascarade-le-flnc-rejette-le-projet-dautonomie-en-corse-et-menace-les-non-corses-venant-vivre-dans-lile-20260806_Y7AOEXFDJZF65KPWUUYIUTKA7A/",
-  "id": "4e781ff987ba",
-  "title": "Le FLNC rejette le projet d’autonomie en Corse et menace les non-Corses venant vivre dans l’île, le parquet antiterroriste ouvre une enquête",
-  "subtitle": "Une quinzaine d’individus cagoulés et armés ont tenu une conférence de presse clandestine, révélée mercredi soir par «Corse-Matin», le seul média à y participer, dans un lieu tenu secret et à une date non spécifiée.",
-  "date": "2026-08-06T09:26:07+00:00",
-  "place": "Corse",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 42.188098,
-  "lon": 9.0683139,
-  "premium": true
  }
 ]
