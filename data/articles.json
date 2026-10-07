@@ -2520,44 +2520,5 @@
   "lat": 42.188098,
   "lon": 9.0683139,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/idees-et-debats/tribunes/la-maison-mere-par-thomas-clerc-20260806_V5XBDG3K5NA2LAR5RC7ENYJUDY/",
-  "id": "eccc8ff7b235",
-  "title": "La maison mère, par Thomas Clerc",
-  "subtitle": "Cuisine maudite et sacrée, salon tarologique… L’écrivain raconte sa mère à travers l’appartement fétiche qu’ils ont partagé dans les années 80, rue de Quatrefages dans le Ve arrondissement de Paris.",
-  "date": "2026-08-06T08:00:00+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/lifestyle/voyages/baignade-a-paris-en-juillet-la-seine-deux-fois-plus-frequentee-quen-2025-20260806_STMISNAJF5EOTNSK6IPFYS35KY/",
-  "id": "88ec29539309",
-  "title": "Baignade à Paris : en juillet, la Seine deux fois plus fréquentée qu’en 2025",
-  "subtitle": "Pour leur deuxième édition, les trois lieux de baignade parisiens font le plein avec 70 000 visiteurs en moins d’un mois. En cas de fortes chaleurs, la prolongation des festivités en septembre est envisagée.",
-  "date": "2026-08-06T06:29:00+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/plus/speciaux-cahier-ete/eric-ciotti-et-christian-estrosi-des-coups-bas-dans-les-urnes-20260806_5VJR7GGY7BE3FA5ZCSODCVZXHY/",
-  "id": "3cea2d3f5ad2",
-  "title": "Eric Ciotti et Christian Estrosi, des coups bas dans les urnes",
-  "subtitle": "Entre le nouveau maire de Nice et son prédécesseur, la relation a d’abord été filiale, le premier construisant sa stature politique dans le sillage du second. Avant que leurs ambitions ne transforment ce duo en duel sans merci.",
-  "date": "2026-08-06T05:00:00+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
  }
 ]
