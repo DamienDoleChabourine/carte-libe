@@ -2390,44 +2390,5 @@
   "lat": 48.5141134,
   "lon": -2.7603283,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/une-demarche-antimusulmane-inquietante-la-justice-suspend-comme-chaque-annee-linterdiction-du-burkini-a-mandelieu-la-napoule-20260807_7B6DWTOJIBC4HEEM4FALIRVGDM/",
-  "id": "1c8da25e6574",
-  "title": "«Une démarche antimusulmane inquiétante» : la justice suspend, comme chaque année, l’interdiction du burkini à Mandelieu-la-Napoule",
-  "subtitle": "Proche de David Lisnard, le maire de Mandelieu-la-Napoule, Sébastien Leroy, avait déjà publié des arrêtés municipaux pour interdire le burkini sur les plages lors des étés 2023, 2024 et 2025. Des décisions illégales, à chaque fois suspendues par le tribunal administratif de Nice.",
-  "date": "2026-08-07T17:04:15+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/un-educateur-de-gym-dans-les-yvelines-mis-en-examen-pour-agressions-et-harcelement-sexuels-sur-mineures-20260807_IDKE3VN55BAHVKLB5EK7O5I4FY/",
-  "id": "412f77ecb703",
-  "title": "Un éducateur de gym dans les Yvelines mis en examen pour agressions et harcèlement sexuels sur mineures",
-  "subtitle": "C’est à la suite d’un témoignage en mars d’une des anciennes élèves de l’éducateur sportif à la gendarmerie de Septeuil, village dans l’ouest des Yvelines, qu’une enquête a été ouverte. Âgée de 13 ans, elle a relaté des caresses sur les parties intimes à plusieurs reprises lors d",
-  "date": "2026-08-07T15:13:05+00:00",
-  "place": "Yvelines",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 48.7620374,
-  "lon": 1.8871376,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/nice-matin-deplore-lagression-dune-de-ses-journalistes-par-un-elu-municipal-rn-de-cagnes-sur-mer-20260807_3LVKCCEEWBAHRECS4KQSYRTDLE/",
-  "id": "fe1e73a3f42f",
-  "title": "«Nice-Matin» déplore l’agression d’une de ses journalistes par un élu municipal RN de Cagnes-sur-Mer",
-  "subtitle": "Le quotidien régional a dénoncé ce vendredi 7 août la violence d’un adjoint au maire d’extrême droite sur une reporter venue exercer son métier.",
-  "date": "2026-08-07T14:47:01+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
  }
 ]
