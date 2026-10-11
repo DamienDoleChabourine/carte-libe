@@ -2364,18 +2364,5 @@
   "lat": 43.5424182,
   "lon": 5.0343236,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/en-direct-canicule-22-departements-en-vigilance-orange-des-incendies-en-cours-dans-la-drome-et-en-lozere-20260810_F5XEKZLHD5BJRA42V6PENSF2ME/",
-  "id": "a5c3d3444db3",
-  "title": "Canicule : 43 départements dont la Manche et la pointe bretonne en vigilance orange mardi à partir de midi",
-  "subtitle": "Concentrées sur le quart sud-est de la France ce lundi, les fortes chaleurs frapperont jusqu’au Finistère dès demain. «Entre mercredi et vendredi, les 35 °C concerneront une grande partie du pays», alerte Météo France.",
-  "date": "2026-08-10T19:08:24+00:00",
-  "place": "Finistère",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 48.2451153,
-  "lon": -4.0440902,
-  "premium": true
  }
 ]
