@@ -2338,31 +2338,5 @@
   "lat": 50.5144061,
   "lon": 2.2580078,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/toulouse-deux-enquetes-ouvertes-apres-la-mort-dun-adolescent-lors-dune-course-poursuite-20260811_YODNJNQ4JJFFNBQJUFQIYBPATI/",
-  "id": "e7d2d7aabd36",
-  "title": "Toulouse : deux enquêtes ouvertes après la mort d’un adolescent lors d’une course-poursuite",
-  "subtitle": "Un conducteur de scooter de 17 ans est mort vendredi soir. Le parquet de Toulouse a ouvert deux enquêtes : pour recherche des causes de la mort, et refus d’obtempérer aggravé par la mise en danger d’autrui et violences volontaires sur dépositaires de l’autorité publique.",
-  "date": "2026-08-11T10:46:55+00:00",
-  "place": "Toulouse",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.6044638,
-  "lon": 1.4442433,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/dix-carabines-trois-pistolets-un-fusil-a-pompe-des-armes-volees-chez-un-tireur-sportif-dans-les-bouches-du-rhone-20260811_DPL5H4NWYVDCPOXUXYU3DI7YTM/",
-  "id": "e1d375ec8cf0",
-  "title": "Dix carabines, trois pistolets, un fusil à pompe : des armes volées chez un tireur sportif dans les Bouches-du-Rhône",
-  "subtitle": "Le cambriolage s’est déroulé dans la nuit du 7 au 8 août à Miramas, au domicile d’un sexagénaire. La division de la criminalité territoriale a été saisie.",
-  "date": "2026-08-11T07:41:13+00:00",
-  "place": "Bouches-du-Rhône",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 43.5424182,
-  "lon": 5.0343236,
-  "premium": true
  }
 ]
