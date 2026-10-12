@@ -2299,44 +2299,5 @@
   "lat": 44.8839021,
   "lon": -0.6046439,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-et-fortes-chaleurs-la-canicule-setend-ce-mardi-jusqua-la-manche-et-la-pointe-bretonne-20260811_H7X62JWD2JHV3IPDO3OY4ET3UM/",
-  "id": "fe740dd5ee08",
-  "title": "Fortes chaleurs : la canicule gagne la quasi-totalité du pays, seul le Nord est épargné",
-  "subtitle": "Météo France a placé 78 départements en vigilance orange mercredi contre 43 ce mardi. Les températures maximales seront supérieures à 35 degrés. Du Centre-Val de Loire à la Nouvelle-Aquitaine, elles seront comprises entre 38 et 40 °C. En Île-de-France elles seront voisines de 38 ",
-  "date": "2026-08-11T18:46:15+00:00",
-  "place": "Centre-Val de Loire",
-  "place_cat": "region",
-  "matched_in": "chapô",
-  "lat": 47.5490251,
-  "lon": 1.7324062,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/mayotte-une-femme-enceinte-et-ses-deux-enfants-meurent-dans-un-incendie-la-piste-accidentelle-privilegiee-20260811_2DVOPASUS5BVRIMKAYYDAXCTRY/",
-  "id": "ac1b75cf0e47",
-  "title": "Mayotte : une femme enceinte et ses deux enfants meurent dans un incendie, la piste accidentelle privilégiée",
-  "subtitle": "Selon les autorités, «un branchement électrique, positionné sur une poutre, aurait pris feu, provoquant une propagation rapide des flammes et des fumées à l’intérieur du logement» qui se situait dans un bidonville.",
-  "date": "2026-08-11T16:01:39+00:00",
-  "place": "Mayotte",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": -12.823048,
-  "lon": 45.1520755,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/pas-de-calais-un-pere-et-sa-fille-de-neuf-ans-retrouves-pendus-au-domicile-familial-20260811_NITU5LC72VGANENG5J6YEWUYYI/",
-  "id": "8dc2341ac8e1",
-  "title": "Pas-de-Calais : un père et sa fille de neuf ans retrouvés pendus au domicile familial",
-  "subtitle": "L’hypothèse privilégiée est un infanticide suivi d’un suicide, a fait savoir le parquet d’Arras ce mardi 11 août. Les pompiers ont découvert les deux corps lundi aux alentours de 19 heures à Biache-Saint-Vaast, selon «la Voix du Nord».",
-  "date": "2026-08-11T15:37:53+00:00",
-  "place": "Pas-de-Calais",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 50.5144061,
-  "lon": 2.2580078,
-  "premium": true
  }
 ]
