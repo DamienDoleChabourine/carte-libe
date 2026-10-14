@@ -2130,31 +2130,5 @@
   "lat": 48.5303402,
   "lon": 2.2392918,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/immigration/un-rassemblement-en-soutien-a-une-initiative-anti-immigration-interdit-a-lyon-ce-dimanche-20260813_34223BIUTJCFTKDIQFCWY5ZTIM/",
-  "id": "076b678f6a07",
-  "title": "Un rassemblement en soutien à une initiative anti-immigration interdit à Lyon ce dimanche",
-  "subtitle": "Le préfet du Rhône estime dans un arrêté publié ce jeudi que cette manifestation «introduisant une discrimination fondée sur la race et l’origine ethnique», porte une «atteinte grave au respect de la dignité humaine».",
-  "date": "2026-08-13T19:10:38+00:00",
-  "place": "Lyon",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 45.7578137,
-  "lon": 4.8320114,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/nouvel-incendie-dans-les-landes-pres-de-la-commune-de-luglon-100-hectares-deja-parcourus-20260813_HFLZ3YYJHBAORK4NJCRBOOCUXA/",
-  "id": "2ef96360b489",
-  "title": "Nouvel incendie dans les Landes près de la commune de Luglon, 400 hectares déjà parcourus",
-  "subtitle": "Reprise d’un feu datant du mois de juin, l’incendie s’est déclaré ce jeudi 13 août à Luglon, à 25 km au nord-ouest de Mont-de-Marsan. La situation est jugée «défavorable», avec plusieurs «sautes de feu» et des températures caniculaires.",
-  "date": "2026-08-13T19:03:36+00:00",
-  "place": "Mont-de-Marsan",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.8911318,
-  "lon": -0.500972,
-  "premium": true
  }
 ]
