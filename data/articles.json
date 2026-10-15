@@ -2091,44 +2091,5 @@
   "lat": 48.584614,
   "lon": 7.7507127,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/politiquement-insupportable-a-rennes-enquete-ouverte-pour-harcelement-moral-aggrave-contre-une-elue-lfi-victime-dinjures-racistes-et-de-degradations-20260814_L27I42HKYBC4DJISLUPFYUNTWE/",
-  "id": "99f7d50bcd47",
-  "title": "A Rennes, une élue LFI dénonce des injures racistes et des dégradations, une enquête ouverte",
-  "subtitle": "Conseillère municipale et départementale, Régine Komokoli a porté plainte mardi 11 août après une attaque contre sa voiture. Une procédure est déjà ouverte depuis avril pour des faits similaires, précise le parquet.",
-  "date": "2026-08-14T10:00:03+00:00",
-  "place": "Rennes",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.1113387,
-  "lon": -1.6800198,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/quand-la-france-brule-le-president-samuse-en-jet-ski-a-bregancon-faure-et-tondelier-dezinguent-macron-a-la-une-de-paris-match-20260814_U2HPIYHBF5EMFJND24DSHJWTSY/",
-  "id": "32a9e7f751a6",
-  "title": "«Quand la France brûle, le président s’amuse en jet ski à Brégançon» : Faure et Tondelier dézinguent Macron, à la une de «Paris-Match»",
-  "subtitle": "Le premier secrétaire du PS et la cheffe de file des Ecologistes ont attaqué ce jeudi le président de la République pour son apparition «people» en première page de l’hebdomadaire.",
-  "date": "2026-08-14T09:50:56+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/transports/il-faut-que-ce-soit-beaucoup-plus-simple-les-conducteurs-de-voitures-electriques-sous-tension-a-lheure-des-grands-departs-20260814_KK5VPBCCOBDQBDOGNDSXCAZKMM/",
-  "id": "cc42f8a4856e",
-  "title": "«Il faut que ce soit beaucoup plus simple» : les conducteurs de voitures électriques sous tension à l’heure des grands départs",
-  "subtitle": "Sur l’aire d’autoroute de Limours-Janvry (Essonne), sur l’A10, les conducteurs de voitures électriques s’essaient à la recharge, parfois aidés par des bornistes, un métier apparu récemment.",
-  "date": "2026-08-14T04:58:00+00:00",
-  "place": "Essonne",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 48.5303402,
-  "lon": 2.2392918,
-  "premium": true
  }
 ]
