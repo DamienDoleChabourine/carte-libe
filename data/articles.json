@@ -2078,18 +2078,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/conso/penuries-dessence-dans-lest-le-rhin-et-la-secheresse-en-cause-20260814_XLYHIOCOVBEEXBT2Z2XZVALB5M/",
-  "id": "b1cd0dcda36f",
-  "title": "Pénuries d’essence dans l’Est, le Rhin et la sécheresse en cause",
-  "subtitle": "Dans le Rhin, le manque d’eau empêche les navires d’atteindre le port de Strasbourg, ce qui conduit à de grosses pénuries d’essence dans de nombreuses stations.",
-  "date": "2026-08-14T15:11:59+00:00",
-  "place": "Strasbourg",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.584614,
-  "lon": 7.7507127,
-  "premium": true
  }
 ]
