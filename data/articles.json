@@ -2052,31 +2052,5 @@
   "lat": 44.8839021,
   "lon": -0.6046439,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/en-direct-incendies-les-landes-de-nouveau-en-proie-aux-flammes-20260814_LO6VM7R3LZCODFVHQYYDVBI3HI/",
-  "id": "fa665afcc5f1",
-  "title": "Incendie dans les Landes : l’intensité du feu «diminue légèrement»",
-  "subtitle": "Déclaré jeudi à une centaine de kilomètres du mégafeu qui a parcouru en juillet plus de 40 000 hectares en Gironde, l’incendie a déjà parcouru plus de 1 300 hectares près de la commune de Luglon.",
-  "date": "2026-08-14T18:56:22+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/logement/ils-envoient-les-forces-de-lordre-face-a-une-situation-de-detresse-sociale-450-personnes-evacuees-du-parvis-du-samu-social-de-paris-20260813_6YM2QT2Q7VDTLEGNUGTYXVTEGQ/",
-  "id": "ee49cb6db725",
-  "title": "«Ils envoient les forces de l’ordre face à une situation de détresse sociale» : 450 personnes évacuées du parvis du Samu social de Paris",
-  "subtitle": "Depuis un mois, rejoignant les grévistes du 115 et leurs collègues, des familles avec de nombreux enfants avaient monté un campement de fortune devant le siège du service chargé d’orienter les personnes sans abri vers l’hébergement d’urgence. Utopia 56 dénonce une dispersion sans",
-  "date": "2026-08-14T18:42:58+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
  }
 ]
