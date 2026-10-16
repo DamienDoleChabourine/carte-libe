@@ -2130,57 +2130,5 @@
   "lat": 44.8839021,
   "lon": -0.6046439,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/lecornu-prend-la-plume-et-promet-de-nouvelles-mesures-aux-agriculteurs-20260815_GX2ROS3DDBAK3LHIGXKFILSLDM/",
-  "id": "967ccc0f6dda",
-  "title": "Lecornu prend la plume et promet de nouvelles mesures aux agriculteurs",
-  "subtitle": "Dans une lettre publiée dans la presse régionale, le Premier ministre, qui sera en Gironde lundi, promet au monde rural «des mesures de soutien et d’investissement» pour le budget 2027.",
-  "date": "2026-08-15T17:02:27+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/international/classement-mondial-de-shanghai-harvard-toujours-au-sommet-malgre-le-bras-de-fer-avec-trump-paris-saclay-a-la-13e-place-20260815_V3IKHHETBNDQNGLE7JT4YJ7YLM/",
-  "id": "0b2b13c5dac8",
-  "title": "Classement mondial de Shanghai : Harvard toujours au sommet malgré le bras de fer avec Trump, Paris-Saclay à la 13e place",
-  "subtitle": "Les établissements américains et britanniques squattent toujours les premières places du classement de Shanghai. En tête, l’université Harvard, haïe par l’administration Trump. Quatre institutions françaises font partie du top 100.",
-  "date": "2026-08-15T16:16:49+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/agriculture/je-suis-a-100-de-pertes-en-bretagne-les-maraichers-frappes-de-plein-fouet-par-la-secheresse-20260815_SYVPBD4WVJFGZAB7FRRI4DCBB4/",
-  "id": "d1e72e176732",
-  "title": "«Je suis à 100% de pertes» : en Bretagne, les maraîchers frappés de plein fouet par la sécheresse",
-  "subtitle": "Dans une région d’ordinaire abondamment arrosée, les producteurs de fruits et légumes peinent à trouver de l’eau depuis plusieurs mois. Et doivent bricoler pour sauver ce qui peut encore l’être.",
-  "date": "2026-08-15T14:18:00+00:00",
-  "place": "Bretagne",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 48.2640845,
-  "lon": -2.9202408,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/droits-des-femmes/des-associations-feministes-sinsurgent-contre-un-concert-de-naps-condamne-pour-viol-20260815_WM4YJHWOO5BETKL6YQZCHAKRKA/",
-  "id": "24e270d1f1e8",
-  "title": "Bouches-du-Rhône : des associations féministes s’insurgent contre un concert ce samedi de Naps, condamné pour viol",
-  "subtitle": "Le rappeur marseillais, condamné en février à sept ans de prison mais libéré dans l’attente de son procès en appel, doit se produire ce samedi 15 août à Châteaurenard (Bouches-du-Rhône), au grand dam de collectifs locaux, qui ont tenté sans succès d’interpeller la boîte de nuit o",
-  "date": "2026-08-15T13:23:38+00:00",
-  "place": "Bouches-du-Rhône",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 43.5424182,
-  "lon": 5.0343236,
-  "premium": true
  }
 ]
