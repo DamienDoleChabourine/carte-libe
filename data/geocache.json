@@ -370,5 +370,17 @@
  "Montrouge, France": {
   "lat": 48.8188544,
   "lon": 2.3194375
+ },
+ "Pau, France": {
+  "lat": 43.2957547,
+  "lon": -0.3685668
+ },
+ "Haute-Savoie, France": {
+  "lat": 46.0688976,
+  "lon": 6.3445548
+ },
+ "Vaulx-en-Velin, France": {
+  "lat": 45.7784255,
+  "lon": 4.9206153
  }
 }

@@ -1,5 +1,96 @@
 [
  {
+  "url": "https://www.liberation.fr/societe/police-justice/laurent-nunez-annonce-que-les-forces-de-lordre-pourront-a-nouveau-utiliser-les-grenades-assourdissantes-lors-des-manifestations-20261016_PTIOPSJZL5HAXISNYVVG2VW4RY/",
+  "id": "f6a4b6e48462",
+  "title": "Journée du 17 octobre : pas de consensus sur le parcours parisien, cellule de crise, retour des grenades assourdissantes… les autorités sur un mode méfiant",
+  "subtitle": "À la veille du mouvement qui ambitionne de faire converger la colère face à la hausse des prix et celle des lycées, le ministère de l’Intérieur et la préfecture de Paris posent leurs limites.",
+  "date": "2026-10-16T10:50:13+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/culture/photographie/a-deauville-une-25e-heure-et-un-concours-photo-pour-pros-et-amateurs-20261016_KTAIBXPOWVHTPJDNUWSDPAX3PY/",
+  "id": "b97d2bd2158e",
+  "title": "A Deauville, une 25e heure et un concours photo pour pros et amateurs",
+  "subtitle": "A la fois photographe et insomniaque ? Dans la nuit du 24 au 25 octobre 2026, la «25e heure» propose à Deauville une carte blanche ouverte à tous, avec une seule règle : ramener, en une seule petite heure, le meilleur cliché.",
+  "date": "2026-10-16T10:40:35+00:00",
+  "place": "Deauville",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 49.3595018,
+  "lon": 0.0746638,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/ou-sont-passes-les-u-des-enseignes-de-pau-libe-aux-trousses-de-la-voleuse-20261016_JMY47VLH4RDY7E5ZBTVCWODPNQ/",
+  "id": "440538d5080c",
+  "title": "Où sont passés les U des enseignes de Pau ? «Libé» aux trousses de la voleuse",
+  "subtitle": "Depuis plusieurs années, la voyelle est dérobée sur les magasins du centre-ville. L’énigme obsède la presse et déroute la justice. Aidée par deux redoutables détectives, et non sans quelques péripéties, notre journaliste est parvenue à identifier la chapardeuse.",
+  "date": "2026-10-16T04:20:00+00:00",
+  "place": "Pau",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.2957547,
+  "lon": -0.3685668,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/eric-coquerel-depute-lfi-la-police-qui-entre-dans-un-lycee-pour-arreter-un-eleve-ca-ne-devrait-pas-arriver-dans-une-democratie-20261015_RYJZGUQIFNETND4XXYD5ODBDHE/",
+  "id": "ece7a7664a10",
+  "title": "Eric Coquerel, député LFI : «La police qui entre dans un lycée pour arrêter un élève, ça ne devrait pas arriver dans une démocratie»",
+  "subtitle": "L’élu de Seine-Saint-Denis dénonce auprès de «Libé» une «répression violente» de la mobilisation et s’inquiète de voir des agents intervenir au sein d’établissements scolaires, comme ce jeudi 15 octobre au lycée Paul-Eluard à Saint-Denis.",
+  "date": "2026-10-15T17:34:02+00:00",
+  "place": "Seine-Saint-Denis",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 48.9098125,
+  "lon": 2.4528635,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/a412-en-haute-savoie-une-premiere-audience-contre-le-chantier-20261014_MV3G4RL6LBFN5DSO5UCOTQ46SI/",
+  "id": "800c60bacc43",
+  "title": "A412 en Haute-Savoie : la justice autorise la poursuite des travaux",
+  "subtitle": "Les opposants au projet autoroutier avaient rendez-vous mercredi 14 octobre à la cour administrative d’appel de Lyon, saisie pour un référé-suspension, dans l’objectif de mettre à l’arrêt les travaux bien entamés, sans succès.",
+  "date": "2026-10-15T13:47:35+00:00",
+  "place": "Haute-Savoie",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 46.0688976,
+  "lon": 6.3445548,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/municipales-a-montpellier-le-tribunal-administratif-rejette-le-recours-de-remi-gaillard-20261013_QY5EFQKTUVDWLANGAJ6ZFW5GSM/",
+  "id": "41afcb78a6bf",
+  "title": "Municipales à Montpellier : le tribunal administratif rejette le recours de Rémi Gaillard",
+  "subtitle": "L’humoriste, arrivé cinquième du premier tour, dénonçait un problème d’acheminement de ses professions de foi. La justice a admis un «dysfonctionnement» sans considérer que «la sincérité du scrutin ait pu être remise en cause». Il envisage de faire appel devant le Conseil d’Etat.",
+  "date": "2026-10-13T14:31:35+00:00",
+  "place": "Montpellier",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.6112422,
+  "lon": 3.8767337,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/elections/municipales-une-troisieme-victoire-de-lfi-pres-de-lyon-annulee-par-le-tribunal-administratif-20261012_TCOA72IVDBA3JKBIWKVWYDYTIA/",
+  "id": "75cd1ec9628b",
+  "title": "Municipales : une troisième victoire de LFI près de Lyon annulée par le tribunal administratif",
+  "subtitle": "La justice a pointé, ce lundi 12 octobre, des irrégularités concernant une liste des élections municipales de Saint-Fons (Rhône).",
+  "date": "2026-10-12T15:48:34+00:00",
+  "place": "Lyon",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.7578137,
+  "lon": 4.8320114,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/sexualite-et-genres/pride-a-paris-la-marche-des-fiertes-va-selancer-sans-les-chaleurs-de-lete-20261003_OEC6UUI77BBTZJLEPXRDLWHTDM/",
   "id": "74f9acb1baf8",
   "title": "Pride à Paris : la Marche des fiertés va s’élancer sans les chaleurs de l’été",
@@ -23,6 +114,19 @@
   "matched_in": "chapô",
   "lat": 48.8534951,
   "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/dans-lherault-un-lycee-sous-leau-des-fuites-il-y-en-a-toujours-eu-mais-jamais-comme-ca-20261002_R3FXMJ7TQBHYFIDZFTPRYR7XWU/",
+  "id": "2ec638f00e0e",
+  "title": "Dans l’Hérault, un lycée sous l’eau : «Des fuites, il y en a toujours eu, mais jamais comme ça»",
+  "subtitle": "Après les dégâts causés par un intense épisode cévenol, l’établissement scolaire de Saint-Clément-de-Rivière, près de Montpellier, restera fermé jusqu’à lundi 5 octobre, reposant la question de l’adaptation climatique des bâtiments publics.",
+  "date": "2026-10-02T07:12:19+00:00",
+  "place": "Montpellier",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.6112422,
+  "lon": 3.8767337,
   "premium": true
  },
  {
@@ -62,6 +166,19 @@
   "matched_in": "titre",
   "lat": 44.8839021,
   "lon": -0.6046439,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/elections/municipales-lannulation-dune-troisieme-victoire-lfi-pres-de-lyon-preconisee-au-tribunal-administratif-20260929_TIBLSLASCRGJJLXOZNCV7BDR6E/",
+  "id": "270b88f40678",
+  "title": "Municipales : les victoires de LFI à Vénissieux et Vaulx-en-Velin annulées par le tribunal administratif de Lyon",
+  "subtitle": "Le scrutin de Saint-Fons pourrait aussi être annulé, en raison d’irrégularités sur des listes concurrentes.",
+  "date": "2026-09-29T17:25:05+00:00",
+  "place": "Vaulx-en-Velin",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.7784255,
+  "lon": 4.9206153,
   "premium": true
  },
  {
@@ -117,6 +234,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/police-justice/une-voiture-renverse-plusieurs-personnes-lors-de-la-marche-pour-le-climat-a-clermont-ferrand-20260926_QEOTPGPIHJBRNGR2FUBRU6A5KU/",
+  "id": "93213bfa58c3",
+  "title": "«Le gars a pris de l’élan» : un automobiliste renverse plusieurs personnes lors de la marche pour le climat à Clermont-Ferrand",
+  "subtitle": "Au moins quatre blessés sont à déplorer, le conducteur a été interpellé. Les premiers tests montrent qu’il était sous l’influence de stupéfiants.",
+  "date": "2026-09-26T10:50:02+00:00",
+  "place": "Clermont-Ferrand",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.7774551,
+  "lon": 3.0819427,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/culture/livres/limage-de-paris-qui-domine-cest-son-rapport-ambigu-vis-a-vis-de-letat-20260923_HFRI4NAIINDQFCIMNNO7PUKGLY/",
   "id": "912f49f18fca",
   "title": "«L’image de Paris qui domine, c’est son rapport ambigu vis-à-vis de l’Etat»",
@@ -166,6 +296,19 @@
   "matched_in": "titre",
   "lat": 43.6044638,
   "lon": 1.4442433,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/elections/presidentielle-sur-les-terres-de-carole-delga-raphael-glucksmann-veut-refonder-la-gauche-20260919_G7HHTWJRB5FR5J4CEH2FAAISOE/",
+  "id": "507efdc35e9c",
+  "title": "Présidentielle : sur les terres de Carole Delga, Raphaël Glucksmann veut «refonder la gauche»",
+  "subtitle": "Le candidat à la primaire socialiste, invité par la présidente de la région Occitanie ce samedi, a notamment promis de mettre fin «au lobbying des grands céréaliers».",
+  "date": "2026-09-19T17:18:48+00:00",
+  "place": "Occitanie",
+  "place_cat": "region",
+  "matched_in": "chapô",
+  "lat": 43.6487851,
+  "lon": 2.3435684,
   "premium": true
  },
  {
@@ -1924,6 +2067,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/politique/javais-limpression-dentendre-cerise-de-groupama-les-annonces-de-lecornu-ne-pesent-pas-lourd-pour-les-sinistres-20260817_EEUIXTZLC5DLPGGQKHRRBDGWJA/",
+  "id": "b52ea76bb581",
+  "title": "«J’avais l’impression d’entendre Cerise de Groupama» : les annonces de Sébastien Lecornu ne pèsent pas lourd pour les sinistrés",
+  "subtitle": "Lors de sa visite ce lundi en Gironde, le Premier ministre a dit vouloir «sortir l’artillerie lourde» après le mégafeu. Mais élus et sinistrés ne semblent pas convaincus.",
+  "date": "2026-08-17T17:39:24+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/dans-la-baie-de-cannes-un-jeune-homme-porte-disparu-apres-la-collision-de-deux-bateaux-de-plaisance-20260817_M56YHQ2PGZDVTBNQQGNACNCSYY/",
   "id": "e4636c134e0d",
   "title": "Dans la baie de Cannes, un jeune homme porté disparu après la collision de deux bateaux de plaisance",
@@ -2025,32 +2181,6 @@
   "matched_in": "titre",
   "lat": 43.5424182,
   "lon": 5.0343236,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/droits-des-femmes/a-digne-les-bains-un-foyer-daccueil-pour-victimes-de-violence-en-quete-de-fonds-20260815_Y3LL5FL4OBEBPLHOQCD2MQFWSQ/",
-  "id": "287aed0b8541",
-  "title": "A Digne-les-Bains, un foyer d’accueil pour victimes de violence en quête de fonds",
-  "subtitle": "Face au besoin impérieux de rénover le bâtiment qui accueille femmes et enfants en situation d’urgence, la branche locale de l’association Habitat et Humanisme a lancé un appel à la solidarité. Mais l’argent tarde à rentrer.",
-  "date": "2026-08-15T09:06:00+00:00",
-  "place": "Digne-les-Bains",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 44.0917585,
-  "lon": 6.2346362,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/je-pensais-que-les-volets-pouvaient-nous-proteger-du-feu-lincendie-de-gironde-vu-a-hauteur-denfant-20260815_47NYPMW5FRGJFGTWHYVEATMRNM/",
-  "id": "54a6aaea14a0",
-  "title": "«Je pensais que les volets pouvaient nous protéger du feu» : l’incendie de Gironde vu à hauteur d’enfant",
-  "subtitle": "Dans la commune du Porge, l’une des plus meurtries par le brasier, 183 maisons sont parties en fumée, et les 3 500 habitants ont été évacués pendant plusieurs jours. Parmi les sinistrés, beaucoup d’enfants et de préadolescents. Ils témoignent auprès de «Libé».",
-  "date": "2026-08-15T08:02:00+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
   "premium": true
  }
 ]
