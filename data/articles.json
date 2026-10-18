@@ -2078,18 +2078,5 @@
   "lat": 44.8839021,
   "lon": -0.6046439,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/dans-la-baie-de-cannes-un-jeune-homme-porte-disparu-apres-la-collision-de-deux-bateaux-de-plaisance-20260817_M56YHQ2PGZDVTBNQQGNACNCSYY/",
-  "id": "e4636c134e0d",
-  "title": "Dans la baie de Cannes, un jeune homme porté disparu après la collision de deux bateaux de plaisance",
-  "subtitle": "L’accident s’est produit dimanche soir au large de la commune de Mandelieu-la-Napoule, dans les Alpes-Maritimes. La victime, qui fêtait un anniversaire, a été éjectée de l’embarcation par l’impact.",
-  "date": "2026-08-17T12:46:42+00:00",
-  "place": "Cannes",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.5515198,
-  "lon": 7.0134418,
-  "premium": true
  }
 ]
