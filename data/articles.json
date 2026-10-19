@@ -2013,18 +2013,5 @@
   "lat": 48.584614,
   "lon": 7.7507127,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/secheresse-en-bretagne-lirrigation-systematique-est-une-maladaptation-au-changement-climatique-20260818_VJPBGUW2SFAVNDQEMETZXTDZNU/",
-  "id": "5206445964a5",
-  "title": "Sécheresse en Bretagne : «L’irrigation systématique est une maladaptation au changement climatique»",
-  "subtitle": "François Lecompte, chercheur à l’Institut national de recherche pour l’agriculture, l’alimentation et l’environnement, analyse les contours du maraîchage breton de demain, entre adaptation des cycles, gestion des parcelles et génétique.",
-  "date": "2026-08-18T16:34:47+00:00",
-  "place": "Bretagne",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 48.2640845,
-  "lon": -2.9202408,
-  "premium": true
  }
 ]
