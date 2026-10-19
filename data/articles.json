@@ -169,6 +169,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/culture/apres-les-incendies-de-gironde-artistes-et-habitants-revent-a-dautres-forets-20260930_A2PBVXBZAVHZFHS4QCNRWBCMDI/",
+  "id": "625e10dbc5fd",
+  "title": "Après les incendies de Gironde, artistes et habitants rêvent à d’autres forêts",
+  "subtitle": "A Saint-Médard-en-Jalles, non loin des maisons et paysages dévastés par les feux cet été, la scène nationale du Carré et le festival de la métropole bordelaise FAB articulent art et attachement à l’environnement.",
+  "date": "2026-09-30T09:57:17+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/politique/elections/municipales-lannulation-dune-troisieme-victoire-lfi-pres-de-lyon-preconisee-au-tribunal-administratif-20260929_TIBLSLASCRGJJLXOZNCV7BDR6E/",
   "id": "270b88f40678",
   "title": "Municipales : les victoires de LFI à Vénissieux et Vaulx-en-Velin annulées par le tribunal administratif de Lyon",
@@ -2012,45 +2025,6 @@
   "matched_in": "titre",
   "lat": 48.2640845,
   "lon": -2.9202408,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/decouverte-avec-un-oreiller-sur-le-visage-une-enquete-ouverte-pour-meurtre-apres-la-mort-suspecte-dune-residente-dun-ehpad-a-rennes-20260818_7L2NNOINFZALFBU4DCJ7ANSSBY/",
-  "id": "d128f3b2595c",
-  "title": "«Découverte avec un oreiller sur le visage» : une enquête ouverte pour meurtre après la mort suspecte d’une résidente d’un Ehpad à Rennes",
-  "subtitle": "La femme de 82 ans était «invalide» et «pas autonome» selon une source policière à l’AFP. Son corps a été retrouvé dimanche 16 août dans la soirée.",
-  "date": "2026-08-18T10:19:55+00:00",
-  "place": "Rennes",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.1113387,
-  "lon": -1.6800198,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/avec-la-brigade-fluviale-de-paris-entre-prevention-et-interventions-on-peut-etre-tres-bon-nageur-et-se-noyer-20260818_6NRHPL4JEVCIRJ3W67LQ74EW54/",
-  "id": "ab494cad5359",
-  "title": "Avec la brigade fluviale de Paris, entre prévention et interventions : «On peut être très bon nageur et se noyer»",
-  "subtitle": "Face à la multiplication des épisodes de chaleurs extrêmes, le nombre de noyades mortelles explose. Des policiers parcourent quotidiennement les eaux franciliennes pour informer, contrôler, ou sauver.",
-  "date": "2026-08-18T05:50:00+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/logement/cest-une-usure-psychologique-un-an-apres-lincendie-dans-le-nord-de-marseille-les-sinistres-se-sentent-delaisses-20260818_VCIA6YWV7FGCNMHOYSBY46NEJI/",
-  "id": "b18ab728f2c9",
-  "title": "«C’est une usure psychologique» : un an après l’incendie dans le nord de Marseille, les sinistrés se sentent délaissés",
-  "subtitle": "Des habitants du quartier de l’Estaque, touchés par un feu ravageur il y a un an, n’ont toujours pas pu retrouver leur maison et dénoncent l’abandon des pouvoirs publics et la lenteur des assurances.",
-  "date": "2026-08-18T04:58:00+00:00",
-  "place": "Marseille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2963986,
-  "lon": 5.3777888,
   "premium": true
  }
 ]
