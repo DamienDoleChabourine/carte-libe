@@ -1,5 +1,31 @@
 [
  {
+  "url": "https://www.liberation.fr/societe/paroles-de-lyceens-jai-commence-a-avoir-tout-le-temps-peur-de-la-mort-20261018_YGY4MZAKWFGN5HGLSGY4VLDDJE/",
+  "id": "a626457c9e2c",
+  "title": "Paroles de lycéens : «J’ai commencé à avoir tout le temps peur de la mort»",
+  "subtitle": "Au-delà de la mobilisation, comment vont et vivent les adolescents ? «Libé» donne la parole à des élèves de toute la France. Lilia, 17 ans, élève à Paris, raconte une enfance marquée par le contexte lourd des attentats et du Covid.",
+  "date": "2026-10-18T06:00:00+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/presidentielle-a-quoi-joue-david-lisnard-le-candidat-fan-de-milei-qui-veut-forcer-la-porte-de-la-campagne-20261017_K24KPTP45VETTKW7ESTWKGOKEM/",
+  "id": "c4bd96953702",
+  "title": "Présidentielle : à quoi joue David Lisnard, le candidat fan de Milei qui veut forcer la porte de la campagne ?",
+  "subtitle": "Testé pour la première fois devant Bruno Retailleau dans un sondage Ifop, le maire ultralibéral de Cannes surfe sur une campagne en ligne largement dopée par ses fans et par la promotion des médias Bolloré. Les proches du candidat LR espèrent qu’il se ralliera le moment venu.",
+  "date": "2026-10-17T05:21:00+00:00",
+  "place": "Cannes",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.5515198,
+  "lon": 7.0134418,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/laurent-nunez-annonce-que-les-forces-de-lordre-pourront-a-nouveau-utiliser-les-grenades-assourdissantes-lors-des-manifestations-20261016_PTIOPSJZL5HAXISNYVVG2VW4RY/",
   "id": "f6a4b6e48462",
   "title": "Journée du 17 octobre : pas de consensus sur le parcours parisien, cellule de crise, retour des grenades assourdissantes… les autorités sur un mode méfiant",
@@ -234,6 +260,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/environnement/climat/le-megafeu-en-gironde-est-enfin-declare-eteint-deux-mois-apres-avoir-demarre-a-saumos-20260928_VF7CU6TTLBCEXAOKH7FQVQU5E4/",
+  "id": "9662203bcc17",
+  "title": "Le mégafeu en Gironde est enfin déclaré «éteint», deux mois après avoir démarré à Saumos",
+  "subtitle": "L’incendie, inédit en France par son ampleur, a ravagé près de 40 000 hectares et provoqué des milliers d’évacuations. Du 22 juillet à début août, il a mis les pompiers à rude épreuve, qui ont depuis surveillé les reprises de feu.",
+  "date": "2026-09-28T16:15:18+00:00",
+  "place": "Gironde",
+  "place_cat": "departement",
+  "matched_in": "titre",
+  "lat": 44.8839021,
+  "lon": -0.6046439,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/crash-dair-algerie-en-2014-swiftair-condamnee-a-une-amende-de-225-000-euros-pour-homicides-involontaires-20260928_NV35RIC4TJCZVCLANTAU5XUJMA/",
   "id": "7bbaad263df0",
   "title": "Crash d’Air Algérie en 2014 : Swiftair condamnée à une amende de 225 000 euros pour homicides involontaires",
@@ -452,6 +491,19 @@
   "matched_in": "chapô",
   "lat": 48.8387639,
   "lon": 2.4916592,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/economie/transports/rien-ne-permet-devoquer-un-acte-de-malveillance-le-parquet-tempere-les-speculations-autour-dun-attentat-dans-le-deraillement-du-ter-20260913_5TNZNYLX2BH2LLGGT2ZHJMSHWM/",
+  "id": "5645ca28ccc7",
+  "title": "Déraillement du TER en Normandie : «aucune piste n’est exclue» selon le ministre de l’Intérieur",
+  "subtitle": "Acte malveillant ? Attentat ? Interrogé sur France 2 ce dimanche, Laurent Nuñez a appelé à la prudence au sujet du morceau de rail retrouvé sur la voie qui serait à l’origine de l’accident ferroviaire vendredi soir près de Rouen qui a fait 44 blessés.",
+  "date": "2026-09-13T13:38:49+00:00",
+  "place": "Normandie",
+  "place_cat": "region",
+  "matched_in": "titre",
+  "lat": 49.0677708,
+  "lon": 0.3138532,
   "premium": true
  },
  {
@@ -790,6 +842,19 @@
   "matched_in": "titre",
   "lat": 43.2130358,
   "lon": 2.3491069,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/le-chef-etoile-olivier-bellin-vise-par-une-enquete-pour-violences-et-harcelement-moral-20260910_MQYK7NOZ7FD6FHDVZX3KMTEJGM/",
+  "id": "c5424ddf736a",
+  "title": "Le chef étoilé Olivier Bellin visé par une enquête pour violences et harcèlement moral",
+  "subtitle": "Plusieurs salariés de l’Auberge des Glazicks dans le Finistère, deux étoiles au Michelin, ont fait état dans le quotidien «Ouest France» d’humiliations, d’insultes et de pressions répétées. Olivier Bellin dit «rester droit dans ses bottes».",
+  "date": "2026-09-10T08:42:30+00:00",
+  "place": "Finistère",
+  "place_cat": "departement",
+  "matched_in": "chapô",
+  "lat": 48.2451153,
+  "lon": -4.0440902,
   "premium": true
  },
  {
