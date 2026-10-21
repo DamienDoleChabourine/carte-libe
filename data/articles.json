@@ -2000,44 +2000,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/orages-violents-et-risques-dinondations-plusieurs-departements-du-sud-est-en-vigilance-orange-ce-jeudi-20260820_NUAGREQW4VAUHHIEEORI6S2DPU/",
-  "id": "8b682545d7e1",
-  "title": "Orages violents et risques d’inondations : plusieurs départements du Sud-Est en vigilance orange ce jeudi",
-  "subtitle": "Les Hautes-Alpes, l’Ardèche, les Alpes-Maritimes, la Drôme l’Isère et le Var seront en alerte ce jeudi après-midi face aux fortes pluies et rafales de vent attendues. La Corse sera concernée vendredi.",
-  "date": "2026-08-20T11:21:29+00:00",
-  "place": "Alpes-Maritimes",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 43.9210587,
-  "lon": 7.1790785,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/culture/photographie/almageste-lexploration-hors-frontieres-de-mouna-saboni-20260806_CQHLHOG5UBEZZLIUHBDKU5FMNU/",
-  "id": "756f3007bf7d",
-  "title": "«Almageste», l’exploration hors frontières de Mouna Saboni",
-  "subtitle": "L’artiste franco-marocaine a séjourné à l’espace culturel Zone i, à Thoré-la-Rochette (Loir-et-Cher), pour enrichir son projet, conciliant écriture et photographie, sur la notion d’identité à travers les ­territoires méditerranéens.",
-  "date": "2026-08-20T10:05:00+00:00",
-  "place": "Loir-et-Cher",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 47.6597752,
-  "lon": 1.2971835,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/sports/football/mort-du-footballeur-robert-mouynet-dernier-survivant-de-lequipe-de-france-troisieme-de-la-coupe-du-monde-1958-20260820_HQSXGGYO4RHZDJFR6JDHN46TRA/",
-  "id": "5ac4b3af1dde",
-  "title": "Mort du footballeur Robert Mouynet, dernier survivant de l’équipe de France troisième de la Coupe du monde 1958",
-  "subtitle": "L’ancien défenseur de Toulouse, Lyon et Cannes avait 96 ans. Blessé, il avait participé sans jouer à l’épopée glorieuse des Bleus de Raymond Kopa et Just Fontaine, éliminés en demi-finale par le Brésil de Pelé.",
-  "date": "2026-08-20T09:11:09+00:00",
-  "place": "Toulouse",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.6044638,
-  "lon": 1.4442433,
-  "premium": true
  }
 ]
