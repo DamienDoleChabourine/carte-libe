@@ -1870,44 +1870,5 @@
   "lat": 44.841225,
   "lon": -0.5800364,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/mort-de-sonia-bellina-un-suspect-mis-en-examen-et-place-en-detention-provisoire-pour-assassinat-20260821_SOGDKC7IFFBDNG26SSFBV56GTA/",
-  "id": "839d1a4b26a9",
-  "title": "Mort de Sonia Bellina : un suspect mis en examen et placé en détention provisoire pour assassinat",
-  "subtitle": "L’homme de 32 ans avait déjà fait l’objet de plusieurs condamnations, dont une pour violences conjugales en 2023. Il a reconnu avoir eu des relations tarifées avec l’influenceuse la veille et la nuit des faits, annonce le parquet de Nîmes.",
-  "date": "2026-08-21T16:21:28+00:00",
-  "place": "Nîmes",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.8374249,
-  "lon": 4.3600687,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/biodiversite/la-foret-de-fontainebleau-rouvre-au-public-ce-samedi-apres-le-violent-incendie-de-juillet-20260821_VXHJPLREBNF7HPK2QVUQW5VFMA/",
-  "id": "d010ce18e108",
-  "title": "La forêt de Fontainebleau rouvre au public ce samedi après le violent incendie de juillet",
-  "subtitle": "80 % du massif va être de nouveau accessible le 22 août après que près de 2 000 hectares ont été ravagés par les feux.",
-  "date": "2026-08-21T15:55:25+00:00",
-  "place": "Fontainebleau",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.4049375,
-  "lon": 2.7015872,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/animaux/un-boa-d150-metre-sous-un-capot-un-autre-en-liberte-sur-la-route-en-haute-garonne-les-pompiers-aux-prises-avec-les-nouveaux-animaux-de-compagnie-20260821_2PAQKPTYFRCWXKUFVB6PKOMQ7U/",
-  "id": "743bb2e27b71",
-  "title": "Un boa d’1,50 mètre sous un capot, un autre en liberté sur la route : en Haute-Garonne, les pompiers aux prises avec les nouveaux animaux de compagnie",
-  "subtitle": "Trois mois après la chasse au cobra venimeux dans la banlieue proche de Toulouse, les pompiers de Haute-Garonne ont été une nouvelle fois sollicités cette semaine. En l’espace de trois jours, deux boas ont dû être capturés.",
-  "date": "2026-08-21T12:43:09+00:00",
-  "place": "Haute-Garonne",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 43.3054546,
-  "lon": 0.9716792,
-  "premium": true
  }
 ]
