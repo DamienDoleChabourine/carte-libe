@@ -1909,44 +1909,5 @@
   "lat": 43.3054546,
   "lon": 0.9716792,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/le-sable-le-meilleur-rempart-contre-la-mer-face-a-lerosion-cotiere-des-habitants-du-morbihan-semparent-de-solutions-naturelles-20260821_4AEVQ5WO3VCBPBAY7MSC7BGH2I/",
-  "id": "7d74e1a7b7a6",
-  "title": "«Le sable, le meilleur rempart contre la mer» : face à l’érosion côtière, des habitants du Morbihan s’emparent de solutions naturelles",
-  "subtitle": "A l’entrée de la rade de Lorient, un village relié au continent par un fragile cordon dunaire est désormais protégé par des sédiments, pieux hydrauliques et autres ganivelles. Sous l’œil de riverains qui contribuent à un suivi participatif.",
-  "date": "2026-08-21T10:30:00+00:00",
-  "place": "Morbihan",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 47.8259812,
-  "lon": -2.7633493,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/orages-la-corse-le-var-et-les-alpes-maritimes-en-vigilance-orange-20260821_CT45GKQPL5HD3BIDETXSFBAKGQ/",
-  "id": "9b1c98a7c368",
-  "title": "Orages : la Corse, le Var et les Alpes-Maritimes en vigilance orange",
-  "subtitle": "Des vents jusqu’à 120 km/h pourraient toucher ces départements. En Corse, plus de 1 300 campeurs ont été mis à l’abri et plusieurs vols au départ d’Ajaccio ont été annulés.",
-  "date": "2026-08-21T06:10:57+00:00",
-  "place": "Alpes-Maritimes",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 43.9210587,
-  "lon": 7.1790785,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/idees-et-debats/la-situation-climatique-est-radicale-notre-responsabilite-doit-etre-a-sa-hauteur-par-les-maires-de-grenoble-de-lyon-et-de-tours-20260821_2EZSIIZJCVFXRGTN2OAVENEYZE/",
-  "id": "d7fbd4120126",
-  "title": "La situation climatique est radicale : notre responsabilité doit être à sa hauteur, par les maires de Grenoble, de Lyon et de Tours",
-  "subtitle": "A moins d’un an de la présidentielle, trois maires écologistes appellent à un sursaut national : la radicalité du péril climatique, que cet été caniculaire illustre, exige une réponse forte, font valoir les maires Ruffin, Doucet et Denis.",
-  "date": "2026-08-21T05:34:00+00:00",
-  "place": "Grenoble",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 45.1875602,
-  "lon": 5.7357819,
-  "premium": true
  }
 ]
