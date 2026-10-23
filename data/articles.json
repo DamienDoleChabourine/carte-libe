@@ -1857,18 +1857,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/disparitions-en-serie-de-chats-a-taule-en-bretagne-miaou-sont-ils-passes-20260822_RJQXWJTRWVF2ZJARQMVONWHNLI/",
-  "id": "a8c36abf4fbb",
-  "title": "Disparitions en série de chats à Taulé, en Bretagne : miaou sont-ils passés ?",
-  "subtitle": "«Libération» s’est rendu sur la trace d’une dizaine de félins mystérieusement disparus dans le village du Finistère de 3 000 habitants, où plusieurs plaintes ont été déposées. Il y a treize ans, plus de 20 chats s’étaient déjà évaporés dans les mêmes circonstances.",
-  "date": "2026-08-22T06:22:56+00:00",
-  "place": "Bretagne",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 48.2640845,
-  "lon": -2.9202408,
-  "premium": true
  }
 ]
