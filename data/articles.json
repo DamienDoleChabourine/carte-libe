@@ -117,6 +117,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/sante/infections-a-repetition-au-chu-de-nantes-deux-nouveau-nes-sont-morts-annonce-lhopital-20261005_X2CWS7VIYNHPZLUWBYX73N2CBE/",
+  "id": "d0a0c77f6a66",
+  "title": "Infections à répétition au CHU de Nantes, deux nouveau-nés sont morts annonce l’hôpital",
+  "subtitle": "Les décès seraient intervenus en 2025. Un audit réalisé en janvier avait pointé la persistance de manquements concernant le personnel de l’établissement, confronté à une succession d’épidémies depuis 2022.",
+  "date": "2026-10-05T11:11:50+00:00",
+  "place": "Nantes",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 47.2186371,
+  "lon": -1.5541362,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/sexualite-et-genres/pride-a-paris-la-marche-des-fiertes-va-selancer-sans-les-chaleurs-de-lete-20261003_OEC6UUI77BBTZJLEPXRDLWHTDM/",
   "id": "74f9acb1baf8",
   "title": "Pride à Paris : la Marche des fiertés va s’élancer sans les chaleurs de l’été",
