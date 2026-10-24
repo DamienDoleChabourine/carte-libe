@@ -1766,18 +1766,5 @@
   "lat": 43.2130358,
   "lon": 2.3491069,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/orages-neuf-departements-du-sud-ouest-places-en-vigilance-orange-ce-lundi-20260823_D5C6E334YVBD5HNSGVSPYJX6S4/",
-  "id": "8222e0e4c02a",
-  "title": "Orages : neuf départements du Sud-Ouest placés en vigilance orange ce lundi",
-  "subtitle": "Le Gers, le Lot-et-Garonne, la Haute-Garonne, le Tarn-et-Garonne, le Lot, la Dordogne, la Corrèze, le Tarn et l’Aveyron seront concernés. L’épisode pourrait toucher le pourtour méditerranéen en fin d’après-midi.",
-  "date": "2026-08-23T16:02:15+00:00",
-  "place": "Tarn-et-Garonne",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 44.080656,
-  "lon": 1.2050633,
-  "premium": true
  }
 ]
