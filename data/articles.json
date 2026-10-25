@@ -1714,44 +1714,5 @@
   "lat": 43.2130358,
   "lon": 2.3491069,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/economie-numerique/avis-favorable-a-la-construction-dun-data-center-de-microsoft-pres-de-mulhouse-20260824_OZIE3S37WNEHND6RHXRGQZD7LM/",
-  "id": "af33f9aacd00",
-  "title": "Avis favorable à la construction d’un data center de Microsoft près de Mulhouse",
-  "subtitle": "Malgré l’opposition de 80 % des contributions citoyennes, le projet à deux milliards d’euros doit voir le jour dès 2029 sur 35 hectares de terres agricoles. Les associations écologistes dénoncent notamment son importante consommation d’électricité et d’eau.",
-  "date": "2026-08-24T18:40:28+00:00",
-  "place": "Mulhouse",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 47.7467233,
-  "lon": 7.3389937,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/du-jamais-vu-depuis-disneyland-paris-macron-annonce-trois-parcs-dattraction-en-ile-de-france-finances-par-larabie-saoudite-20260824_25WRU3GYUNE3LPHQV6SGA6IQFU/",
-  "id": "70c849a6b998",
-  "title": "«Du jamais vu depuis Disneyland Paris» : Macron annonce trois parcs d’attractions en Ile-de-France, financés par l’Arabie Saoudite",
-  "subtitle": "Le protocole d’accord signé lundi 24 août, à l’occasion de la visite de Mohammed ben Salmane, prévoit six milliards d’euros d’investissement et la création de 22 000 emplois directs.",
-  "date": "2026-08-24T18:19:00+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/concert-de-patrick-bruel-a-strasbourg-la-maire-catherine-trautmann-demande-au-zenith-sa-deprogrammation-20260824_HNKZEBG7L5FRLJYSNE7BRK4WZI/",
-  "id": "fae605526410",
-  "title": "Concert de Patrick Bruel à Strasbourg : la maire Catherine Trautmann demande au Zénith sa déprogrammation",
-  "subtitle": "L’élue a affirmé ce lundi avoir «informé le gestionnaire de la salle de [sa] position» afin que le concert «ne puisse pas se tenir à Strasbourg». Avant elle, plusieurs maires s’étaient déjà opposés à la venue du chanteur dans leur ville.",
-  "date": "2026-08-24T16:29:47+00:00",
-  "place": "Strasbourg",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.584614,
-  "lon": 7.7507127,
-  "premium": true
  }
 ]
