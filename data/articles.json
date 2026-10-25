@@ -1753,18 +1753,5 @@
   "lat": 48.584614,
   "lon": 7.7507127,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/orages-16-departements-en-vigilance-orange-ce-lundi-20260824_QY4PGJPGUZDVXGDTVTV5WN73KU/",
-  "id": "1b1f0c7bf492",
-  "title": "Orages : 20 départements en vigilance orange ce lundi, une étape de la Vuelta annulée et une tornade vers Carcassonne",
-  "subtitle": "Des vents pouvant dépasser 100 km/h et de la grêle se sont abattus du Sud-Ouest au Sud-Est, en passant par le Massif central, ainsi que dans les deux départements corses.",
-  "date": "2026-08-24T15:53:53+00:00",
-  "place": "Carcassonne",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2130358,
-  "lon": 2.3491069,
-  "premium": true
  }
 ]
