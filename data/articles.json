@@ -1701,18 +1701,5 @@
   "lat": -12.823048,
   "lon": 45.1520755,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/dans-laude-a-pomas-apres-la-tornade-le-sentiment-davoir-vecu-une-guerre-20260825_LQZX555EDBG6HIXJ3ABKBW6AWE/",
-  "id": "ccf8db1412bc",
-  "title": "Dans l’Aude, à Pomas, après la tornade, «le sentiment d’avoir vécu une guerre»",
-  "subtitle": "Lundi 24 août, vers 17 heures, une tornade a ravagé le village proche de Carcassonne, emportant tout sur son passage. Les habitants, sains et saufs mais traumatisés par la catastrophe, racontent l’inquiétude face aux énormes dégâts matériels.",
-  "date": "2026-08-25T16:51:53+00:00",
-  "place": "Carcassonne",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.2130358,
-  "lon": 2.3491069,
-  "premium": true
  }
 ]
