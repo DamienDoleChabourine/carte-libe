@@ -1662,44 +1662,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/sports/football/ligue-des-champions-lolympique-lyonnais-joue-sa-qualification-et-des-gros-sous-contre-fenerbahce-20260826_YDM6OB2J7NDVVLRZSVLP3EVJAE/",
-  "id": "a2ad51e39642",
-  "title": "Ligue des champions : l’Olympique lyonnais joue sa qualification et des gros sous contre Fenerbahçe",
-  "subtitle": "Après avoir obtenu le nul 1-1 à l’aller en Turquie, Lyon dispute un match retour capital ce mercredi soir pour retrouver, six ans après, la plus prestigieuse et lucrative coupe d’Europe. En jeu, des dizaines de millions d’euros.",
-  "date": "2026-08-26T07:29:05+00:00",
-  "place": "Lyon",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 45.7578137,
-  "lon": 4.8320114,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/sebastien-lecornu-a-mayotte-pour-accelerer-la-reconstruction-trop-lente-un-an-apres-le-cyclone-chido-20260826_P7BWEA45SRGWDPXVHOBUKA4SMI/",
-  "id": "63b22f5c0502",
-  "title": "Sébastien Lecornu à Mayotte pour accélérer la reconstruction «trop lente» plus d’un an après le cyclone Chido",
-  "subtitle": "Le Premier ministre regrette «des retards dans la livraison d’équipements publics» et des «difficultés persistantes» dans de nombreux domaines dans le département le plus pauvre de France.",
-  "date": "2026-08-26T06:22:37+00:00",
-  "place": "Mayotte",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": -12.823048,
-  "lon": 45.1520755,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/international/europe/lecornu-a-mayotte-rentree-du-medef-orages-lactu-de-ce-mercredi-26-aout-au-matin-20260826_N2NHFDGOJJC6VJX4XPWMPG6YYM/",
-  "id": "6126bbc48abd",
-  "title": "Lecornu à Mayotte, rentrée du Médef, orages… L’actu de ce mercredi 26 août au matin",
-  "subtitle": "La rédaction de «Libération» compile les principales infos du jour",
-  "date": "2026-08-26T05:51:21+00:00",
-  "place": "Mayotte",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": -12.823048,
-  "lon": 45.1520755,
-  "premium": true
  }
 ]
