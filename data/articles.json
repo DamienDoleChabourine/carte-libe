@@ -1636,31 +1636,5 @@
   "lat": 49.0508845,
   "lon": 2.1008067,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/cycliste-poignarde-par-un-conducteur-la-lutte-contre-les-violences-motorisees-nest-pas-une-priorite-gouvernementale-20260826_RUHDOL5VBZHJBNUFVXB23HV72A/",
-  "id": "3ff87d57af82",
-  "title": "Cycliste poignardé par un conducteur : «La lutte contre les violences motorisées n’est pas une priorité gouvernementale»",
-  "subtitle": "Un homme circulant à vélo a été blessé à l’arme blanche mardi à Paris après un différend avec un automobiliste. Deux ans après la mort de Paul Varry, écrasé par un SUV, aucune mesure de prévention de ces violences n’a été prise, explique le porte-parole de l’association Paris en ",
-  "date": "2026-08-26T13:06:11+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/immigration/a-paris-une-soixantaine-de-migrants-decouverts-dans-la-remorque-dun-camion-20260826_4HQZP7TDABFIFFLSZWPEFAZ5DI/",
-  "id": "39cf7c63a529",
-  "title": "A Paris, une soixantaine de migrants découverts dans la remorque d’un camion",
-  "subtitle": "Les personnes, dont des femmes et des enfants, ont été découvertes dans la nuit, serrées dans la remorque véhicule abandonné dans le XVIIIe arrondissement de la capitale.",
-  "date": "2026-08-26T10:32:34+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
  }
 ]
