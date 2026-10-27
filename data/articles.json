@@ -1610,31 +1610,5 @@
   "lat": -12.823048,
   "lon": 45.1520755,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/elections/zizanie-dans-un-meeting-de-lfi-des-militants-dextreme-droite-repondent-de-leurs-actes-au-tribunal-20260826_GM5FBZBOAJD43HDJUWELUL6JTI/",
-  "id": "0a22cadf8ef2",
-  "title": "Zizanie dans un meeting de LFI : des militants d’extrême droite répondent de leurs actes au tribunal",
-  "subtitle": "Dix-huit mois de prison avec sursis probatoire ont été requis, ce mercredi 26 août, à Lille, contre huit membres du groupe identitaire Nouvelle droite qui avaient interrompu, en mars, une réunion sur les élections municipales des insoumis, avec faux sang, bousculades et enfarinag",
-  "date": "2026-08-26T19:39:18+00:00",
-  "place": "Lille",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 50.6365654,
-  "lon": 3.0635282,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/social/a-cergy-pontoise-les-habitants-partages-sur-le-parc-dragon-ball-il-va-y-avoir-de-la-pollution-sonore-et-lumineuse-en-permanence-20260826_HHHGIYJDT5B6HHZTKAIH3RQFGY/",
-  "id": "0a706e0ff84a",
-  "title": "A Cergy-Pontoise, les habitants partagés sur le parc Dragon Ball : «Il va y avoir de la pollution sonore et lumineuse en permanence»",
-  "subtitle": "Après l’annonce de l’implantation d’un parc d’attraction dédié au manga japonais lundi 24 août, certains riverains du site du Val-d’Oise se réjouissent des retombées économiques à venir tandis que d’autres s’inquiètent des conséquences néfastes sur le trafic, l’immobilier ou enco",
-  "date": "2026-08-26T17:09:49+00:00",
-  "place": "Pontoise",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 49.0508845,
-  "lon": 2.1008067,
-  "premium": true
  }
 ]
