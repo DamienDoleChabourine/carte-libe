@@ -1571,18 +1571,5 @@
   "lat": 43.3426562,
   "lon": 3.2131307,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/sports/football/ligue-des-champions-tirage-corse-pour-le-psg-et-lille-en-phase-de-ligue-lens-davantage-menage-20260827_MJRCYZ7HGRG7ZFKB3ZIZ7L6QS4/",
-  "id": "085a8353889f",
-  "title": "Ligue des champions : tirage corsé pour le PSG et Lille en phase de ligue, Lens davantage ménagé",
-  "subtitle": "Les Parisiens devront notamment se frotter au Barça et à Manchester City, tandis que les Lillois défieront le Bayern Munich et Arsenal, en plus d’autres équipes de moindre dimension mais piégeuses.",
-  "date": "2026-08-27T18:32:39+00:00",
-  "place": "Lille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 50.6365654,
-  "lon": 3.0635282,
-  "premium": true
  }
 ]
