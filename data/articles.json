@@ -1584,31 +1584,5 @@
   "lat": 50.6365654,
   "lon": 3.0635282,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/violences-dans-le-periscolaire-parisien-anne-hidalgo-directement-visee-par-des-plaintes-20260827_RQL6G2J2LJGNTHCYF4Q2RIIDLQ/",
-  "id": "5c31af2be8af",
-  "title": "Violences dans le périscolaire parisien : Anne Hidalgo directement visée par des plaintes",
-  "subtitle": "L’ancienne maire de Paris et son ex-premier adjoint, Patrick Bloche, sont visés par trois plaintes pour «non-assistance à personne en danger» déposées par des parents de l’école Saint-Dominique (VIIe arrondissement).",
-  "date": "2026-08-27T13:55:40+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/immigration/mayotte-le-laboratoire-inhumain-des-politiques-migratoires-de-la-droite-et-de-lextreme-droite-20260827_U5W3IHGDGRC2TGGK4DT7ORI74E/",
-  "id": "12e6b8edb1dd",
-  "title": "Mayotte, le «laboratoire inhumain» des politiques migratoires de la droite et de l’extrême droite",
-  "subtitle": "En visite dans l’archipel jusqu’à ce jeudi 27 août, le Premier ministre Sébastien Lecornu a annoncé une «militarisation» de la lutte contre l’immigration illégale, une semaine après une visite et d’autres propositions du candidat Edouard Philippe. La surenchère ne devrait pas s’a",
-  "date": "2026-08-27T10:31:28+00:00",
-  "place": "Mayotte",
-  "place_cat": "territoire",
-  "matched_in": "titre",
-  "lat": -12.823048,
-  "lon": 45.1520755,
-  "premium": true
  }
 ]
