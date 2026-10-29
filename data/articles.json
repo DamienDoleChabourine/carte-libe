@@ -1857,44 +1857,5 @@
   "lat": 43.2963986,
   "lon": 5.3777888,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/zero-enfant-a-la-rue-cet-hiver-emmanuel-gregoire-veut-creer-4-000-places-dhebergement-pour-les-sans-abri-parisiens-20260828_GQQR6FS2ZNBDPGUKU4S7ON636I/",
-  "id": "dac951199167",
-  "title": "«Zéro enfant à la rue cet hiver» : Emmanuel Grégoire veut créer 4 000 places d’hébergement pour les sans-abri parisiens",
-  "subtitle": "Le maire de Paris, interviewé par «le Parisien» vendredi, se fixe pour objectif de créer autant de places de relogement qu’il y a de personnes sans domicile dans la capitale.",
-  "date": "2026-08-28T19:35:17+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/checknews/marseille-le-voisin-de-sebastien-delogu-soupconne-de-vol-de-montre-de-luxe-est-il-ressorti-libre-20260828_WK3R4IDETVH33JXDKZRXJTKELI/",
-  "id": "fb2a4967cdf4",
-  "title": "Marseille : le voisin de Sébastien Delogu, soupçonné de vol de montre de luxe, est-il «ressorti libre» ?",
-  "subtitle": "Dans un tweet publié vendredi 28 août, le député LFI évoque une «supercherie». A l’issue de l’audience de comparution immédiate qui a eu lieu jeudi, le parquet indique à «CheckNews» que le voisin de l’élu a été relaxé.",
-  "date": "2026-08-28T17:18:48+00:00",
-  "place": "Marseille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2963986,
-  "lon": 5.3777888,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/detention-et-diffusion-dimages-pedopornographiques-un-maire-de-lagglomeration-de-fecamp-condamne-a-18-mois-de-prison-avec-sursis-20260828_46JCIGHF5NGJBBWJNC6RXO7KQ4/",
-  "id": "94af0852a481",
-  "title": "Détention et diffusion d’images pédopornographiques : un maire de l’agglomération de Fécamp condamné à 18 mois de prison avec sursis",
-  "subtitle": "Eric Scarano, réélu en mars 2026, échangeait des messages à caractère sexuel et des photomontages pédopornographiques sur plusieurs plateformes. Reconnu coupable le 27 août, l’édile ne s’est pas encore exprimé sur sa possible démission.",
-  "date": "2026-08-28T13:41:14+00:00",
-  "place": "Fécamp",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 49.757156,
-  "lon": 0.3763863,
-  "premium": true
  }
 ]
