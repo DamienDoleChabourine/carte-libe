@@ -382,5 +382,21 @@
  "Vaulx-en-Velin, France": {
   "lat": 45.7784255,
   "lon": 4.9206153
+ },
+ "Bayonne, France": {
+  "lat": 43.4945144,
+  "lon": -1.4736657
+ },
+ "Trappes, France": {
+  "lat": 48.7760957,
+  "lon": 1.9988356
+ },
+ "Saint-Malo, France": {
+  "lat": 48.649518,
+  "lon": -2.0260409
+ },
+ "Aix-en-Provence, France": {
+  "lat": 43.5298424,
+  "lon": 5.4474738
  }
 }
