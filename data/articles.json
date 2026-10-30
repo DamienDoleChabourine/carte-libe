@@ -1818,44 +1818,5 @@
   "lat": 49.1813403,
   "lon": -0.3635615,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/pollution/algues-vertes-toxiques-en-bretagne-18-mois-apres-un-ordre-de-la-justice-letat-renforce-la-lutte-20260829_JPOCWTGA6FBODCKD43LH52OLUQ/",
-  "id": "b7a60317553f",
-  "title": "Algues vertes toxiques en Bretagne : 18 mois après un ordre de la justice, l’Etat renforce la lutte",
-  "subtitle": "La préfecture cible désormais les exploitations les plus polluantes et durcit les règles sur 20 % des terres agricoles, une réponse jugée encore insuffisante par les associations environnementales.",
-  "date": "2026-08-29T08:55:07+00:00",
-  "place": "Bretagne",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 48.2640845,
-  "lon": -2.9202408,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/attentat-a-la-pudeur-et-viols-sur-mineurs-un-ancien-pretre-vise-par-une-enquete-a-lille-20260829_SF3ZB2N2URDF5G4AZGEUFP76VM/",
-  "id": "f3eda7a703e5",
-  "title": "Attentat à la pudeur et viols sur mineurs : un ancien prêtre visé par une enquête à Lille",
-  "subtitle": "Jacques Delfosse, aujourd’hui octogénaire et déjà condamné pour viol, fait l’objet d’une information judiciaire pour avoir violenté sept jeunes dans les années 1990, dans des camps de vacances.",
-  "date": "2026-08-29T08:45:32+00:00",
-  "place": "Lille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 50.6365654,
-  "lon": 3.0635282,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/biodiversite/au-large-de-marseille-des-plongeurs-veillent-sur-les-gorgones-cousines-des-coraux-qui-faconnent-les-fonds-marins-20260829_EJFMDSMZBZDY3EKZCQK2QFWL7E/",
-  "id": "fd3143d6993d",
-  "title": "Au large de Marseille, des plongeurs veillent sur les gorgones, cousines des coraux qui façonnent les fonds marins",
-  "subtitle": "De la surface à 40 mètres de profondeur, une équipe de bénévoles est allée évaluer l’état de santé de ces drôles d’animaux, essentiels à la biodiversité. «Libé» a plongé à leurs côtés.",
-  "date": "2026-08-29T08:11:00+00:00",
-  "place": "Marseille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2963986,
-  "lon": 5.3777888,
-  "premium": true
  }
 ]
