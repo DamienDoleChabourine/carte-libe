@@ -1766,18 +1766,5 @@
   "lat": 49.3595018,
   "lon": 0.0746638,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/idees-et-debats/tribunes/ne-cedons-pas-la-rue-aux-robots-de-livraison-autonomes-20260901_MDRLL2YQHBDDRLSVNBEHIHFE4Y/",
-  "id": "40c570109c6f",
-  "title": "Ne cédons pas la rue aux robots de livraison autonomes",
-  "subtitle": "Depuis le 7 août, les robots livreurs sont entrés dans le droit français. Sans plaider l’interdiction, le maire-adjoint de Paris Centre, Boris Jamet-Fournier, préconise que chaque ville puisse poser ses propres conditions de leur circulation.",
-  "date": "2026-09-01T04:45:00+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
  }
 ]
