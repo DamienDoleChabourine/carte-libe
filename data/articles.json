@@ -1740,31 +1740,5 @@
   "lat": 48.2640845,
   "lon": -2.9202408,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/culture/arts/au-royaume-uni-le-retour-de-la-tapisserie-de-bayeux-suscite-un-interet-ahurissant-20260901_24P3JWO3JJCC7LT4KM4RREW56I/",
-  "id": "865a6a263bab",
-  "title": "Au Royaume-Uni, le «retour» de la tapisserie de Bayeux suscite un «intérêt ahurissant»",
-  "subtitle": "Après plus de 900 ans loin de ses terres d’origine, le chef-d’œuvre médiéval est exposé au British Museum. L’événement, inauguré ce mercredi en présence d’Emmanuel Macron, enthousiasme les Anglais.",
-  "date": "2026-09-01T15:18:00+00:00",
-  "place": "Bayeux",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 49.2764624,
-  "lon": -0.7024738,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/culture/photographie/la-justice-desavoue-la-mairie-de-deauville-apres-le-retrait-dune-photo-de-gaza-20260831_Q3DPG3YHUVHDRL3VL2CE3NZGO4/",
-  "id": "1964cd55a1d3",
-  "title": "La justice désavoue la mairie de Deauville après le retrait d’une photo de Gaza",
-  "subtitle": "La municipalité avait décidé mi-août de retirer un cliché de Jehad Alshrafi, pourtant exposé sans incident sur une place de la ville depuis le 6 juin. Le tribunal administratif de Caen a suspendu cette décision ce lundi.",
-  "date": "2026-09-01T09:09:44+00:00",
-  "place": "Deauville",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 49.3595018,
-  "lon": 0.0746638,
-  "premium": true
  }
 ]
