@@ -1714,44 +1714,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/agression-homophobe-du-president-de-lassociation-lgbt-flag-le-suspect-mis-en-examen-20260902_RSN5XQPCIFB5ZLNAQWYJX7V32I/",
-  "id": "e1ea9abff4fc",
-  "title": "Agression homophobe du président de l’association LGBT + «FLAG !» : le suspect mis en examen",
-  "subtitle": "Agé de 26 ans, l’homme au casier judiciaire vierge est poursuivi pour violences aggravées et vol. Le policier Pierre Picavet avait été agressé dans la nuit du samedi 29 août dans le quartier du Marais à Paris.",
-  "date": "2026-09-02T15:50:28+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/animaux/dans-lherault-un-boa-constrictor-recherche-depuis-trois-jours-et-des-habitants-appeles-a-la-vigilance-20260902_BCYDSLSWAJG7FOBJWLQMGD2XBE/",
-  "id": "362b046673db",
-  "title": "Dans l’Hérault, un boa constrictor recherché depuis trois jours et des habitants appelés à la vigilance",
-  "subtitle": "Un serpent de 1,70m s’est échappé de son vivarium depuis le dernier week-end d’août dans la commune de Saint-André-de-Sangonis, près de Montpellier. Il est toutefois non venimeux et présenté comme «plutôt peureux».",
-  "date": "2026-09-02T10:44:55+00:00",
-  "place": "Montpellier",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.6112422,
-  "lon": 3.8767337,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/on-ma-conseille-de-me-taire-mais-je-le-refuse-en-bretagne-la-solitude-et-la-colere-dune-crepiere-victime-de-vagues-dinsultes-racistes-20260902_NWLA7FAXWBB6TF4AVKY4GGS42Y/",
-  "id": "886efac28f71",
-  "title": "«On m’a conseillé de me taire, mais je le refuse» : en Bretagne, la solitude et la colère d’une crêpière victime de vagues d’insultes racistes",
-  "subtitle": "Joëlle Dambo, crêpière primée des Côtes-d’Armor, subit depuis sa médiatisation récente un déferlement de commentaires haineux et racistes. Passablement esseulée en son village de Centre Bretagne, elle n’a de cesse de faire condamner les personnages qui l’ont agonie d’injures.",
-  "date": "2026-09-02T09:40:54+00:00",
-  "place": "Bretagne",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 48.2640845,
-  "lon": -2.9202408,
-  "premium": true
  }
 ]
