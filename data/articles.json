@@ -1701,18 +1701,5 @@
   "lat": 43.6463558,
   "lon": 0.5850507,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/logement/malgre-lencadrement-des-loyers-le-nombre-dannonces-excedant-le-plafond-progresse-fortement-a-paris-alerte-la-fondation-pour-le-logement-20260903_Z2YSXGTHPBARFHYLP2FQQXCYRU/",
-  "id": "a4c90a6d5a41",
-  "title": "Malgré l’encadrement des loyers, le nombre d’annonces excédant le plafond progresse fortement à Paris, alerte la Fondation pour le logement",
-  "subtitle": "Selon le baromètre de la Fondation, 37% des annonces analysées en France excèdent le plafond légal, contre 31% en 2025. A Paris, la part de bailleurs hors des clous bondit de 31% à 46% en un an, une situation jugée inquiétante.",
-  "date": "2026-09-03T06:58:05+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
  }
 ]
