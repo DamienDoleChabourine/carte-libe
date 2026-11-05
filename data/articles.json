@@ -1675,18 +1675,5 @@
   "lat": 44.815194,
   "lon": 4.3986525,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/strasbourg-deux-ans-de-prison-ferme-pour-un-interne-en-medecine-qui-a-fait-avorter-sa-compagne-a-son-insu-20260903_DHBWFQOLNBHCXFITDY4JR56UC4/",
-  "id": "9ca6ad03c122",
-  "title": "Strasbourg : deux ans de prison ferme pour un interne en médecine qui a fait avorter sa compagne à son insu",
-  "subtitle": "Cet homme de 36 ans avait fait avaler à son amie des comprimés abortifs en mars 2024 à Furdenheim dans le Bas-Rhin. Il a expliqué qu’il n’était pas «en situation psychologique, financière et matérielle» d’avoir un enfant.",
-  "date": "2026-09-03T20:29:57+00:00",
-  "place": "Strasbourg",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.584614,
-  "lon": 7.7507127,
-  "premium": true
  }
 ]
