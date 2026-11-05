@@ -1584,31 +1584,5 @@
   "lat": 43.2130358,
   "lon": 2.3491069,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/finistere-une-femme-tuee-par-un-forcene-dans-la-rue-20260904_UR3E47S5QJHFXL32SHJ22R7K7Q/",
-  "id": "1b08d70cbe9e",
-  "title": "Finistère : une femme tuée en pleine rue, son compagnon blessé, le forcené arrêté dans un état «très critique»",
-  "subtitle": "Le drame s’est noué ce vendredi 4 septembre à Plourin-lès-Morlaix, une commune d’environ 5 000 habitants, où un homme s’était «retranché dans un immeuble» selon la préfecture. Les deux victimes étaient des voisins du tireur.",
-  "date": "2026-09-04T19:44:38+00:00",
-  "place": "Finistère",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 48.2451153,
-  "lon": -4.0440902,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/apres-laffaire-lyhanna-trois-fois-plus-denqueteurs-sur-les-violences-sur-mineurs-a-paris-20260904_TKECTIVM3JFJVMU4CFXPL7G35Y/",
-  "id": "b8e631f7e85c",
-  "title": "Après l’affaire Lyhanna, trois fois plus d’enquêteurs sur les violences sur mineurs à Paris",
-  "subtitle": "Dans un entretien à l’AFP, ce vendredi 4 septembre, le préfet de police, Patrice Faure, a annoncé avoir fait passer de 200 à 600 le nombre de policiers mobilisés spécifiquement pour ces dossiers.",
-  "date": "2026-09-04T19:07:31+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
  }
 ]
