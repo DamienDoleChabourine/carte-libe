@@ -1662,18 +1662,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/un-incendie-en-cours-en-ardeche-ou-il-va-faire-jusqua-39c-ce-vendredi-20260904_2VTTW346ORBCHEN6QTQI6QKYKY/",
-  "id": "29643abeeb7c",
-  "title": "Un incendie en cours en Ardèche, où il va faire jusqu’à 39°C ce vendredi",
-  "subtitle": "Les flammes ont parcouru près de 30 hectares depuis jeudi soir et progressent encore. Elles ont provoqué l’évacuation de plusieurs dizaines de personnes, alors que le département est placé en vigilance orange canicule.",
-  "date": "2026-09-04T06:30:04+00:00",
-  "place": "Ardèche",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.815194,
-  "lon": 4.3986525,
-  "premium": true
  }
 ]
