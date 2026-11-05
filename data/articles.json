@@ -1610,57 +1610,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/pollution/algues-vertes-en-bretagne-cinq-ans-apres-un-premier-rapport-la-cour-des-comptes-constate-lenvasement-du-dossier-20260904_2CNIEZDMEJCE7LFNE5ISQAZLBE/",
-  "id": "cb7539a74508",
-  "title": "Algues vertes en Bretagne : cinq ans après un premier rapport, la Cour des comptes constate l’envasement du dossier",
-  "subtitle": "En visite dans la baie de Saint-Brieuc vendredi 4 septembre, Amélie de Montchalin a rappelé les lacunes persistantes des politiques de lutte contre les nitrates. Le patron de l’exécutif régional, lui, renvoie la balle vers l’Etat.",
-  "date": "2026-09-04T17:33:27+00:00",
-  "place": "Bretagne",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 48.2640845,
-  "lon": -2.9202408,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/canicule-sept-departements-du-sud-de-la-france-places-en-vigilance-orange-samedi-20260904_5JXL42KOKJA2ZGT2WXYLA6AQFU/",
-  "id": "4812739fac7b",
-  "title": "Canicule : sept départements du sud de la France placés en vigilance orange samedi",
-  "subtitle": "L’Ardèche, l’Aude, la Drôme, le Gard, l’Hérault, les Pyrénées-Orientales et le Vaucluse sont concernés. Des records de chaleur mensuels sont probables par endroits.",
-  "date": "2026-09-04T16:06:17+00:00",
-  "place": "Pyrénées-Orientales",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 42.625894,
-  "lon": 2.506509,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/les-detenteurs-des-droits-de-dragon-ball-nont-pas-donne-leur-accord-pour-la-construction-dun-parc-dattraction-en-ile-de-france-20260904_WFACK6NUHVEGBDNELRTMBRT6NU/",
-  "id": "76aa86f98429",
-  "title": "Les détenteurs des droits de Dragon Ball n’ont pas donné leur accord pour la construction d’un parc d’attractions en Ile-de-France",
-  "subtitle": "Toei Animation dément avoir cédé une licence pour un parc à thème à Cergy-Pontoise, malgré l’annonce commune de Macron et Mohammed ben Salmane fin août. Le gouvernement parle désormais d’un parc «sur les mangas».",
-  "date": "2026-09-04T15:49:59+00:00",
-  "place": "Pontoise",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 49.0508845,
-  "lon": 2.1008067,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/violences-dans-le-periscolaire-a-paris-le-maire-emmanuel-gregoire-et-anne-hidalgo-vises-par-une-plainte-de-familles-20260904_6QJP4PKJZVFZ5PFK7PNJE4GZTY/",
-  "id": "e1638b448216",
-  "title": "«La ville de Paris savait mais n’a pas agi» : Emmanuel Grégoire et Anne Hidalgo visés par une plainte pour leur gestion des violences sexuelles dans le périscolaire",
-  "subtitle": "Les plaignants, des familles de victimes, demandent vendredi 4 septembre que la lumière soit faite sur ce que les élus savaient des dysfonctionnements dans le périscolaire. Le maire socialiste a annoncé «prendre acte» de cette plainte et se tenir à disposition de la justice.",
-  "date": "2026-09-04T12:50:09+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
  }
 ]
