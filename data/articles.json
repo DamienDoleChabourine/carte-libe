@@ -1545,44 +1545,5 @@
   "lat": 43.7009358,
   "lon": 7.2683912,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/a-marseille-la-revue-culturelle-et-solidaire-un-autre-monde-permet-aux-personnes-a-la-rue-dexister-autrement-dans-lespace-social-20260905_VMTMTJTZJBCF5FUZKRW2GQNB4Y/",
-  "id": "be55781e9c4b",
-  "title": "A Marseille, la revue culturelle et solidaire «Un autre monde» permet aux personnes à la rue «d’exister autrement dans l’espace social»",
-  "subtitle": "Vendu dans les rues et lieux culturels de la ville par des habitants en grande précarité, le magazine, qualitatif sur le fond comme la forme, participe au changement de regard sur cette situation, pour les lecteurs comme les colporteurs.",
-  "date": "2026-09-05T13:31:00+00:00",
-  "place": "Marseille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2963986,
-  "lon": 5.3777888,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/un-homme-tue-par-balle-dans-la-banlieue-de-lyon-20260905_ZKH54F3PFFFQ3ACLJRKBLVGTWY/",
-  "id": "9753f60a242e",
-  "title": "Un homme tué par balle dans la banlieue de Lyon",
-  "subtitle": "Un ou plusieurs inconnus ont ouvert le feu vendredi soir, à Vaulx-en-Velin, depuis un autre véhicule avant de prendre la fuite. Aucun lien avec le narcotrafic n’est établi à ce stade.",
-  "date": "2026-09-05T10:50:33+00:00",
-  "place": "Lyon",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 45.7578137,
-  "lon": 4.8320114,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/une-centaine-de-personnes-evacuees-apres-un-important-depart-de-feu-dans-laude-20260904_VYPUG3TXYZH4JKEB6MDRAMSMFU/",
-  "id": "81ddae261d7c",
-  "title": "Une centaine de personnes évacuées après un important départ de feu dans l’Aude",
-  "subtitle": "Les habitants du village de Lavagnac, au sud de Carcassonne, ont dû quitter leur foyer à titre préventif, vendredi, après que les flammes ont ravagé une centaine d’hectares de végétation. Quelque 330 pompiers sont toujours mobilisés ce samedi.",
-  "date": "2026-09-05T08:17:30+00:00",
-  "place": "Carcassonne",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 43.2130358,
-  "lon": 2.3491069,
-  "premium": true
  }
 ]
