@@ -1519,31 +1519,5 @@
   "lat": 44.815194,
   "lon": 4.3986525,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/elections/presidentielle-2027-jean-luc-melenchon-a-la-braderie-de-lille-a-fond-sur-le-pouvoir-dachat-20260905_GBAQNSSV55E2TESVNL3AOUNWLA/",
-  "id": "d42795e4eafd",
-  "title": "Présidentielle 2027 : Jean-Luc Mélenchon à la braderie de Lille, à fond sur le pouvoir d’achat",
-  "subtitle": "Devant une foule conquise, le candidat insoumis a, ce samedi, déroulé notamment les aspects économiques et sociaux de son programme : blocage des prix et des loyers, augmentation du smic et annulation d’une partie de la dette française.",
-  "date": "2026-09-05T18:31:22+00:00",
-  "place": "Lille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 50.6365654,
-  "lon": 3.0635282,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/presidentielle-2027-eric-ciotti-maire-de-nice-propose-un-pacte-dalliance-a-marine-le-pen-20260905_ASP3I5ZKF5D25IALL3SS653NPI/",
-  "id": "31bf10beb780",
-  "title": "Présidentielle 2027 : Eric Ciotti, maire de Nice, propose «un pacte d’alliance» à Marine Le Pen",
-  "subtitle": "Le dirigeant de l’Union des droites pour la République (UDR) a officialisé, lors de sa rentrée politique à ce samedi, son soutien à la candidate du RN dans la course à l’Elysée. Il a mis en avant une «quinzaine de propositions» qu’il a transmises à la candidate RN.",
-  "date": "2026-09-05T17:42:05+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
  }
 ]
