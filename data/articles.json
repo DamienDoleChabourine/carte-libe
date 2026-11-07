@@ -1506,18 +1506,5 @@
   "lat": 47.2186371,
   "lon": -1.5541362,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/environnement/climat/six-departements-en-vigilance-orange-canicule-dimanche-et-lundi-20260906_7GZQCXGHUVASBMLB42DFYZFLDM/",
-  "id": "9bbddc258559",
-  "title": "Six départements en vigilance orange canicule dimanche et lundi",
-  "subtitle": "Ardèche, Aude, Drôme, Gard, Hérault et Vaucluse sont concernés. Samedi 5 septembre, des températures inédites pour un mois de septembre ont été enregistrées.",
-  "date": "2026-09-06T06:16:29+00:00",
-  "place": "Ardèche",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 44.815194,
-  "lon": 4.3986525,
-  "premium": true
  }
 ]
