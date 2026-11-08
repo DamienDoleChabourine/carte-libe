@@ -1402,18 +1402,5 @@
   "lat": 48.7876,
   "lon": 2.39164,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/education/violences-dans-le-periscolaire-a-paris-emmanuel-gregoire-inaugure-la-nouvelle-ecole-de-formation-des-animateurs-20260907_USLUBU6HOJG7BJE6XQYURQWWA4/",
-  "id": "c04408594d57",
-  "title": "Violences dans le périscolaire à Paris : Emmanuel Grégoire inaugure la nouvelle école de formation des animateurs",
-  "subtitle": "L’établissement formera les animateurs des écoles de la capitale, éclaboussées par le scandale des violences sexuelles qui a donné lieu à plusieurs plaintes de familles. Les syndicats restent dubitatifs.",
-  "date": "2026-09-07T19:56:29+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
  }
 ]
