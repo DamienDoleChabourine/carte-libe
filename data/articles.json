@@ -1493,18 +1493,5 @@
   "lat": 43.2963986,
   "lon": 5.3777888,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/nantes-un-homme-de-19-ans-renvoye-devant-le-tribunal-pour-une-serie-dagressions-a-caractere-homophobe-20260907_2SK2YLSEOJF5DNZ7OGMDVEGJGQ/",
-  "id": "9a37aa6e8498",
-  "title": "Nantes : un homme de 19 ans renvoyé devant le tribunal pour une série d’agressions à caractère homophobe",
-  "subtitle": "Sophian M. est soupçonné d’avoir attaqué pendant l’été 2025 une dizaine de victimes dans un parc, notamment en raison de leur orientation sexuelle. Son procès a lieu ce lundi 7 septembre.",
-  "date": "2026-09-07T04:00:01+00:00",
-  "place": "Nantes",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 47.2186371,
-  "lon": -1.5541362,
-  "premium": true
  }
 ]
