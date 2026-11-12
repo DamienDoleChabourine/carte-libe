@@ -1077,31 +1077,5 @@
   "lat": 48.9098125,
   "lon": 2.4528635,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/accuse-davoir-mal-gere-une-plainte-pour-viol-contre-un-conseiller-jean-michel-aulas-fait-son-retour-a-la-metropole-de-lyon-20260910_WIOAFUAOBFEUVA5GLPW32LVMMY/",
-  "id": "13fac1651fcd",
-  "title": "Accusé d’avoir mal géré une plainte pour viol contre un conseiller, Jean-Michel Aulas fait son retour à la Métropole de Lyon",
-  "subtitle": "La présidente de collectivité territoriale Véronique Sarselli a décidé ce jeudi 10 septembre de restituer ses délégations de vice-président à l’ancien président de l’Olympique Lyonnais, suspendu depuis juin. L’opposition dénonce «le manque de considération pour la victime».",
-  "date": "2026-09-10T19:34:44+00:00",
-  "place": "Lyon",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 45.7578137,
-  "lon": 4.8320114,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/policier-municipal-raciste-a-carcassonne-son-avocat-assure-que-lagent-na-essuye-aucune-sanction-disciplinaire-20260910_T6J4ITJFIBCXHPN7YTCSLYBO4Y/",
-  "id": "40b7c3d4cca7",
-  "title": "Policier municipal raciste à Carcassonne : son avocat assure que l’agent n’a essuyé «aucune sanction disciplinaire»",
-  "subtitle": "Le parquet de Carcassonne a indiqué mercredi 9 septembre mettre «en oeuvre les dispositions» pour suspendre le policier mis en cause.",
-  "date": "2026-09-10T18:48:53+00:00",
-  "place": "Carcassonne",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2130358,
-  "lon": 2.3491069,
-  "premium": true
  }
 ]
