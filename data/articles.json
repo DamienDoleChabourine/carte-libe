@@ -1038,44 +1038,5 @@
   "lat": 49.4404591,
   "lon": 1.0939658,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/on-jette-tout-notre-suivi-medical-a-la-poubelle-en-lorraine-des-milliers-de-dossiers-danciens-mineurs-de-fond-menaces-de-destruction-20260911_NVDO5H32DBDVNDAR5XM2YN2SEM/",
-  "id": "84cf8c393973",
-  "title": "«On jette tout notre suivi médical à la poubelle» : en Lorraine, des milliers de dossiers d’anciens mineurs de fond menacés de destruction",
-  "subtitle": "Par manque de place, les archives départementales de la Moselle envisageraient de se débarrasser de près de 120 000 fiches, indispensables pour faire reconnaître les maladies professionnelles, révèle «Rue89 Strasbourg».",
-  "date": "2026-09-11T09:06:42+00:00",
-  "place": "Strasbourg",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.584614,
-  "lon": 7.7507127,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/les-concerts-de-celine-dion-loccasion-pour-les-politiques-de-casser-leur-style-un-peu-trop-techno-20260911_O4G6DJDXKBA5HKYNJISAADB4TA/",
-  "id": "a21a1102b845",
-  "title": "Philippe, Attal, Pécresse… Les concerts de Céline Dion, l’occasion pour les politiques de «casser leur style un peu trop techno»",
-  "subtitle": "La série de shows de la star québécoise, qui débute à Paris ce samedi 12 septembre, suscite un engouement mondial. Y compris chez certains candidats à la présidentielle, qui peuvent tenter de s’emparer de la médiatisation de ces événements.",
-  "date": "2026-09-11T08:31:04+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/faut-etre-precise-parce-que-moi-jencours-une-peine-de-prison-ganito-roi-de-la-menace-face-a-ses-juges-20260911_23CCQG4V7ZCH5DQW2NGYDPSTEI/",
-  "id": "d591b80e1a97",
-  "title": "«Faut être précise, parce que moi j’encours une peine de prison» : «Ganito», roi de la menace, face à ses juges",
-  "subtitle": "Ilyas Kherbouch, ex-évadé de la prison de Villepinte en Seine-Saint-Denis, comparaît jusqu’à ce vendredi 11 septembre pour le violent home-jacking de l’ancien gardien de but du PSG Gianluigi Donnarumma. Entre menaces et dénégations à la barre, jeudi, le jeune détenu a poussé loin",
-  "date": "2026-09-11T05:31:04+00:00",
-  "place": "Seine-Saint-Denis",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 48.9098125,
-  "lon": 2.4528635,
-  "premium": true
  }
 ]
