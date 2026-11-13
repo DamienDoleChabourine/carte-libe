@@ -921,57 +921,5 @@
   "lat": 49.0677708,
   "lon": 0.3138532,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/transports/un-train-deraille-entre-rouen-et-caen-avec-180-passagers-a-son-bord-environ-20-blesses-20260911_OSSDX2H2DZD4RMMSKDCV2RW4WU/",
-  "id": "ad8b5f11ea8d",
-  "title": "Un train déraille entre Rouen et Caen avec 180 passagers à son bord, une quarantaine de blessés dont une en urgence absolue",
-  "subtitle": "L’accident s’est produit à Cléon, en Seine-Maritime, vers 19h45, vendredi 11 septembre. La préfecture a ouvert une cellule de crise et une enquête est en cours pour connaître les circonstances.",
-  "date": "2026-09-11T20:27:56+00:00",
-  "place": "Rouen",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 49.4404591,
-  "lon": 1.0939658,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/normandie-rumeurs-de-free-party-dans-la-region-la-prefecture-annonce-linterdiction-de-tout-rassemblement-20260911_BQNTTZTXOVDEVD27PNZVQOA7AM/",
-  "id": "66e435ca8714",
-  "title": "Normandie : rumeurs de free party dans la région, la préfecture annonce l’interdiction de tout rassemblement",
-  "subtitle": "Invoquant un «risque sérieux» de grand rassemblement électro , plusieurs préfets ont pris ce vendredi 11 septembre dans la soirée une série d’arrêtés visant à interdire toute réunion de fêtards.",
-  "date": "2026-09-11T20:12:33+00:00",
-  "place": "Normandie",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 49.0677708,
-  "lon": 0.3138532,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/checknews/incendie-en-gironde-lexperimentation-de-la400m-a-t-elle-cloue-au-sol-dautres-bombardiers-deau-20260911_Z7LIBRC4BJDJ7HDXGHOZTATWDU/",
-  "id": "464a839fbb6b",
-  "title": "Incendie en Gironde : l’expérimentation de l’A400M a-t-elle cloué au sol d’autres bombardiers d’eau ?",
-  "subtitle": "Le 25 juillet, l’avion militaire réalisait son premier largage de produit retardant au-dessus du mégafeu de Saumos. Une opération qui a nécessité l’arrêt temporaire d’autres aéronefs luttant contre les flammes.",
-  "date": "2026-09-11T19:42:00+00:00",
-  "place": "Gironde",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 44.8839021,
-  "lon": -0.6046439,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/culture/musique/ca-permet-de-profiter-du-repertoire-mais-gratuitement-avant-le-concert-de-celine-dion-les-fans-sechauffent-au-karaoke-geant-de-la-ville-de-paris-20260911_YZOVNT4F2FFC7DVYZMMPQFK7SM/",
-  "id": "6ce68cbf78bc",
-  "title": "«Ça permet de profiter du répertoire, mais gratuitement» : avant le concert de Céline Dion, les fans s’échauffent au karaoké géant de la Ville de Paris",
-  "subtitle": "10 000 personnes étaient attendues vendredi 11 septembre à Stalingrad pour chanter ensemble les plus grands tubes de la star québécoise. Un événement qui a permis aux sans-ticket de profiter de la liesse.",
-  "date": "2026-09-11T18:30:06+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
  }
 ]
