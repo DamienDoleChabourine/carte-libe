@@ -1,5 +1,18 @@
 [
  {
+  "url": "https://www.liberation.fr/idees-et-debats/editorial/13-novembre-13-artistes-pour-se-souvenir-20251110_2HLWVLMAJJDFBGOKOXWIRR2ESY/",
+  "id": "bfb2de21e0fa",
+  "title": "13 Novembre : 13 artistes pour se souvenir",
+  "subtitle": "Où étions-nous ce vendredi 13 novembre 2015 ? Avec qui étions-nous ? A qui pensions-nous ? Pour «Libération», 13 artistes (Susie Morgenstern, Douglas Kennedy, Hamé, Laura Vazquez...) revivent cette nuit qui a figé Paris. Des textes qui nous saisissent, empreints de douleur et d’i",
+  "date": "2026-11-13T09:12:23+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/eric-olhats-ancien-mentor-dantoine-griezmann-vise-par-une-nouvelle-enquete-pour-viols-et-agressions-sexuelles-20261028_ISPSFBT7LREA5CSKWGI6DVX3GE/",
   "id": "71e7e0f760f7",
   "title": "Eric Olhats, ancien mentor d’Antoine Griezmann, visé par une nouvelle enquête pour viols et agressions sexuelles",
@@ -426,6 +439,19 @@
   "matched_in": "chapô",
   "lat": 48.4049375,
   "lon": 2.7015872,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/environnement/climat/episode-mediterraneen-dans-le-gard-et-lherault-cest-la-declinaison-locale-de-la-hausse-mondiale-des-temperatures-20260930_SJGPEKZIIFDYNF27XL64QBDXEY/",
+  "id": "d5eb60fcbc5b",
+  "title": "Episode méditerranéen dans le Gard et l’Hérault : «C’est la déclinaison locale de la hausse mondiale des températures»",
+  "subtitle": "L’hydrologue Yves Tramblay, qui a lui-même les pieds dans l’eau dans son village près de Montpellier, rappelle que l’air chaud et les records de chaleur de la Méditerranée contribuent à la violence des pluies extrêmes qui touchent le Sud-Est ce mercredi 30 septembre.",
+  "date": "2026-09-30T17:37:18+00:00",
+  "place": "Montpellier",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.6112422,
+  "lon": 3.8767337,
   "premium": true
  },
  {
@@ -881,45 +907,6 @@
   "matched_in": "chapô",
   "lat": 48.5303402,
   "lon": 2.2392918,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/familles/prevention-des-violences-sexuelles-des-la-maternelle-plus-tot-on-en-parle-plus-vite-les-enfants-seront-sensibilises-et-plus-vite-ils-parleront-20260912_DUMKUULKZVEA7OOKXJRW5IVB2Y/",
-  "id": "92c2dd5addf8",
-  "title": "Prévention des violences sexuelles dès la maternelle : «Plus tôt on en parle, plus vite les enfants seront sensibilisés et plus vite ils parleront»",
-  "subtitle": "Durant plusieurs mois, «Libé» a suivi l’expérimentation à Ivry-sur-Seine de Plume, un programme novateur créé par une ancienne intervenante en commissariat auprès des victimes de violences et une sage-femme et dédié aux plus petits comme aux équipes municipales, dont celle du pér",
-  "date": "2026-09-12T14:41:00+00:00",
-  "place": "Ivry-sur-Seine",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8122302,
-  "lon": 2.3872525,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/transports/cetait-vraiment-assez-choquant-jen-tremble-encore-ce-que-lon-sait-ce-samedi-sur-le-deraillement-du-ter-en-normandie-20260912_CK2OUTDMEBHTRJRVD5C2SEAJIU/",
-  "id": "1d50f9ce65ac",
-  "title": "Acte malveillant, victime grave hors de danger, état du trafic : ce que l’on sait ce samedi sur le déraillement du TER en Normandie",
-  "subtitle": "Un train circulant entre Rouen et Caen a déraillé vendredi soir avec 186 passages à bord, faisant des dizaines de blessés, dont une jeune femme en urgence absolue. Selon les premiers éléments de l’enquête, la piste de l’acte malveillant se précise.",
-  "date": "2026-09-12T13:23:03+00:00",
-  "place": "Normandie",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 49.0677708,
-  "lon": 0.3138532,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/transports/deraillement-du-ter-en-normandie-la-piste-de-lacte-malveillant-se-precise-20260912_7L32GMU75RCI7EOIAWHNU3QATY/",
-  "id": "97c6d8ea650c",
-  "title": "Déraillement du TER en Normandie : la piste de l’acte malveillant se précise",
-  "subtitle": "L’accident survenu vendredi soir sur le réseau ferré à proximité de Rouen aurait été provoqué par un objet volontairement posé, ou fixé, sur les rails, d’après nos informations. Il s’agirait d’un morceau de rail d’environ 300 kilos.",
-  "date": "2026-09-12T12:10:59+00:00",
-  "place": "Normandie",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 49.0677708,
-  "lon": 0.3138532,
   "premium": true
  }
 ]
