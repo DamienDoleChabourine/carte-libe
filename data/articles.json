@@ -843,57 +843,5 @@
   "lat": 48.8387639,
   "lon": 2.4916592,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/transports/rien-ne-permet-devoquer-un-acte-de-malveillance-le-parquet-tempere-les-speculations-autour-dun-attentat-dans-le-deraillement-du-ter-20260913_5TNZNYLX2BH2LLGGT2ZHJMSHWM/",
-  "id": "5645ca28ccc7",
-  "title": "Déraillement du TER en Normandie : «aucune piste n’est exclue» selon le ministre de l’Intérieur",
-  "subtitle": "Acte malveillant ? Attentat ? Interrogé sur France 2 ce dimanche, Laurent Nuñez a appelé à la prudence au sujet du morceau de rail retrouvé sur la voie qui serait à l’origine de l’accident ferroviaire vendredi soir près de Rouen qui a fait 44 blessés.",
-  "date": "2026-09-13T13:38:49+00:00",
-  "place": "Normandie",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 49.0677708,
-  "lon": 0.3138532,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/lifestyle/gastronomie/temas-cake-de-la-seine-saint-denis-a-dubai-lascension-de-la-reine-du-trompe-loeil-20260913_BF3GNJVG7NHRFIW34UQ4FOP2JA/",
-  "id": "883c3d26b81f",
-  "title": "Tema’s Cake : de la Seine-Saint-Denis à Dubaï, l’ascension de la reine du trompe-l’œil",
-  "subtitle": "La créatrice de la marque de gâteaux, Fatima Aouad, s’est fait un nom grâce aux réseaux sociaux. Rencontre avec l’artisane musulmane à succès, qui a misé sur l’incarnation, malgré les attaques haineuses.",
-  "date": "2026-09-13T08:23:00+00:00",
-  "place": "Seine-Saint-Denis",
-  "place_cat": "departement",
-  "matched_in": "titre",
-  "lat": 48.9098125,
-  "lon": 2.4528635,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/culture/cinema/de-marseille-a-paris-le-festival-le-polygone-etoile-debarque-a-la-clef-20260913_6FSRRPKNCZE3PGODXT6ZI6IM34/",
-  "id": "7668a53b4fd9",
-  "title": "De Marseille à Paris, le festival le Polygone étoilé débarque à la Clef",
-  "subtitle": "Le cinéma associatif parisien accueille, du jeudi 17 au dimanche 20 septembre, une programmation en neuf séances pensée par le collectif azuréen le Polygone étoilé.",
-  "date": "2026-09-13T07:16:00+00:00",
-  "place": "Marseille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2963986,
-  "lon": 5.3777888,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/a-marseille-les-residents-de-lehpad-des-jonquilles-sessayent-a-la-zootherapie-cest-la-basse-cour-ici-20260913_ISEUS4BTMJHSLBM3VANGHVEJRA/",
-  "id": "bb408cb739da",
-  "title": "A Marseille, les résidents d’un Ehpad s’essayent à la zoothérapie : «C‘est la basse-cour ici !»",
-  "subtitle": "Les ateliers de médiation animale, quoique non réglementés, se développent à travers la France et sont reconnus par les professionnels pour leurs bienfaits. Reportage dans les Bouches-du-Rhône, en compagnie de résidents qui vont devoir affronter poules et serpent.",
-  "date": "2026-09-13T06:31:00+00:00",
-  "place": "Marseille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2963986,
-  "lon": 5.3777888,
-  "premium": true
  }
 ]
