@@ -804,44 +804,5 @@
   "lat": 47.8757017,
   "lon": -3.9223889,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/en-meeting-a-henin-beaumont-marine-le-pen-lance-une-campagne-mariniste-sous-les-yeux-de-jordan-bardella-20260913_H4B6FJPCHRFM7MESF2C5PMINYA/",
-  "id": "a47e3f874b57",
-  "title": "En meeting à Hénin-Beaumont, Marine Le Pen lance une campagne mariniste sous les yeux de Jordan Bardella",
-  "subtitle": "La candidate du Rassemblement national faisait dimanche 13 septembre sa rentrée politique dans sa circonscription du Pas-de-Calais, sur fond de tensions avec le président de son parti.",
-  "date": "2026-09-13T17:48:15+00:00",
-  "place": "Hénin-Beaumont",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 50.4191721,
-  "lon": 2.9469339,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/international/europe/deraillement-dun-train-en-normandie-concert-de-celine-dion-greve-a-radio-france-lactu-de-ce-week-end-du-12-et-13-septembre-20260913_NMD55I4SWNBKHG2QNY3MMVVOTI/",
-  "id": "eec34a86ea58",
-  "title": "Déraillement d’un train en Normandie, concert de Céline Dion, grève à Radio France… L’actu de ce week-end du 12 et 13 septembre",
-  "subtitle": "La rédaction de «Libération» récapitule les principales actualités de ce week-end.",
-  "date": "2026-09-13T17:34:34+00:00",
-  "place": "Normandie",
-  "place_cat": "region",
-  "matched_in": "titre",
-  "lat": 49.0677708,
-  "lon": 0.3138532,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/coco-a-suivi-pour-vous-le-meeting-de-bruno-retailleau-20260913_SPX3TX25CJCGZIOHVEW6TNCFZI/",
-  "id": "8198d9059fc9",
-  "title": "Coco a suivi pour vous le meeting de Bruno Retailleau",
-  "subtitle": "Notre dessinatrice s’est rendue ce samedi 12 septembre à Nogent-sur-Marne, où le candidat de droite s’adressait aux Jeunes LR, et vous a concocté un reportage dessiné.",
-  "date": "2026-09-13T16:11:50+00:00",
-  "place": "Nogent-sur-Marne",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 48.8387639,
-  "lon": 2.4916592,
-  "premium": true
  }
 ]
