@@ -700,44 +700,5 @@
   "lat": 45.7302268,
   "lon": -0.7212876,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/menaces-de-mort-au-college-un-pere-juge-en-comparution-immediate-a-bordeaux-20260917_ZA2DC7GLRVCXRAIZGWF7MSK2HQ/",
-  "id": "3f96fbcf9ec3",
-  "title": "Menaces de mort au collège : un père jugé en comparution immédiate à Bordeaux",
-  "subtitle": "L’homme âgé de 37 ans a reconnu en garde à vue «avoir bousculé un assistant d’éducation avant de proférer à plusieurs reprises des insultes puis des menaces de mort à son encontre, ainsi qu’à l’encontre de la directrice du collège», précise le parquet.",
-  "date": "2026-09-17T10:40:29+00:00",
-  "place": "Bordeaux",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 44.841225,
-  "lon": -0.5800364,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/a-marseille-un-ex-candidat-aux-municipales-condamne-pour-violences-conjugales-20260917_6AE7TIG5U5FBLDANWDKICZV5TM/",
-  "id": "0758dddbdd9b",
-  "title": "A Marseille, un ex-candidat aux municipales condamné pour violences conjugales",
-  "subtitle": "Mercredi 16 septembre, Erwan Davoux, par ailleurs ancien collaborateur de Martine Vassal, patronne de la droite marseillaise, a été condamné à quatre ans de prison avec sursis et cinq ans d’inéligibilité.",
-  "date": "2026-09-17T10:16:17+00:00",
-  "place": "Marseille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2963986,
-  "lon": 5.3777888,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/conso/hausse-du-prix-du-carburant-les-mobilisations-de-pecheurs-se-poursuivent-dans-lherault-et-a-nice-20260917_DCYEBJVY2JDBXJ26YL6K74I3F4/",
-  "id": "0b396d90f848",
-  "title": "Hausse du prix du carburant : les mobilisations de pêcheurs se poursuivent dans l’Hérault et à Nice",
-  "subtitle": "Pour le deuxième jour consécutif, des manifestants bloquent ce jeudi l’accès aux dépôts pétroliers. La ministre de la Pêche doit les recevoir en fin de matinée.",
-  "date": "2026-09-17T08:13:16+00:00",
-  "place": "Nice",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.7009358,
-  "lon": 7.2683912,
-  "premium": true
  }
 ]
