@@ -739,31 +739,5 @@
   "lat": 43.7009358,
   "lon": 7.2683912,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/au-tribunal-de-saint-malo-limpossible-verite-sur-lincendie-du-cap-frehel-20260917_R5JPPVS27RHKZNIU4ZXHTVW5JQ/",
-  "id": "93b99ed2d0f7",
-  "title": "Au tribunal de Saint-Malo, l’impossible vérité sur l’incendie du cap Fréhel",
-  "subtitle": "Soupçonné d’avoir mis le feu à des landes littorales à Plévenon (Côtes-d’Armor) cet été, un employé communal a été relaxé au bénéfice du doute, mercredi 16 septembre. Le village reste divisé «entre ceux qui n’ont plus beaucoup de doutes et ceux qui ne veulent pas y croire».",
-  "date": "2026-09-17T06:18:28+00:00",
-  "place": "Saint-Malo",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.649518,
-  "lon": -2.0260409,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/international/mark-carney-a-strasbourg-le-canada-et-leurope-en-quete-dune-alliance-unique-20260917_FIUUAZJU2RAZ5FNLERADK7KW5A/",
-  "id": "a63a6e9ff292",
-  "title": "Mark Carney à Strasbourg : le Canada et l’Europe en quête d’une «alliance unique»",
-  "subtitle": "En pleine guerre commerciale avec les Etats-Unis, le Premier ministre canadien doit prononcer jeudi 17 septembre un discours très attendu au Parlement européen, après qu’Ursula von der Leyen a déclaré vouloir faire du Canada un «membre associé» de l’UE.",
-  "date": "2026-09-17T03:45:00+00:00",
-  "place": "Strasbourg",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.584614,
-  "lon": 7.7507127,
-  "premium": true
  }
 ]
