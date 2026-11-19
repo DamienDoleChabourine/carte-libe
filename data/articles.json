@@ -674,18 +674,5 @@
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/le-maire-de-concarneau-place-en-garde-a-vue-dans-le-cadre-dune-enquete-pour-viol-20260917_3QP3AK6CDZCQ7L65RP4PQRA6W4/",
-  "id": "863db4387962",
-  "title": "Le maire de Concarneau mis en examen pour «viol et agression sexuelle»",
-  "subtitle": "Quentin Le Gaillard, édile divers droite de 28 ans, était entendu par la justice depuis jeudi matin. Il a été placé «sous contrôle judiciaire strict», a annoncé ce vendredi 18 septembre le procureur de Quimper.",
-  "date": "2026-09-18T12:38:52+00:00",
-  "place": "Concarneau",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 47.8757017,
-  "lon": -3.9223889,
-  "premium": true
  }
 ]
