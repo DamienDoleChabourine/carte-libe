@@ -687,18 +687,5 @@
   "lat": 47.8757017,
   "lon": -3.9223889,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/sante/a-la-rochelle-face-au-moustique-tigre-il-faut-saffranchir-des-insecticides-20260918_NNZP6DJDYNCIXHPDEXYDLYT4MQ/",
-  "id": "c5fe538fe5c4",
-  "title": "A La Rochelle, face au moustique tigre, «il faut s’affranchir des insecticides»",
-  "subtitle": "Un cas de chikungunya a entraîné la pulvérisation de deltaméthrine pendant la nuit de mercredi 16 à jeudi 17 septembre, dans la ville de Charente-Maritime. Son utilisation, qui suscite des inquiétudes pour la santé humaine, ne pourra être répétée à long terme, alerte un expert.",
-  "date": "2026-09-18T06:26:00+00:00",
-  "place": "Charente-Maritime",
-  "place_cat": "departement",
-  "matched_in": "chapô",
-  "lat": 45.7302268,
-  "lon": -0.7212876,
-  "premium": true
  }
 ]
