@@ -765,31 +765,5 @@
   "lat": 43.6044638,
   "lon": 1.4442433,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/politique/elections/presidentielle-sur-les-terres-de-carole-delga-raphael-glucksmann-veut-refonder-la-gauche-20260919_G7HHTWJRB5FR5J4CEH2FAAISOE/",
-  "id": "507efdc35e9c",
-  "title": "Présidentielle : sur les terres de Carole Delga, Raphaël Glucksmann veut «refonder la gauche»",
-  "subtitle": "Le candidat à la primaire socialiste, invité par la présidente de la région Occitanie ce samedi, a notamment promis de mettre fin «au lobbying des grands céréaliers».",
-  "date": "2026-09-19T17:18:48+00:00",
-  "place": "Occitanie",
-  "place_cat": "region",
-  "matched_in": "chapô",
-  "lat": 43.6487851,
-  "lon": 2.3435684,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/ce-quelle-a-construit-ne-doit-pas-sevanouir-depuis-la-disparition-de-manon-relandeau-des-voisins-solidaires-prennent-soin-de-sa-ferme-20260919_TL3SYUQ7XJEIZHPJ366H3GNKYQ/",
-  "id": "b0abe3bff490",
-  "title": "«Ce qu’elle a construit ne doit pas s’évanouir» : depuis la disparition de Manon Relandeau, des voisins solidaires prennent soin de sa ferme",
-  "subtitle": "La trentenaire installée près de Nantes, dont le conjoint a été arrêté en Algérie, est introuvable depuis près de six mois. Malgré les embûches administratives, des agriculteurs se sont unis pour s’occuper de ses vaches, chevaux et brebis, et apporter du réconfort à sa famille dé",
-  "date": "2026-09-19T15:45:00+00:00",
-  "place": "Nantes",
-  "place_cat": "ville",
-  "matched_in": "chapô",
-  "lat": 47.2186371,
-  "lon": -1.5541362,
-  "premium": true
  }
 ]
