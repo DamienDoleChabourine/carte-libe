@@ -1,5 +1,44 @@
 [
  {
+  "url": "https://www.liberation.fr/societe/police-justice/detention-dimages-pedopornographiques-le-directeur-de-la-prison-daix-luynes-en-garde-a-vue-20261117_5CAYSCENUBAHNJ3QONLY4CR5A4/",
+  "id": "d0e2e8964071",
+  "title": "Détention d’images pédopornographiques : le directeur de la prison d’Aix-Luynes mis en examen et écroué",
+  "subtitle": "L’homme a été interpellé mardi, dans le cadre d’une vaste opération nationale de lutte contre la pédopornographie, lors de laquelle les enquêteurs ont identifié 32 personnes, selon la procureure de Nîmes.",
+  "date": "2026-11-19T14:54:31+00:00",
+  "place": "Nîmes",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.8374249,
+  "lon": 4.3600687,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/presomption-de-legitime-defense-pour-les-forces-de-lordre-michel-zecler-horrifie-par-le-texte-debattu-ce-jeudi-au-senat-20261119_TG4SDQOAHBA7BK45R2G2ZLQZPE/",
+  "id": "80cc1a52bd02",
+  "title": "Présomption de légitime défense pour les forces de l’ordre : Michel Zecler «horrifié» par le texte débattu ce jeudi au Sénat",
+  "subtitle": "Les trois policiers qui ont violemment interpellé le producteur de musique sont jugés jusqu’à vendredi à Paris. Le Sénat se prononce ce jeudi sur le texte instaurant un régime dérogatoire pour les policiers et gendarmes inquiétés par la justice en cas d’usage de leur arme.",
+  "date": "2026-11-19T08:38:03+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/immigration/regularisation-des-travailleurs-sans-papiers-je-reve-de-devenir-un-citoyen-normal-20261118_3H6RQDROFNCLVAZMAKU4DS2GR4/",
+  "id": "5223dac4c0f9",
+  "title": "Régularisation des travailleurs sans papiers : «Je rêve de devenir un citoyen normal»",
+  "subtitle": "Une proposition de loi socialiste, soutenue par l’ensemble de la gauche et qui vise à accorder des titres de séjour aux travailleurs étrangers, est examinée ce jeudi 19 novembre à l’Assemblée nationale. De la Drôme à Paris, les premiers concernés – travailleurs comme employeurs –",
+  "date": "2026-11-18T18:23:21+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/idees-et-debats/editorial/13-novembre-13-artistes-pour-se-souvenir-20251110_2HLWVLMAJJDFBGOKOXWIRR2ESY/",
   "id": "bfb2de21e0fa",
   "title": "13 Novembre : 13 artistes pour se souvenir",
@@ -8,6 +47,45 @@
   "place": "Paris",
   "place_cat": "ville",
   "matched_in": "chapô",
+  "lat": 48.8534951,
+  "lon": 2.3483915,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/marseille-un-homme-condamne-a-cinq-ans-de-prison-pour-avoir-tente-dextorquer-linfluenceuse-carla-moreau-en-se-faisant-passer-pour-la-dz-mafia-20261111_3SPSTXDXNRA6FHPYPB4KEM3SYA/",
+  "id": "f06905905ad8",
+  "title": "Marseille : un homme condamné à cinq ans de prison pour avoir tenté de racketter l’influenceuse Carla Moreau en se faisant passer pour la «DZ Mafia»",
+  "subtitle": "Deux autres prévenus ont été relaxés à l’issue du procès qui s’est tenu dans la nuit de mardi à mercredi 11 novembre. Les faits remontent à l’été dernier, lorsqu’une voiture a été incendiée dans la propriété marseillaise de Carla Moreau.",
+  "date": "2026-11-11T15:54:13+00:00",
+  "place": "Marseille",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.2963986,
+  "lon": 5.3777888,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/sante/a-lyon-des-virus-medicaments-developpes-en-alternative-aux-antibiotiques-on-allait-me-couper-la-jambe-et-grace-aux-phages-je-remarche-20261110_W5XPIMPMRNG27FENQZR3VSTXDM/",
+  "id": "9963d705d54f",
+  "title": "A Lyon, des virus-médicaments développés en alternative aux antibiotiques : «On allait me couper la jambe et grâce aux phages, je remarche»",
+  "subtitle": "Pour la première fois en France, une équipe des Hospices civils de Lyon a obtenu l’autorisation de fabriquer des traitements personnalisés à partir de phages, ces organismes capables d’éliminer des bactéries pathogènes. Une option prometteuse, malgré son coût, face à la menace de",
+  "date": "2026-11-10T05:51:00+00:00",
+  "place": "Lyon",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 45.7578137,
+  "lon": 4.8320114,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/police-justice/quand-la-police-intervient-un-eleve-finit-aux-urgences-a-paris-lyceens-et-professeurs-denoncent-une-intervention-policiere-violente-20261103_3F26UHE345CJ5CL7G5R2A52JMA/",
+  "id": "594c389f0d53",
+  "title": "«Quand la police intervient, un élève finit aux urgences» : à Paris, lycéens et professeurs dénoncent une intervention policière violente",
+  "subtitle": "Un élève du lycée Victor-Hugo, dans le IIIe arrondissement de Paris, a été emmené aux urgences ce mardi 3 novembre après une intervention policière dans la matinée. L’établissement a finalement été bloqué et pourrait le rester jusqu’à la fin de la semaine.",
+  "date": "2026-11-03T20:21:08+00:00",
+  "place": "Paris",
+  "place_cat": "ville",
+  "matched_in": "titre",
   "lat": 48.8534951,
   "lon": 2.3483915,
   "premium": true
@@ -104,6 +182,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/en-images-les-mobilisations-du-24-octobre-dans-le-regard-des-photographes-20261025_IGBH5T6QSJBJDHZT2OIQSHDWFU/",
+  "id": "406c9b1ee257",
+  "title": "EN IMAGES – Les mobilisations du 24 octobre dans le regard des photographes",
+  "subtitle": "Revendications, dénonciations, humour et créativité dans les images des photographes de «Libération» présents dans les cortèges de Paris, Orléans et Marseille samedi 24 octobre.",
+  "date": "2026-10-25T10:18:48+00:00",
+  "place": "Marseille",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 43.2963986,
+  "lon": 5.3777888,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/societe/police-justice/en-direct-attaque-dans-les-yvelines-un-club-mma-francilien-rend-hommage-a-pengo-le-jeune-homme-de-26-ans-tue-a-trappes-20261024_QFOWDJ375JGU5CQVNCE3TCO2OM/",
   "id": "5d01e153a272",
   "title": "Attentat raciste dans les Yvelines : le livre de Hitler «Mein Kampf» retrouvé au domicile du tireur",
@@ -192,6 +283,19 @@
   "matched_in": "chapô",
   "lat": 43.5298424,
   "lon": 5.4474738,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/politique/limoges-paris-marseille-lyon-apres-les-degradations-du-17-octobre-les-maires-demandent-des-comptes-20261018_A5EPOPVGWVCNNCGVRXH55ABQTU/",
+  "id": "58c353d0bca4",
+  "title": "Limoges, Paris, Marseille, Lyon… Après les dégradations du 17 octobre, les maires demandent des comptes",
+  "subtitle": "Déconcertés par les attaques contre des bâtiments publics et des commerces, comme par la désorganisation de la réponse policière, plusieurs édiles de grandes villes ont exigé dimanche des explications et un soutien du gouvernement.",
+  "date": "2026-10-18T18:13:12+00:00",
+  "place": "Marseille",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.2963986,
+  "lon": 5.3777888,
   "premium": true
  },
  {
@@ -429,6 +533,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/consommation-de-crack-a-marseille-il-faut-une-reponse-a-la-hauteur-de-la-deuxieme-ville-de-france-20261001_K4ZOHIZTHJFK5H2KCVQREEYTII/",
+  "id": "81e8acb21d09",
+  "title": "Consommation de crack à Marseille : «Il faut une réponse à la hauteur de la deuxième ville de France»",
+  "subtitle": "Depuis plusieurs semaines, les associations de première ligne alertent sur une situation de plus en plus dramatique dans les rues du centre-ville. Elles en appellent à l’Etat pour la mise en place urgente d’un plan global.",
+  "date": "2026-10-01T12:29:20+00:00",
+  "place": "Marseille",
+  "place_cat": "ville",
+  "matched_in": "titre",
+  "lat": 43.2963986,
+  "lon": 5.3777888,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/environnement/pollution/canicules-et-incendies-en-ile-de-france-un-ete-marque-par-une-pollution-record-depuis-plus-de-vingt-ans-20261001_JYUXMSBMDZHF7NUAYB7KQDHJAU/",
   "id": "d6c7412603a7",
   "title": "Canicules et incendies : en Ile-de-France, un été marqué par une pollution record depuis plus de vingt ans",
@@ -660,6 +777,19 @@
   "matched_in": "chapô",
   "lat": 43.6487851,
   "lon": 2.3435684,
+  "premium": true
+ },
+ {
+  "url": "https://www.liberation.fr/societe/ce-quelle-a-construit-ne-doit-pas-sevanouir-depuis-la-disparition-de-manon-relandeau-des-voisins-solidaires-prennent-soin-de-sa-ferme-20260919_TL3SYUQ7XJEIZHPJ366H3GNKYQ/",
+  "id": "b0abe3bff490",
+  "title": "«Ce qu’elle a construit ne doit pas s’évanouir» : depuis la disparition de Manon Relandeau, des voisins solidaires prennent soin de sa ferme",
+  "subtitle": "La trentenaire installée près de Nantes, dont le conjoint a été arrêté en Algérie, est introuvable depuis près de six mois. Malgré les embûches administratives, des agriculteurs se sont unis pour s’occuper de ses vaches, chevaux et brebis, et apporter du réconfort à sa famille dé",
+  "date": "2026-09-19T15:45:00+00:00",
+  "place": "Nantes",
+  "place_cat": "ville",
+  "matched_in": "chapô",
+  "lat": 47.2186371,
+  "lon": -1.5541362,
   "premium": true
  }
 ]
