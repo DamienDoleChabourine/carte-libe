@@ -752,18 +752,5 @@
   "lat": 49.0508845,
   "lon": 2.1008067,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/un-ter-percute-une-voiture-pres-de-toulouse-la-conductrice-en-urgence-absolue-20260921_6U7K2VPFFJGRBGDWJOQJZMGUMI/",
-  "id": "03f4f5cdb262",
-  "title": "Un TER percute une voiture près de Toulouse, la conductrice en urgence absolue",
-  "subtitle": "La femme d’environ 40 ans a été transportée à l’hôpital. Le trafic est interrompu entre Toulouse et Narbonne jusqu’à au moins midi ce lundi.",
-  "date": "2026-09-21T06:27:03+00:00",
-  "place": "Toulouse",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.6044638,
-  "lon": 1.4442433,
-  "premium": true
  }
 ]
