@@ -39,6 +39,19 @@
   "premium": true
  },
  {
+  "url": "https://www.liberation.fr/societe/police-justice/guadeloupe-des-tirs-font-un-mort-et-plusieurs-blesses-lors-dune-soiree-20261115_INCPTYTDFFHIXNUTKN3N2JYUGQ/",
+  "id": "3a4753545ba9",
+  "title": "Guadeloupe : des tirs font un mort et plusieurs blessés lors d’une soirée",
+  "subtitle": "La fusillade a eu lieu en marge d’une fête privée qui réunissait 300 personnes dans une villa, samedi 14 novembre aux Abymes, dans l’agglomération de Pointe-à-Pitre.",
+  "date": "2026-11-15T18:15:49+00:00",
+  "place": "Guadeloupe",
+  "place_cat": "territoire",
+  "matched_in": "titre",
+  "lat": 16.2528827,
+  "lon": -61.5686855,
+  "premium": true
+ },
+ {
   "url": "https://www.liberation.fr/idees-et-debats/editorial/13-novembre-13-artistes-pour-se-souvenir-20251110_2HLWVLMAJJDFBGOKOXWIRR2ESY/",
   "id": "bfb2de21e0fa",
   "title": "13 Novembre : 13 artistes pour se souvenir",
