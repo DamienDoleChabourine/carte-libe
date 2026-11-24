@@ -713,31 +713,5 @@
   "lat": 43.6112422,
   "lon": 3.8767337,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/culture/livres/limage-de-paris-qui-domine-cest-son-rapport-ambigu-vis-a-vis-de-letat-20260923_HFRI4NAIINDQFCIMNNO7PUKGLY/",
-  "id": "912f49f18fca",
-  "title": "«L’image de Paris qui domine, c’est son rapport ambigu vis-à-vis de l’Etat»",
-  "subtitle": "Isabelle Backouche, Boris Bove et Nicolas Lyon-Caen dressent un portrait historique majeur de la ville, dont le développement tient plus à l’énergie de ses habitants qu’à la volonté des souverains.",
-  "date": "2026-09-23T15:47:00+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
- },
- {
-  "url": "https://www.liberation.fr/societe/police-justice/marseille-le-maire-benoit-payan-vise-par-une-enquete-apres-un-echange-telephonique-violent-20260923_N2S4Y2SJFRAE5GUCL2DNX34IHQ/",
-  "id": "a38622c842e2",
-  "title": "Marseille : le maire Benoît Payan visé par une enquête après un échange téléphonique violent",
-  "subtitle": "Un maire d’une commune de la métropole marseillaise accuse l’édile divers gauche de la deuxième ville de France de l’avoir menacé par téléphone en représailles d’une décision qui lui aurait déplu. Ce dernier conteste les propos allégués.",
-  "date": "2026-09-23T08:41:55+00:00",
-  "place": "Marseille",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 43.2963986,
-  "lon": 5.3777888,
-  "premium": true
  }
 ]
