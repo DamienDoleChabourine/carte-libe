@@ -687,18 +687,5 @@
   "lat": 45.7774551,
   "lon": 3.0819427,
   "premium": true
- },
- {
-  "url": "https://www.liberation.fr/economie/transports/grand-paris-express-avec-le-report-des-lignes-16-et-17-une-spirale-de-retards-interminable-20260925_6VQEYEKU6RFW7EKIHQUF7ZEU4E/",
-  "id": "2e836c63a93d",
-  "title": "Grand Paris Express : avec le report des lignes 16 et 17, une spirale de retards interminable",
-  "subtitle": "Promis pour 2025, le nouveau réseau de métro automatique francilien continue de jouer les prolongations. Après le report de la ligne 15, les lignes 16 et 17 sont à leur tour décalées, tandis que la Société des grands projets maintient l’objectif de décembre pour un premier tronço",
-  "date": "2026-09-25T14:53:14+00:00",
-  "place": "Paris",
-  "place_cat": "ville",
-  "matched_in": "titre",
-  "lat": 48.8534951,
-  "lon": 2.3483915,
-  "premium": true
  }
 ]
